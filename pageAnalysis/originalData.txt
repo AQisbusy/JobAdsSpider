@@ -1,0 +1,580 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+<meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible"/>
+<link href="/favicon.ico" rel="icon" type="image/x-icon"/>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>【青岛,.net招聘，求职】-前程无忧</title>
+<meta content="前程无忧为您提供青岛,.net招聘，求职信息。网聚全国各城市的人才信息，找好工作，找好员工，上前程无忧。" name="description"/>
+<meta content="找工作,求职,人才,招聘" name="keywords"/>
+<meta content="format=html5; url=https://m.51job.com/search/joblist.php?jobarea=120300&amp;keyword=.net&amp;partner=webmeta" name="mobile-agent"/>
+<meta content="format=xhtml; url=https://m.51job.com/search/joblist.php?jobarea=120300&amp;keyword=.net&amp;partner=webmeta" name="mobile-agent"/>
+<meta content="all" name="robots"/>
+<meta content="0" http-equiv="Expires"/>
+<meta content="no-cache" http-equiv="Cache-Control"/>
+<meta content="no-cache" http-equiv="Pragma"/>
+<link href="//js.51jobcdn.com" rel="dns-prefetch"/>
+<link href="//img01.51jobcdn.com" rel="dns-prefetch"/>
+<link href="//img02.51jobcdn.com" rel="dns-prefetch"/>
+<link href="//img03.51jobcdn.com" rel="dns-prefetch"/>
+<link href="//img04.51jobcdn.com" rel="dns-prefetch"/>
+<link href="//img05.51jobcdn.com" rel="dns-prefetch"/>
+<link href="//img06.51jobcdn.com" rel="dns-prefetch"/>
+<script language="javascript" src="//js.51jobcdn.com/in/js/2016/jquery.js?20180319"></script>
+<script language="javascript">
+    var _tkd = _tkd || []; //点击量统计用
+    var lang = [];
+    var supporthttps = 1; //浏览器是否支持https
+    var currenthttps = (window.location.protocol === 'https:') ? '1' : '0'; //当前是否为https
+    var systemtime = 1631880666074;
+    var d_system_client_time = systemtime - new Date().getTime();
+    var trackConfig = {
+        'guid': '',
+        'ip': '123.168.102.237',
+        'accountid': '',
+        'refpage': '',
+        'refdomain': '',
+        'domain': 'search.51job.com',
+        'pageName': 'index.php',
+        'partner': '',
+        'islanding': '0',
+        'fromdomain': '51job_pc',
+    };
+    window.cfg = {
+        lang:'c',
+        domain : {
+            my : 'http://my.51job.com',
+            login : 'https://login.51job.com',
+            search : 'https://search.51job.com',
+            www : '//www.51job.com',
+            jobs : 'https://jobs.51job.com',
+            jianli : 'https://jianli.51job.com',
+            i : '//i.51job.com',
+            jc : '//jc.51job.com',
+            map : 'https://map.51job.com',
+            m : 'https://m.51job.com',
+            cdn : '//js.51jobcdn.com',
+            help : 'https://help.51job.com',
+            img : '//img04.51jobcdn.com',
+            dj : '//dj.51job.com',
+            mdj : '//mdj.51job.com',
+            mq : '//mq.51job.com',
+            mmq : '//mmq.51job.com',
+            kbc : 'https://kbc.51job.com',
+            mtr : 'https://medu.51job.com',
+            tr : 'https://edu.51job.com',
+        }
+    };
+
+window.cfg.lang = 'c';
+window.cfg.fullLang = 'Chinese';
+window.cfg.url = {
+root : 'https://search.51job.com',
+image : '//img01.51jobcdn.com/im/2009',
+image_search : '//img03.51jobcdn.com/im/2009/search',
+i : '//i.51job.com'
+}
+window.cfg.fileName = 'index.php';
+window.cfg.root = 'https://search.51job.com';
+window.cfg.root_userset_ajax = '//i.51job.com/userset/ajax';
+window.cfg.isSearchDomain = '1';
+window.cfg.langs = {
+sqzwml : 'applyjob',
+qzzwqdg : '请在要选择的职位前打勾!',
+myml : 'my',
+ts_qxjzw : '请选择职位',
+queren : '确认',
+guanbi : '关闭',
+nzdnxj : '您最多能选择',
+xiang : '项',
+xzdq : '选择地区',
+xj_xg : '选择/修改',
+zycs : '主要城市',
+sysf : '所有省份',
+tspd : '特殊频道',
+buxian : '不限',
+qingxj : '请选择',
+yixuan : '已选',
+znlb : '职能类别',
+hylb : '行业类别',
+gzdd : '工作地点',
+quanbu : '全部',
+zhineng : '职能',
+hangye : '行业',
+didian : '地点',
+qsrgjz : '请输入关键字',
+srpcgjz : '输入排除关键字'
+}
+window.cfg.stype = '1';
+window.cfg.isJobview = '1';
+</script>
+<script src="//js.51jobcdn.com/in/js/2016/pointtrack.js?20210511" type="text/javascript"></script>
+<script language="javascript" src="//js.51jobcdn.com/in/js/2016/login/jquery.placeholder.min.js"></script>
+<link href="//js.51jobcdn.com/in/resource/css/2021/search/common.3664f40c.css" rel="stylesheet"/>
+<link href="//js.51jobcdn.com/in/resource/css/2021/search/index.d5c06042.css" rel="stylesheet"/>
+<link href="//js.51jobcdn.com/in/resource/css/2021/search/utils.header.91d43fda.css" rel="stylesheet"/>
+</head>
+<body>
+<script src="//js.51jobcdn.com/in/resource/js/2021/search/utils.header.542ede0b.js" type="text/javascript"></script>
+<div class="header">
+<!-- bar start -->
+<div class="bar">
+<div class="in">
+<div class="language">
+<ul id="languagelist">
+<li class="tle"><span class="list">简</span></li><li class="last"><a href="//www.51job.com/default-e.php" rel="external nofollow">EN</a></li> </ul>
+</div>
+<span class="l"> </span>
+<div class="app">
+<ul>
+<li><em class="e_icon"></em><a href="http://app.51job.com/index.html">APP下载</a></li>
+<li>
+<img alt="app download" height="80" src="//img02.51jobcdn.com/im/2016/code/new_app.png" width="80"/>
+<p><a href="http://app.51job.com/index.html">APP下载</a></p></li></ul></div></div></div></div></body></html>
+
+
+
+<div class="uer">
+<p class="op">
+<a href="https://login.51job.com/login.php?lang=c&amp;url=http%3A%2F%2Fsearch.51job.com%2Flist%2F120300%2C000000%2C0000%2C00%2C9%2C99%2C.net%2C2%2C1.html%3Flang%3Dc%26postchannel%3D0000%26workyear%3D99%26cotype%3D99%26degreefrom%3D99%26jobterm%3D99%26companysize%3D99%26ord_field%3D0%26dibiaoid%3D0%26line%3D%26welfare%3D" rel="external nofollow">登录</a> / <a href="https://login.51job.com/register.php?lang=c&amp;url=http%3A%2F%2Fsearch.51job.com%2Flist%2F120300%2C000000%2C0000%2C00%2C9%2C99%2C.net%2C2%2C1.html%3Flang%3Dc%26postchannel%3D0000%26workyear%3D99%26cotype%3D99%26degreefrom%3D99%26jobterm%3D99%26companysize%3D99%26ord_field%3D0%26dibiaoid%3D0%26line%3D%26welfare%3D" rel="external nofollow">注册</a> </p>
+</div>
+<p class="rlk">
+<a href="//baike.51job.com" target="_blank">职场百科</a>
+<span class="lb"> </span>
+<a href="//wenku.51job.com" target="_blank">职场文库</a>
+<span class="lb"> </span>
+<a href="https://jobs.51job.com" target="_blank">招聘信息</a> <span class="lb"> </span>
+<a href="https://ehire.51job.com" target="_blank">我要招聘</a> </p>
+
+
+<!-- top end -->
+<!-- 英文版为body添加class -->
+<script>
+</script>
+<!-- nag start -->
+<div class="pop-city" id="area_channel_layer" style="display:none;position: absolute; z-index: 1000;">
+<div class="tle">
+        地区选择        <em class="close" onclick="jvascript:$('#area_channel_layer,#area_channel_layer_backdrop').hide();"></em>
+</div>
+<div class="pcon">
+<div class="ht">
+<label>热门城市</label><a href="//www.51job.com/beijing/">北京</a><a href="//www.51job.com/shanghai/">上海</a><a href="//www.51job.com/guangzhou/">广州</a><a href="//www.51job.com/shenzhen/">深圳</a><a href="//www.51job.com/wuhan/">武汉</a><a href="//www.51job.com/xian/">西安</a><a href="//www.51job.com/hangzhou/">杭州</a><a href="//www.51job.com/nanjing/">南京</a><a href="//www.51job.com/chengdu/">成都</a><a href="//www.51job.com/chongqing/">重庆</a> </div>
+<div class="cbox">
+<ul id="area_channel_layer_list">
+<li class="on" onclick="areaChannelChangeTab('abc', this)">A B C</li>
+<li onclick="areaChannelChangeTab('def', this)">D E F</li>
+<li onclick="areaChannelChangeTab('gh', this)">G H</li>
+<li onclick="areaChannelChangeTab('jkl', this)">J K L</li>
+<li onclick="areaChannelChangeTab('mnp', this)">M N P</li>
+<li onclick="areaChannelChangeTab('qrs', this)">Q R S</li>
+<li onclick="areaChannelChangeTab('twx', this)">T W X</li>
+<li onclick="areaChannelChangeTab('yz', this)">Y Z</li>
+</ul>
+<div class="clst" id="area_channel_layer_all">
+<div class="e" name="area_channel_div_abc">
+<span><a href="//www.51job.com/anshan/">鞍山</a></span>
+<span><a href="//www.51job.com/anqing/">安庆</a></span>
+<span><a href="//www.51job.com/anyang/">安阳</a></span>
+<span><a href="//www.51job.com/beijing/">北京</a></span>
+<span><a href="//www.51job.com/baotou/">包头</a></span>
+<span><a href="//www.51job.com/baoding/">保定</a></span>
+<span><a href="//www.51job.com/bengbu/">蚌埠</a></span>
+<span><a href="//www.51job.com/baoji/">宝鸡</a></span>
+<span><a href="//www.51job.com/binzhou/">滨州</a></span>
+<span><a href="//www.51job.com/changchun/">长春</a></span>
+<span><a href="//www.51job.com/changsha/">长沙</a></span>
+<span><a href="//www.51job.com/chengdu/">成都</a></span>
+<span><a href="//www.51job.com/chongqing/">重庆</a></span>
+<span><a href="//www.51job.com/changzhou/">常州</a></span>
+<span><a href="//www.51job.com/changde/">常德</a></span>
+<span><a href="//www.51job.com/changshu/">常熟</a></span>
+<span><a href="//www.51job.com/cangzhou/">沧州</a></span>
+<span><a href="//www.51job.com/chaozhou/">潮州</a></span>
+<span><a href="//www.51job.com/chenzhou/">郴州</a></span>
+<span><a href="//www.51job.com/chifeng/">赤峰</a></span>
+<span><a href="//www.51job.com/chuzhou/">滁州</a></span>
+<span><a href="//www.51job.com/changzhi/">长治</a></span>
+</div>
+<div class="e" name="area_channel_div_def" style="display:none">
+<span><a href="//www.51job.com/dalian/">大连</a></span>
+<span><a href="//www.51job.com/dongguan/">东莞</a></span>
+<span><a href="//www.51job.com/dandong/">丹东</a></span>
+<span><a href="//www.51job.com/daqing/">大庆</a></span>
+<span><a href="//www.51job.com/dazhou/">达州</a></span>
+<span><a href="//www.51job.com/datong/">大同</a></span>
+<span><a href="//www.51job.com/deyang/">德阳</a></span>
+<span><a href="//www.51job.com/dezhou/">德州</a></span>
+<span><a href="//www.51job.com/dongying/">东营</a></span>
+<span><a href="//www.51job.com/errduosi/">鄂尔多斯</a></span>
+<span><a href="//www.51job.com/ezhou/">鄂州</a></span>
+<span><a href="//www.51job.com/fuzhou/">福州</a></span>
+<span><a href="//www.51job.com/foshan/">佛山</a></span>
+<span><a href="//www.51job.com/fushun/">抚顺</a></span>
+<span><a href="//www.51job.com/fuzhoue/">抚州</a></span>
+<span><a href="//www.51job.com/fuyang/">阜阳</a></span>
+</div>
+<div class="e" name="area_channel_div_gh" style="display:none">
+<span><a href="//www.51job.com/guangzhou/">广州</a></span>
+<span><a href="//www.51job.com/guiyang/">贵阳</a></span>
+<span><a href="//www.51job.com/ganzhou/">赣州</a></span>
+<span><a href="//www.51job.com/guangan/">广安</a></span>
+<span><a href="//www.51job.com/guangyuan/">广元</a></span>
+<span><a href="//www.51job.com/guigang/">贵港</a></span>
+<span><a href="//www.51job.com/guilin/">桂林</a></span>
+<span><a href="//www.51job.com/harbin/">哈尔滨</a></span>
+<span><a href="//www.51job.com/hangzhou/">杭州</a></span>
+<span><a href="//www.51job.com/hefei/">合肥</a></span>
+<span><a href="//www.51job.com/haikou/">海口</a></span>
+<span><a href="//www.51job.com/huhhot/">呼和浩特</a></span>
+<span><a href="//www.51job.com/huizhou/">惠州</a></span>
+<span><a href="//www.51job.com/hengyang/">衡阳</a></span>
+<span><a href="//www.51job.com/huaian/">淮安</a></span>
+<span><a href="//www.51job.com/huzhou/">湖州</a></span>
+<span><a href="//www.51job.com/handan/">邯郸</a></span>
+<span><a href="//www.51job.com/hanzhong/">汉中</a></span>
+<span><a href="//www.51job.com/heyuan/">河源</a></span>
+<span><a href="//www.51job.com/heze/">菏泽</a></span>
+<span><a href="//www.51job.com/hengshui/">衡水</a></span>
+<span><a href="//www.51job.com/huaihua/">怀化</a></span>
+<span><a href="//www.51job.com/huaibei/">淮北</a></span>
+<span><a href="//www.51job.com/huainan/">淮南</a></span>
+<span><a href="//www.51job.com/huanggang/">黄冈</a></span>
+<span><a href="//www.51job.com/huangshi/">黄石</a></span>
+</div>
+<div class="e" name="area_channel_div_jkl" style="display:none">
+<span><a href="//www.51job.com/jinan/">济南</a></span>
+<span><a href="//www.51job.com/jiaxing/">嘉兴</a></span>
+<span><a href="//www.51job.com/jinhua/">金华</a></span>
+<span><a href="//www.51job.com/jilin/">吉林</a></span>
+<span><a href="//www.51job.com/jiangmen/">江门</a></span>
+<span><a href="//www.51job.com/jingzhou/">荆州</a></span>
+<span><a href="//www.51job.com/jining/">济宁</a></span>
+<span><a href="//www.51job.com/jiujiang/">九江</a></span>
+<span><a href="//www.51job.com/jian/">吉安</a></span>
+<span><a href="//www.51job.com/jiaozuo/">焦作</a></span>
+<span><a href="//www.51job.com/jieyang/">揭阳</a></span>
+<span><a href="//www.51job.com/jinzhou/">锦州</a></span>
+<span><a href="//www.51job.com/jinzhong/">晋中</a></span>
+<span><a href="//www.51job.com/jingmen/">荆门</a></span>
+<span><a href="//www.51job.com/kunming/">昆明</a></span>
+<span><a href="//www.51job.com/kunshan/">昆山</a></span>
+<span><a href="//www.51job.com/kaifeng/">开封</a></span>
+<span><a href="//www.51job.com/lhasa/">拉萨</a></span>
+<span><a href="//www.51job.com/lanzhou/">兰州</a></span>
+<span><a href="//www.51job.com/langfang/">廊坊</a></span>
+<span><a href="//www.51job.com/linyi/">临沂</a></span>
+<span><a href="//www.51job.com/luoyang/">洛阳</a></span>
+<span><a href="//www.51job.com/lianyungang/">连云港</a></span>
+<span><a href="//www.51job.com/liuzhou/">柳州</a></span>
+<span><a href="//www.51job.com/leshan/">乐山</a></span>
+<span><a href="//www.51job.com/liaocheng/">聊城</a></span>
+<span><a href="//www.51job.com/linfen/">临汾</a></span>
+<span><a href="//www.51job.com/luan/">六安</a></span>
+<span><a href="//www.51job.com/loudi/">娄底</a></span>
+<span><a href="//www.51job.com/luzhou/">泸州</a></span>
+<span><a href="//www.51job.com/luohe/">漯河</a></span>
+</div>
+<div class="e" name="area_channel_div_mnp" style="display:none">
+<span><a href="//www.51job.com/mianyang/">绵阳</a></span>
+<span><a href="//www.51job.com/maanshan/">马鞍山</a></span>
+<span><a href="//www.51job.com/maoming/">茂名</a></span>
+<span><a href="//www.51job.com/meishan/">眉山</a></span>
+<span><a href="//www.51job.com/meizhou/">梅州</a></span>
+<span><a href="//www.51job.com/nanjing/">南京</a></span>
+<span><a href="//www.51job.com/ningbo/">宁波</a></span>
+<span><a href="//www.51job.com/nanchang/">南昌</a></span>
+<span><a href="//www.51job.com/nantong/">南通</a></span>
+<span><a href="//www.51job.com/nanning/">南宁</a></span>
+<span><a href="//www.51job.com/nanchong/">南充</a></span>
+<span><a href="//www.51job.com/nanyang/">南阳</a></span>
+<span><a href="//www.51job.com/neijiang/">内江</a></span>
+<span><a href="//www.51job.com/ningde/">宁德</a></span>
+<span><a href="//www.51job.com/pingdingshan/">平顶山</a></span>
+<span><a href="//www.51job.com/putian/">莆田</a></span>
+<span><a href="//www.51job.com/puyang/">濮阳</a></span>
+</div>
+<div class="e" name="area_channel_div_qrs" style="display:none">
+<span><a href="//www.51job.com/qingdao/">青岛</a></span>
+<span><a href="//www.51job.com/quanzhou/">泉州</a></span>
+<span><a href="//www.51job.com/qinhuangdao/">秦皇岛</a></span>
+<span><a href="//www.51job.com/qingyuan/">清远</a></span>
+<span><a href="//www.51job.com/qiqihaer/">齐齐哈尔</a></span>
+<span><a href="//www.51job.com/quzhou/">衢州</a></span>
+<span><a href="//www.51job.com/qujing/">曲靖</a></span>
+<span><a href="//www.51job.com/rizhao/">日照</a></span>
+<span><a href="//www.51job.com/shanghai/">上海</a></span>
+<span><a href="//www.51job.com/shenzhen/">深圳</a></span>
+<span><a href="//www.51job.com/shenyang/">沈阳</a></span>
+<span><a href="//www.51job.com/shijiazhuang/">石家庄</a></span>
+<span><a href="//www.51job.com/suzhou/">苏州</a></span>
+<span><a href="//www.51job.com/sanya/">三亚</a></span>
+<span><a href="//www.51job.com/shaoxing/">绍兴</a></span>
+<span><a href="//www.51job.com/shantou/">汕头</a></span>
+<span><a href="//www.51job.com/shanwei/">汕尾</a></span>
+<span><a href="//www.51job.com/shangqiu/">商丘</a></span>
+<span><a href="//www.51job.com/shangrao/">上饶</a></span>
+<span><a href="//www.51job.com/shaoguan/">韶关</a></span>
+<span><a href="//www.51job.com/shaoyang/">邵阳</a></span>
+<span><a href="//www.51job.com/shiyan/">十堰</a></span>
+<span><a href="//www.51job.com/suizhou/">随州</a></span>
+<span><a href="//www.51job.com/suining/">遂宁</a></span>
+<span><a href="//www.51job.com/suqian/">宿迁</a></span>
+<span><a href="//www.51job.com/suzhoue/">宿州</a></span>
+</div>
+<div class="e" name="area_channel_div_twx" style="display:none">
+<span><a href="//www.51job.com/tianjin/">天津</a></span>
+<span><a href="//www.51job.com/taiyuan/">太原</a></span>
+<span><a href="//www.51job.com/taizhoue/">台州</a></span>
+<span><a href="//www.51job.com/tangshan/">唐山</a></span>
+<span><a href="//www.51job.com/taizhou/">泰州</a></span>
+<span><a href="//www.51job.com/tieling/">铁岭</a></span>
+<span><a href="//www.51job.com/taian/">泰安</a></span>
+<span><a href="//www.51job.com/wuhan/">武汉</a></span>
+<span><a href="//www.51job.com/wuxi/">无锡</a></span>
+<span><a href="//www.51job.com/wenzhou/">温州</a></span>
+<span><a href="//www.51job.com/urumqi/">乌鲁木齐</a></span>
+<span><a href="//www.51job.com/wuhu/">芜湖</a></span>
+<span><a href="//www.51job.com/weifang/">潍坊</a></span>
+<span><a href="//www.51job.com/weihai/">威海</a></span>
+<span><a href="//www.51job.com/weinan/">渭南</a></span>
+<span><a href="//www.51job.com/xian/">西安</a></span>
+<span><a href="//www.51job.com/xiamen/">厦门</a></span>
+<span><a href="//www.51job.com/xuzhou/">徐州</a></span>
+<span><a href="//www.51job.com/xiangyang/">襄阳</a></span>
+<span><a href="//www.51job.com/xiangtan/">湘潭</a></span>
+<span><a href="//www.51job.com/xianyang/">咸阳</a></span>
+<span><a href="//www.51job.com/xining/">西宁</a></span>
+<span><a href="//www.51job.com/xianning/">咸宁</a></span>
+<span><a href="//www.51job.com/xiaogan/">孝感</a></span>
+<span><a href="//www.51job.com/xinxiang/">新乡</a></span>
+<span><a href="//www.51job.com/xinyang/">信阳</a></span>
+<span><a href="//www.51job.com/xingtai/">邢台</a></span>
+<span><a href="//www.51job.com/xuchang/">许昌</a></span>
+<span><a href="//www.51job.com/xuancheng/">宣城</a></span>
+</div>
+<div class="e" name="area_channel_div_yz" style="display:none">
+<span><a href="//www.51job.com/yantai/">烟台</a></span>
+<span><a href="//www.51job.com/yangzhou/">扬州</a></span>
+<span><a href="//www.51job.com/yichang/">宜昌</a></span>
+<span><a href="//www.51job.com/yancheng/">盐城</a></span>
+<span><a href="//www.51job.com/yiwu/">义乌</a></span>
+<span><a href="//www.51job.com/yingkou/">营口</a></span>
+<span><a href="//www.51job.com/yinchuan/">银川</a></span>
+<span><a href="//www.51job.com/yangjiang/">阳江</a></span>
+<span><a href="//www.51job.com/yibin/">宜宾</a></span>
+<span><a href="//www.51job.com/yichune/">宜春</a></span>
+<span><a href="//www.51job.com/yiyang/">益阳</a></span>
+<span><a href="//www.51job.com/yongzhou/">永州</a></span>
+<span><a href="//www.51job.com/yulin/">玉林</a></span>
+<span><a href="//www.51job.com/yueyang/">岳阳</a></span>
+<span><a href="//www.51job.com/yuncheng/">运城</a></span>
+<span><a href="//www.51job.com/zhangzhou/">漳州</a></span>
+<span><a href="//www.51job.com/zhengzhou/">郑州</a></span>
+<span><a href="//www.51job.com/zhongshan/">中山</a></span>
+<span><a href="//www.51job.com/zhuhai/">珠海</a></span>
+<span><a href="//www.51job.com/zhenjiang/">镇江</a></span>
+<span><a href="//www.51job.com/zhuzhou/">株洲</a></span>
+<span><a href="//www.51job.com/zhanjiang/">湛江</a></span>
+<span><a href="//www.51job.com/zhaoqing/">肇庆</a></span>
+<span><a href="//www.51job.com/zhangjiagang/">张家港</a></span>
+<span><a href="//www.51job.com/zibo/">淄博</a></span>
+<span><a href="//www.51job.com/zaozhuang/">枣庄</a></span>
+<span><a href="//www.51job.com/zhangjiakou/">张家口</a></span>
+<span><a href="//www.51job.com/zhoukou/">周口</a></span>
+<span><a href="//www.51job.com/zhumadian/">驻马店</a></span>
+<span><a href="//www.51job.com/zunyi/">遵义</a></span>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+<div class="layer_back_drop_class" id="area_channel_layer_backdrop" style="z-index:999;position:absolute;z-index:999;left:0;top:0;display:none"></div>
+<script>
+
+    $(document).ready(function(){
+        $(window).resize(function(){
+            if(!$("#area_channel_layer").is(":hidden"))
+            {
+                setLayerPosition();
+            }
+        });
+    });
+
+    window.areaChannelChangeTab = function(sName, oEvent)
+    {
+        $("#area_channel_layer_all").children().hide();
+        $("#area_channel_layer_list").children().removeClass("on");
+        $(oEvent).addClass("on");
+        $("#area_channel_layer_all").children("div[name='area_channel_div_" + sName + "']").show();
+        $("#area_channel_layer_backdrop").show();
+    };
+
+    window.openAreaChannelLayer = function()
+    {
+        setLayerPosition();
+        $("#area_channel_layer,#area_channel_layer_backdrop").show();
+    };
+
+    window.setLayerPosition = function()
+    {
+        var dl = $(document).scrollLeft();
+        var dt = $(document).scrollTop();
+        var ww = $(document).width();
+        var dwh = $(document).height();
+        var wwh = $(window).height();
+        var ow = $("#area_channel_layer").width();
+        var oh = $("#area_channel_layer").height();
+        var fLeft = (ww - ow) / 2 + dl;
+        var fTop = (wwh - oh) * 382 / 1000 + dt;//黄金比例
+        $("#area_channel_layer").css({'left': Math.max(parseInt(fLeft), dl), 'top': Math.max(parseInt(fTop), dt)});
+        $("#area_channel_layer_backdrop").css({'width': ww + 'px', 'height': dwh + 'px'});
+    }
+</script> <div class="nag" id="topIndex">
+<div class="in">
+<a href="//www.51job.com"><img alt="前程无忧" class="logo" height="40" id="logo" src="//img03.51jobcdn.com/im/2016/logo/logo_blue.png" width="90"/></a>
+<img class="slogen" height="17" id="slogen" src="//img01.51jobcdn.com/im/2016/header/slogen.png?1544426366" width="162"/>
+<!-- Jobs频道使用 start -->
+<!-- Jobs频道使用 end -->
+<p class="nlink">
+<a class="" href="//www.51job.com/">首页</a>
+<a class="on" href="https://search.51job.com">职位搜索</a>
+<a class="" href="javascript:openAreaChannelLayer();">地区频道</a>
+<a class="" href="https://edu.51job.com" target="_blank">无忧学园</a>
+<a class="" href="https://mkt.51job.com/careerpost/default_res.php">职场资讯</a>
+<a class="" href="https://xy.51job.com/default-xs.php">校园招聘</a>
+<a href="http://my.51job.com/my/gojingying.php?direct=https%3A%2F%2Fwww.51jingying.com%2Fcommon%2Fsearchcase.php%3F5CC4CE%3D1008" target="_blank">无忧精英</a>
+</p> </div>
+</div>
+<!-- nag end -->
+<input id="pageCode" type="hidden" value="10101"/>
+<div class="j_loading" id="loading_div">
+<div class="rotate">
+<div></div>
+<div></div>
+</div>
+
+    正在加载...
+
+</div>
+<div id="app"></div>
+<script type="text/javascript">
+
+window.__SEARCH_RESULT__ = {"top_ads":[],"auction_ads":[],"market_ads":[],"engine_jds":[{"type":"engine_jds","jt":"0_0","tags":[],"ad_track":"","jobid":"133957572","coid":"5519154","effect":"1","is_special_job":"","job_href":"https:\/\/jobs.51job.com\/qingdao-cyq\/133957572.html?s=sou_sou_soulb&t=0_0","job_name":".NET高级开发工程师","job_title":".NET高级开发工程师","company_href":"https:\/\/jobs.51job.com\/all\/co5519154.html","company_name":"金鸢信息科技（青岛）有限公司","providesalary_text":"1.2-2.4万\/月","workarea":"120305","workarea_text":"青岛-城阳区","updatedate":"09-17","iscommunicate":"","companytype_text":"创业公司","degreefrom":"6","workyear":"6","issuedate":"2021-09-17 09:04:39","isFromXyz":"","isIntern":"","jobwelf":"五险一金 餐饮补贴 年终奖金 包住 带薪年假 专业培训 员工旅游 定期体检 弹性工作","jobwelf_list":["五险一金","餐饮补贴","年终奖金","包住","带薪年假","专业培训","员工旅游","定期体检","弹性工作"],"isdiffcity":"","attribute_text":["青岛-城阳区","5-7年经验","本科","招2人"],"companysize_text":"少于50人","companyind_text":"计算机软件","adid":""},{"type":"engine_jds","jt":"0_0","tags":[],"ad_track":"","jobid":"125983686","coid":"6121981","effect":"1","is_special_job":"","job_href":"https:\/\/jobs.51job.com\/qingdao-lcq\/125983686.html?s=sou_sou_soulb&t=0_0","job_name":".NET开发工程师","job_title":".NET开发工程师","company_href":"https:\/\/jobs.51job.com\/all\/co6121981.html","company_name":"山东车才帮技术服务有限公司","providesalary_text":"0.7-1.3万\/月","workarea":"120306","workarea_text":"青岛-李沧区","updatedate":"09-17","iscommunicate":"","companytype_text":"民营公司","degreefrom":"6","workyear":"3","issuedate":"2021-09-17 16:45:26","isFromXyz":"","isIntern":"","jobwelf":"五险一金 免费三餐 周末双休 项目奖金 交通补贴 通讯补贴 专业培训 出国机会 绩效奖金 定期体检","jobwelf_list":["五险一金","免费三餐","周末双休","项目奖金","交通补贴","通讯补贴","专业培训","出国机会","绩效奖金","定期体检"],"isdiffcity":"","attribute_text":["青岛-李沧区","1年经验","本科","招3人"],"companysize_text":"500-1000人","companyind_text":"计算机软件","adid":""},{"type":"engine_jds","jt":"0_0","tags":[],"ad_track":"","jobid":"124537850","coid":"6015236","effect":"1","is_special_job":"","job_href":"https:\/\/jobs.51job.com\/qingdao-lcq\/124537850.html?s=sou_sou_soulb&t=0_0","job_name":".NET开发工程师","job_title":".NET开发工程师","company_href":"https:\/\/jobs.51job.com\/all\/co6015236.html","company_name":"中瑞集团研发中心","providesalary_text":"0.7-1.3万\/月","workarea":"120306","workarea_text":"青岛-李沧区","updatedate":"09-17","iscommunicate":"","companytype_text":"上市公司","degreefrom":"6","workyear":"3","issuedate":"2021-09-17 16:45:26","isFromXyz":"","isIntern":"","jobwelf":"五险一金 免费三餐 周末双休 项目奖金 交通补贴 通讯补贴 专业培训 出国机会 绩效奖金 定期体检","jobwelf_list":["五险一金","免费三餐","周末双休","项目奖金","交通补贴","通讯补贴","专业培训","出国机会","绩效奖金","定期体检"],"isdiffcity":"","attribute_text":["青岛-李沧区","1年经验","本科","招3人"],"companysize_text":"1000-5000人","companyind_text":"计算机软件","adid":""},{"type":"engine_jds","jt":"0_0","tags":[],"ad_track":"","jobid":"130137355","coid":"2478368","effect":"1","is_special_job":"","job_href":"https:\/\/jobs.51job.com\/qingdao-cyq\/130137355.html?s=sou_sou_soulb&t=0_0","job_name":".net开发工程师","job_title":".net开发工程师","company_href":"https:\/\/jobs.51job.com\/all\/co2478368.html","company_name":"海克斯康测量技术（青岛）有限公司","providesalary_text":"1-1.5万\/月","workarea":"120305","workarea_text":"青岛-城阳区","updatedate":"09-17","iscommunicate":"","companytype_text":"合资","degreefrom":"6","workyear":"5","issuedate":"2021-09-17 14:58:04","isFromXyz":"","isIntern":"","jobwelf":"五险一金 补充医疗保险 员工旅游 交通补贴 通讯补贴 专业培训 年终奖金 定期体检","jobwelf_list":["五险一金","补充医疗保险","员工旅游","交通补贴","通讯补贴","专业培训","年终奖金","定期体检"],"isdiffcity":"","attribute_text":["青岛-城阳区","3-4年经验","本科","招1人"],"companysize_text":"1000-5000人","companyind_text":"仪器仪表\/工业自动化","adid":""},{"type":"engine_jds","jt":"0_0","tags":[],"ad_track":"","jobid":"133925820","coid":"2459519","effect":"1","is_special_job":"","job_href":"https:\/\/jobs.51job.com\/qingdao\/133925820.html?s=sou_sou_soulb&t=0_0","job_name":".NET开发工程师","job_title":".NET开发工程师","company_href":"https:\/\/jobs.51job.com\/all\/co2459519.html","company_name":"青岛华世洁环保科技有限公司","providesalary_text":"0.7-1.2万\/月","workarea":"120300","workarea_text":"青岛","updatedate":"09-17","iscommunicate":"","companytype_text":"合资","degreefrom":"6","workyear":"4","issuedate":"2021-09-17 11:39:26","isFromXyz":"","isIntern":"","jobwelf":"五险一金 定期体检 专业培训 免费班车","jobwelf_list":["五险一金","定期体检","专业培训","免费班车"],"isdiffcity":"","attribute_text":["青岛","2年经验","本科","招3人"],"companysize_text":"500-1000人","companyind_text":"环保","adid":""},{"type":"engine_jds","jt":"0_0","tags":[],"ad_track":"","jobid":"124455624","coid":"2365535","effect":"1","is_special_job":"","job_href":"https:\/\/jobs.51job.com\/qingdao-cyq\/124455624.html?s=sou_sou_soulb&t=0_0","job_name":"C#\/.net高级软件工程师","job_title":"C#\/.net高级软件工程师","company_href":"https:\/\/jobs.51job.com\/all\/co2365535.html","company_name":"荏原电产（青岛）科技有限公司","providesalary_text":"1-1.2万\/月","workarea":"120305","workarea_text":"青岛-城阳区","updatedate":"09-17","iscommunicate":"","companytype_text":"外资（非欧美）","degreefrom":"","workyear":"5","issuedate":"2021-09-17 10:24:54","isFromXyz":"","isIntern":"","jobwelf":"带薪年假 五险一金 加班补贴 14薪 免费班车 员工旅游 交通补贴 周末双休 节日福利 体检旅游","jobwelf_list":["带薪年假","五险一金","加班补贴","14薪","免费班车","员工旅游","交通补贴","周末双休","节日福利","体检旅游"],"isdiffcity":"","attribute_text":["青岛-城阳区","3-4年经验","招1人"],"companysize_text":"150-500人","companyind_text":"仪器仪表\/工业自动化","adid":""},{"type":"engine_jds","jt":"0_0","tags":[],"ad_track":"","jobid":"127787321","coid":"2278378","effect":"1","is_special_job":"","job_href":"https:\/\/jobs.51job.com\/qingdao\/127787321.html?s=sou_sou_soulb&t=0_0","job_name":"后端开发工程师.net 方向","job_title":"后端开发工程师.net 方向","company_href":"https:\/\/jobs.51job.com\/all\/co2278378.html","company_name":"青岛城市学院","providesalary_text":"0.8-1万\/月","workarea":"120300","workarea_text":"青岛","updatedate":"09-17","iscommunicate":"","companytype_text":"非营利组织","degreefrom":"5","workyear":"4","issuedate":"2021-09-17 10:14:00","isFromXyz":"","isIntern":"","jobwelf":"五险一金 免费班车 专业培训 餐饮补贴 定期体检","jobwelf_list":["五险一金","免费班车","专业培训","餐饮补贴","定期体检"],"isdiffcity":"","attribute_text":["青岛","2年经验","大专","招2人"],"companysize_text":"1000-5000人","companyind_text":"教育\/培训\/院校","adid":""},{"type":"engine_jds","jt":"0_0","tags":[],"ad_track":"","jobid":"86944505","coid":"4254340","effect":"1","is_special_job":"","job_href":"https:\/\/jobs.51job.com\/qingdao\/86944505.html?s=sou_sou_soulb&t=0_0","job_name":".NET(C#)中级软件开发工程师","job_title":".NET(C#)中级软件开发工程师","company_href":"https:\/\/jobs.51job.com\/all\/co4254340.html","company_name":"北京恳维科技有限公司","providesalary_text":"1-1.5万\/月","workarea":"120300","workarea_text":"青岛","updatedate":"09-17","iscommunicate":"","companytype_text":"民营公司","degreefrom":"5","workyear":"","issuedate":"2021-09-17 10:11:49","isFromXyz":"","isIntern":"","jobwelf":"五险一金 员工旅游 专业培训 出国机会 绩效奖金 弹性工作 定期体检","jobwelf_list":["五险一金","员工旅游","专业培训","出国机会","绩效奖金","弹性工作","定期体检"],"isdiffcity":"","attribute_text":["青岛","大专","招若干人"],"companysize_text":"少于50人","companyind_text":"计算机软件","adid":""},{"type":"engine_jds","jt":"0_0","tags":[],"ad_track":"","jobid":"131980092","coid":"4708858","effect":"1","is_special_job":"","job_href":"https:\/\/jobs.51job.com\/qingdao-lsq\/131980092.html?s=sou_sou_soulb&t=0_0","job_name":".NET开发工程师","job_title":".NET开发工程师","company_href":"https:\/\/jobs.51job.com\/all\/co4708858.html","company_name":"北京伯凯科技有限公司","providesalary_text":"1.1-1.7万\/月","workarea":"120304","workarea_text":"青岛-崂山区","updatedate":"09-17","iscommunicate":"","companytype_text":"外资（欧美）","degreefrom":"6","workyear":"6","issuedate":"2021-09-17 10:07:24","isFromXyz":"","isIntern":"","jobwelf":"五险一金 补充医疗保险 专业培训 定期体检 弹性工作 通讯补贴 节日福利 年底双薪","jobwelf_list":["五险一金","补充医疗保险","专业培训","定期体检","弹性工作","通讯补贴","节日福利","年底双薪"],"isdiffcity":"","attribute_text":["青岛-崂山区","5-7年经验","本科","招若干人"],"companysize_text":"10000人以上","companyind_text":"计算机软件","adid":""},{"type":"engine_jds","jt":"0_0","tags":[],"ad_track":"","jobid":"124018188","coid":"4203565","effect":"1","is_special_job":"","job_href":"https:\/\/jobs.51job.com\/qingdao-lsq\/124018188.html?s=sou_sou_soulb&t=0_0","job_name":"软件开发工程师 .NET  C#","job_title":"软件开发工程师 .NET  C#","company_href":"https:\/\/jobs.51job.com\/all\/co4203565.html","company_name":"青岛海讯数字科技有限公司","providesalary_text":"0.6-1.3万\/月","workarea":"120304","workarea_text":"青岛-崂山区","updatedate":"09-17","iscommunicate":"","companytype_text":"民营公司","degreefrom":"6","workyear":"4","issuedate":"2021-09-17 10:00:01","isFromXyz":"","isIntern":"","jobwelf":"五险一金 绩效奖金 年终奖金 交通补贴 餐饮补贴 国内外旅游 节假日福利 专业培训 出差补贴","jobwelf_list":["五险一金","绩效奖金","年终奖金","交通补贴","餐饮补贴","国内外旅游","节假日福利","专业培训","出差补贴"],"isdiffcity":"","attribute_text":["青岛-崂山区","2年经验","本科","招2人"],"companysize_text":"150-500人","companyind_text":"计算机服务(系统、数据服务、维修)","adid":""},{"type":"engine_jds","jt":"0_0","tags":[],"ad_track":"","jobid":"131828695","coid":"3459886","effect":"1","is_special_job":"","job_href":"https:\/\/jobs.51job.com\/qingdao-gxq\/131828695.html?s=sou_sou_soulb&t=0_0","job_name":".NET开发工程师","job_title":".NET开发工程师","company_href":"https:\/\/jobs.51job.com\/all\/co3459886.html","company_name":"优文途新科技（上海）有限公司","providesalary_text":"6-8千\/月","workarea":"120311","workarea_text":"青岛-高新区","updatedate":"09-17","iscommunicate":"","companytype_text":"民营公司","degreefrom":"5","workyear":"4","issuedate":"2021-09-17 09:21:32","isFromXyz":"","isIntern":"","jobwelf":"五险一金 年终奖金 做五休二","jobwelf_list":["五险一金","年终奖金","做五休二"],"isdiffcity":"","attribute_text":["青岛-高新区","2年经验","大专","招5人"],"companysize_text":"少于50人","companyind_text":"计算机软件","adid":""},{"type":"engine_jds","jt":"0_0","tags":[],"ad_track":"","jobid":"125848943","coid":"5684195","effect":"1","is_special_job":"","job_href":"https:\/\/jobs.51job.com\/qingdao-snq\/125848943.html?s=sou_sou_soulb&t=0_0","job_name":".NET开发工程师","job_title":".NET开发工程师","company_href":"https:\/\/jobs.51job.com\/all\/co5684195.html","company_name":"山东乐舱网国际物流股份有限公司","providesalary_text":"0.4-1万\/月","workarea":"120301","workarea_text":"青岛-市南区","updatedate":"09-17","iscommunicate":"","companytype_text":"民营公司","degreefrom":"5","workyear":"4","issuedate":"2021-09-17 09:03:10","isFromXyz":"","isIntern":"","jobwelf":"五险一金 免费下午茶 年终奖金 定期体检 员工旅游","jobwelf_list":["五险一金","免费下午茶","年终奖金","定期体检","员工旅游"],"isdiffcity":"","attribute_text":["青岛-市南区","2年经验","大专","招1人"],"companysize_text":"150-500人","companyind_text":"交通\/运输\/物流","adid":""},{"type":"engine_jds","jt":"0_0","tags":[],"ad_track":"","jobid":"133606295","coid":"3208213","effect":"1","is_special_job":"","job_href":"https:\/\/jobs.51job.com\/qingdao-hdq\/133606295.html?s=sou_sou_soulb&t=0_0","job_name":".NET高级开发工程师","job_title":".NET高级开发工程师","company_href":"https:\/\/jobs.51job.com\/all\/co3208213.html","company_name":"青岛晖腾信息技术有限公司","providesalary_text":"0.8-1.2万\/月","workarea":"120303","workarea_text":"青岛-黄岛区","updatedate":"09-17","iscommunicate":"","companytype_text":"民营公司","degreefrom":"6","workyear":"5","issuedate":"2021-09-17 09:00:01","isFromXyz":"","isIntern":"","jobwelf":"五险一金 年终奖金 绩效奖金 员工旅游 专业培训 通讯补贴","jobwelf_list":["五险一金","年终奖金","绩效奖金","员工旅游","专业培训","通讯补贴"],"isdiffcity":"","attribute_text":["青岛-黄岛区","3-4年经验","本科","招2人"],"companysize_text":"少于50人","companyind_text":"计算机软件","adid":""},{"type":"engine_jds","jt":"0_0","tags":[],"ad_track":"","jobid":"99467137","coid":"3692147","effect":"1","is_special_job":"","job_href":"https:\/\/jobs.51job.com\/qingdao-lcq\/99467137.html?s=sou_sou_soulb&t=0_0","job_name":".NET开发工程师","job_title":".NET开发工程师","company_href":"https:\/\/jobs.51job.com\/all\/co3692147.html","company_name":"青岛海迅软件工程有限公司","providesalary_text":"1-1.5万\/月","workarea":"120306","workarea_text":"青岛-李沧区","updatedate":"09-17","iscommunicate":"","companytype_text":"民营公司","degreefrom":"5","workyear":"5","issuedate":"2021-09-17 08:51:29","isFromXyz":"","isIntern":"","jobwelf":"五险一金 员工旅游 交通补贴 通讯补贴 专业培训 绩效奖金 年终奖金 节日福利 高温补贴","jobwelf_list":["五险一金","员工旅游","交通补贴","通讯补贴","专业培训","绩效奖金","年终奖金","节日福利","高温补贴"],"isdiffcity":"","attribute_text":["青岛-李沧区","3-4年经验","大专","招若干人"],"companysize_text":"少于50人","companyind_text":"计算机软件","adid":""},{"type":"engine_jds","jt":"0_0","tags":[],"ad_track":"","jobid":"89552691","coid":"2201889","effect":"1","is_special_job":"","job_href":"https:\/\/jobs.51job.com\/qingdao-snq\/89552691.html?s=sou_sou_soulb&t=0_0","job_name":".net工程师","job_title":".net工程师","company_href":"https:\/\/jobs.51job.com\/all\/co2201889.html","company_name":"青岛万嘉通达物流有限公司","providesalary_text":"0.7-1.4万\/月","workarea":"120301","workarea_text":"青岛-市南区","updatedate":"09-17","iscommunicate":"","companytype_text":"合资","degreefrom":"5","workyear":"4","issuedate":"2021-09-17 08:39:42","isFromXyz":"","isIntern":"","jobwelf":"五险一金 交通补贴 餐饮补贴 专业培训 绩效奖金 年终奖金 定期体检","jobwelf_list":["五险一金","交通补贴","餐饮补贴","专业培训","绩效奖金","年终奖金","定期体检"],"isdiffcity":"","attribute_text":["青岛-市南区","2年经验","大专","招1人"],"companysize_text":"500-1000人","companyind_text":"交通\/运输\/物流","adid":""},{"type":"engine_jds","jt":"0_0","tags":[],"ad_track":"","jobid":"123394890","coid":"4870884","effect":"1","is_special_job":"","job_href":"https:\/\/jobs.51job.com\/qingdao-hdq\/123394890.html?s=sou_sou_soulb&t=0_0","job_name":".NET开发工程师","job_title":".NET开发工程师","company_href":"https:\/\/jobs.51job.com\/all\/co4870884.html","company_name":"青岛东方智慧教育软件有限公司","providesalary_text":"0.8-1万\/月","workarea":"120303","workarea_text":"青岛-黄岛区","updatedate":"09-16","iscommunicate":"","companytype_text":"民营公司","degreefrom":"6","workyear":"3","issuedate":"2021-09-16 15:28:09","isFromXyz":"","isIntern":"","jobwelf":"五险一金 专业培训 绩效奖金 年终奖金 股票期权 餐饮补贴 弹性工作 员工旅游 定期体检","jobwelf_list":["五险一金","专业培训","绩效奖金","年终奖金","股票期权","餐饮补贴","弹性工作","员工旅游","定期体检"],"isdiffcity":"","attribute_text":["青岛-黄岛区","1年经验","本科","招2人"],"companysize_text":"少于50人","companyind_text":"互联网\/电子商务","adid":""},{"type":"engine_jds","jt":"0_0","tags":[],"ad_track":"","jobid":"127700249","coid":"4046848","effect":"1","is_special_job":"","job_href":"https:\/\/jobs.51job.com\/qingdao\/127700249.html?s=sou_sou_soulb&t=0_0","job_name":".NET高级开发工程师","job_title":".NET高级开发工程师","company_href":"https:\/\/jobs.51job.com\/all\/co4046848.html","company_name":"青岛弘智信息科技有限公司","providesalary_text":"0.8-1.5万\/月","workarea":"120300","workarea_text":"青岛","updatedate":"09-16","iscommunicate":"","companytype_text":"民营公司","degreefrom":"5","workyear":"5","issuedate":"2021-09-16 11:59:27","isFromXyz":"","isIntern":"","jobwelf":"五险一金 餐饮补贴 年终奖金 周末双休","jobwelf_list":["五险一金","餐饮补贴","年终奖金","周末双休"],"isdiffcity":"","attribute_text":["青岛","3-4年经验","大专","招2人"],"companysize_text":"少于50人","companyind_text":"计算机软件","adid":""},{"type":"engine_jds","jt":"0_0","tags":[],"ad_track":"","jobid":"121268922","coid":"5832378","effect":"1","is_special_job":"","job_href":"https:\/\/jobs.51job.com\/qingdao-hdq\/121268922.html?s=sou_sou_soulb&t=0_0","job_name":".NET开发工程师","job_title":".NET开发工程师","company_href":"https:\/\/jobs.51job.com\/all\/co5832378.html","company_name":"青岛云图天下软件有限公司","providesalary_text":"6-8千\/月","workarea":"120303","workarea_text":"青岛-黄岛区","updatedate":"09-15","iscommunicate":"","companytype_text":"民营公司","degreefrom":"5","workyear":"3","issuedate":"2021-09-15 17:57:15","isFromXyz":"","isIntern":"","jobwelf":"","jobwelf_list":[""],"isdiffcity":"","attribute_text":["青岛-黄岛区","1年经验","大专","招1人"],"companysize_text":"少于50人","companyind_text":"计算机软件","adid":""},{"type":"engine_jds","jt":"0_0","tags":[],"ad_track":"","jobid":"93471953","coid":"3538088","effect":"1","is_special_job":"","job_href":"https:\/\/jobs.51job.com\/qingdao-lsq\/93471953.html?s=sou_sou_soulb&t=0_0","job_name":"对日java .net C#软件开发工程师","job_title":"对日java .net C#软件开发工程师","company_href":"https:\/\/jobs.51job.com\/all\/co3538088.html","company_name":"青岛比特微尔软件开发有限公司","providesalary_text":"0.7-1.4万\/月","workarea":"120304","workarea_text":"青岛-崂山区","updatedate":"09-14","iscommunicate":"","companytype_text":"外资（非欧美）","degreefrom":"5","workyear":"3","issuedate":"2021-09-14 14:00:01","isFromXyz":"","isIntern":"","jobwelf":"五险一金 员工旅游 交通补贴 餐饮补贴 出国机会 年终奖金 定期体检","jobwelf_list":["五险一金","员工旅游","交通补贴","餐饮补贴","出国机会","年终奖金","定期体检"],"isdiffcity":"","attribute_text":["青岛-崂山区","1年经验","大专","招4人"],"companysize_text":"50-150人","companyind_text":"计算机软件","adid":""},{"type":"engine_jds","jt":"0_0","tags":[],"ad_track":"","jobid":"132564609","coid":"6468378","effect":"1","is_special_job":"","job_href":"https:\/\/jobs.51job.com\/qingdao-lcq\/132564609.html?s=sou_sou_soulb&t=0_0","job_name":".NET开发工程师","job_title":".NET开发工程师","company_href":"https:\/\/jobs.51job.com\/all\/coAGBdPQVgAjQPaVYyXDE.html","company_name":"青岛路达信息技术有限公司","providesalary_text":"0.5-1万\/月","workarea":"120306","workarea_text":"青岛-李沧区","updatedate":"09-13","iscommunicate":"","companytype_text":"民营公司","degreefrom":"2","workyear":"4","issuedate":"2021-09-13 10:00:01","isFromXyz":"","isIntern":"","jobwelf":"","jobwelf_list":[""],"isdiffcity":"","attribute_text":["青岛-李沧区","2年经验","高中","招若干人"],"companysize_text":"少于50人","companyind_text":"通信\/电信\/网络设备","adid":""},{"type":"engine_jds","jt":"0_0","tags":[],"ad_track":"","jobid":"135117586","coid":"252021","effect":"1","is_special_job":"","job_href":"https:\/\/jobs.51job.com\/qingdao-jmq\/135117586.html?s=sou_sou_soulb&t=0_0","job_name":"ASP .NET开发工程师","job_title":"ASP .NET开发工程师","company_href":"https:\/\/jobs.51job.com\/all\/co252021.html","company_name":"青岛酷特智能股份有限公司","providesalary_text":"0.8-1.3万\/月","workarea":"120308","workarea_text":"青岛-即墨区","updatedate":"09-12","iscommunicate":"","companytype_text":"民营公司","degreefrom":"5","workyear":"5","issuedate":"2021-09-12 09:00:01","isFromXyz":"","isIntern":"","jobwelf":"带薪年假 五险一金 绩效奖金 包住宿 通讯补贴 交通补贴 节日福利","jobwelf_list":["带薪年假","五险一金","绩效奖金","包住宿","通讯补贴","交通补贴","节日福利"],"isdiffcity":"","attribute_text":["青岛-即墨区","3-4年经验","大专","招若干人"],"companysize_text":"1000-5000人","companyind_text":"互联网\/电子商务","adid":""},{"type":"engine_jds","jt":"0_0","tags":[],"ad_track":"","jobid":"133065833","coid":"5214196","effect":"1","is_special_job":"","job_href":"https:\/\/jobs.51job.com\/qingdao-hdq\/133065833.html?s=sou_sou_soulb&t=0_0","job_name":".NET开发工程师","job_title":".NET开发工程师","company_href":"https:\/\/jobs.51job.com\/all\/co5214196.html","company_name":"青岛钢铁侠科技有限公司","providesalary_text":"1-1.5万\/月","workarea":"120303","workarea_text":"青岛-黄岛区","updatedate":"09-10","iscommunicate":"","companytype_text":"民营公司","degreefrom":"5","workyear":"4","issuedate":"2021-09-10 14:16:07","isFromXyz":"","isIntern":"","jobwelf":"年终奖金 带薪休假 节日福利 有食宿 五险一金 弹性工作","jobwelf_list":["年终奖金","带薪休假","节日福利","有食宿","五险一金","弹性工作"],"isdiffcity":"","attribute_text":["青岛-黄岛区","2年经验","大专","招1人"],"companysize_text":"50-150人","companyind_text":"计算机硬件","adid":""},{"type":"engine_jds","jt":"0_0","tags":[],"ad_track":"","jobid":"130259599","coid":"5453061","effect":"1","is_special_job":"","job_href":"https:\/\/jobs.51job.com\/qingdao-cyq\/130259599.html?s=sou_sou_soulb&t=0_0","job_name":".NET开发工程师","job_title":".NET开发工程师","company_href":"https:\/\/jobs.51job.com\/all\/co5453061.html","company_name":"青岛北辰信息科技有限公司","providesalary_text":"0.5-1万\/月","workarea":"120305","workarea_text":"青岛-城阳区","updatedate":"09-03","iscommunicate":"","companytype_text":"民营公司","degreefrom":"6","workyear":"10","issuedate":"2021-09-03 11:00:01","isFromXyz":"","isIntern":"","jobwelf":"五险一金 节日福利","jobwelf_list":["五险一金","节日福利"],"isdiffcity":"","attribute_text":["青岛-城阳区","无需经验","本科","招3人"],"companysize_text":"少于50人","companyind_text":"计算机软件","adid":""},{"type":"engine_jds","jt":"0_0","tags":[],"ad_track":"","jobid":"133929768","coid":"5450395","effect":"1","is_special_job":"","job_href":"https:\/\/jobs.51job.com\/qingdao\/133929768.html?s=sou_sou_soulb&t=0_0","job_name":"软件开发工程师（java\/.net）","job_title":"软件开发工程师（java\/.net）","company_href":"https:\/\/jobs.51job.com\/all\/co5450395.html","company_name":"青岛斯坦德检测股份有限公司","providesalary_text":"0.7-1.2万\/月","workarea":"120300","workarea_text":"青岛","updatedate":"09-02","iscommunicate":"","companytype_text":"民营公司","degreefrom":"6","workyear":"4","issuedate":"2021-09-02 09:49:55","isFromXyz":"","isIntern":"","jobwelf":"五险一金 年终奖金 绩效奖金 专业培训 通讯补贴 弹性工作 定期体检 季度调薪 绩效补贴","jobwelf_list":["五险一金","年终奖金","绩效奖金","专业培训","通讯补贴","弹性工作","定期体检","季度调薪","绩效补贴"],"isdiffcity":"","attribute_text":["青岛","2年经验","本科","招4人"],"companysize_text":"500-1000人","companyind_text":"检测，认证","adid":""},{"type":"engine_jds","jt":"0_0","tags":[],"ad_track":"","jobid":"60116481","coid":"2689466","effect":"1","is_special_job":"","job_href":"https:\/\/jobs.51job.com\/qingdao-jmq\/60116481.html?s=sou_sou_soulb&t=0_0","job_name":".net软件开发工程师（提供住宿）","job_title":".net软件开发工程师（提供住宿）","company_href":"https:\/\/jobs.51job.com\/all\/co2689466.html","company_name":"青岛达中皮革制品有限公司","providesalary_text":"6-8千\/月","workarea":"120308","workarea_text":"青岛-即墨区","updatedate":"08-30","iscommunicate":"","companytype_text":"外资（欧美）","degreefrom":"5","workyear":"3","issuedate":"2021-08-30 08:10:11","isFromXyz":"","isIntern":"","jobwelf":"五险一金 年终奖金 定期体检 餐饮补贴","jobwelf_list":["五险一金","年终奖金","定期体检","餐饮补贴"],"isdiffcity":"","attribute_text":["青岛-即墨区","1年经验","大专","招1人"],"companysize_text":"500-1000人","companyind_text":"服装\/纺织\/皮革","adid":""},{"type":"engine_jds","jt":"0_0","tags":[],"ad_track":"","jobid":"114965185","coid":"3602084","effect":"1","is_special_job":"","job_href":"https:\/\/jobs.51job.com\/qingdao\/114965185.html?s=sou_sou_soulb&t=0_0","job_name":".NET开发工程师","job_title":".NET开发工程师","company_href":"https:\/\/jobs.51job.com\/all\/co3602084.html","company_name":"山东沐华医疗科技有限公司","providesalary_text":"0.6-1.2万\/月","workarea":"120300","workarea_text":"青岛","updatedate":"08-26","iscommunicate":"","companytype_text":"民营公司","degreefrom":"5","workyear":"3","issuedate":"2021-08-26 17:28:46","isFromXyz":"","isIntern":"","jobwelf":"五险一金 通讯补贴 年终奖金","jobwelf_list":["五险一金","通讯补贴","年终奖金"],"isdiffcity":"","attribute_text":["青岛","1年经验","大专","招3人"],"companysize_text":"50-150人","companyind_text":"医疗\/护理\/卫生","adid":""},{"type":"engine_jds","jt":"0_0","tags":[],"ad_track":"","jobid":"134556267","coid":"6385616","effect":"1","is_special_job":"","job_href":"https:\/\/jobs.51job.com\/qingdao-hdq\/134556267.html?s=sou_sou_soulb&t=0_0","job_name":".NET开发工程师","job_title":".NET开发工程师","company_href":"https:\/\/jobs.51job.com\/all\/co6385616.html","company_name":"优创（青岛）信息服务有限公司","providesalary_text":"0.6-1万\/月","workarea":"120303","workarea_text":"青岛-黄岛区","updatedate":"08-22","iscommunicate":"","companytype_text":"外资（欧美）","degreefrom":"6","workyear":"4","issuedate":"2021-08-22 13:00:01","isFromXyz":"","isIntern":"","jobwelf":"交通补贴 午餐补贴 六险一金 带薪年假 年终奖金 周末双休 不打卡 年度体检 活动多","jobwelf_list":["交通补贴","午餐补贴","六险一金","带薪年假","年终奖金","周末双休","不打卡","年度体检","活动多"],"isdiffcity":"","attribute_text":["青岛-黄岛区","2年经验","本科","招3人"],"companysize_text":"5000-10000人","companyind_text":"外包服务","adid":""},{"type":"engine_jds","jt":"0_0","tags":[],"ad_track":"","jobid":"129632176","coid":"5776810","effect":"1","is_special_job":"","job_href":"https:\/\/jobs.51job.com\/qingdao-sbq\/129632176.html?s=sou_sou_soulb&t=0_0","job_name":".Net开发工程师","job_title":".Net开发工程师","company_href":"https:\/\/jobs.51job.com\/all\/co5776810.html","company_name":"华晟（青岛）智能装备科技有限公司","providesalary_text":"1.5-2.5万\/月","workarea":"120302","workarea_text":"青岛-市北区","updatedate":"08-19","iscommunicate":"","companytype_text":"民营公司","degreefrom":"7","workyear":"5","issuedate":"2021-08-19 09:57:24","isFromXyz":"","isIntern":"","jobwelf":"","jobwelf_list":[""],"isdiffcity":"","attribute_text":["青岛-市北区","3-4年经验","硕士","招3人"],"companysize_text":"150-500人","companyind_text":"机械\/设备\/重工","adid":""},{"type":"engine_jds","jt":"0_0","tags":[],"ad_track":"","jobid":"134234866","coid":"6694754","effect":"1","is_special_job":"","job_href":"https:\/\/jobs.51job.com\/qingdao-snq\/134234866.html?s=sou_sou_soulb&t=0_0","job_name":".NET开发工程师","job_title":".NET开发工程师","company_href":"https:\/\/jobs.51job.com\/all\/coVDQGZANpBz0ObFQyUDE.html","company_name":"山东达创网络科技股份有限公司","providesalary_text":"0.6-1万\/月","workarea":"120301","workarea_text":"青岛-市南区","updatedate":"08-18","iscommunicate":"","companytype_text":"民营公司","degreefrom":"4","workyear":"3","issuedate":"2021-08-18 10:53:33","isFromXyz":"","isIntern":"","jobwelf":"五险一金 补充医疗保险 通讯补贴 年终奖金 定期体检 新婚生育礼金 各种福利 定期团建 技术大牛","jobwelf_list":["五险一金","补充医疗保险","通讯补贴","年终奖金","定期体检","新婚生育礼金","各种福利","定期团建","技术大牛"],"isdiffcity":"","attribute_text":["青岛-市南区","1年经验","中专","招5人"],"companysize_text":"150-500人","companyind_text":"计算机软件","adid":""},{"type":"engine_jds","jt":"0_0","tags":[],"ad_track":"","jobid":"125472146","coid":"2194832","effect":"1","is_special_job":"","job_href":"https:\/\/jobs.51job.com\/qingdao-lsq\/125472146.html?s=sou_sou_soulb&t=0_0","job_name":".net开发工程师（双休、五险一金、福利好）","job_title":".net开发工程师（双休、五险一金、福利好）","company_href":"https:\/\/jobs.51job.com\/all\/co2194832.html","company_name":"青岛海威茨仪表有限公司","providesalary_text":"0.7-1.4万\/月","workarea":"120304","workarea_text":"青岛-崂山区","updatedate":"08-11","iscommunicate":"","companytype_text":"民营公司","degreefrom":"6","workyear":"3","issuedate":"2021-08-11 08:54:56","isFromXyz":"","isIntern":"","jobwelf":"五险一金 周末双休 法定节假日 节日福利 定期体检 年终奖金 餐补 出差补贴 通讯补贴 生日福利","jobwelf_list":["五险一金","周末双休","法定节假日","节日福利","定期体检","年终奖金","餐补","出差补贴","通讯补贴","生日福利"],"isdiffcity":"","attribute_text":["青岛-崂山区","1年经验","本科","招2人"],"companysize_text":"150-500人","companyind_text":"计算机服务(系统、数据服务、维修)","adid":""},{"type":"engine_jds","jt":"0_0","tags":[],"ad_track":"","jobid":"125477337","coid":"6041828","effect":"1","is_special_job":"","job_href":"https:\/\/jobs.51job.com\/qingdao-cyq\/125477337.html?s=sou_sou_soulb&t=0_0","job_name":".NET开发工程师","job_title":".NET开发工程师","company_href":"https:\/\/jobs.51job.com\/all\/co6041828.html","company_name":"浙江新涛电子科技有限公司","providesalary_text":"1-1.6万\/月","workarea":"120305","workarea_text":"青岛-城阳区","updatedate":"08-09","iscommunicate":"","companytype_text":"民营公司","degreefrom":"5","workyear":"5","issuedate":"2021-08-09 13:56:01","isFromXyz":"","isIntern":"","jobwelf":"五险一金 绩效奖金 年终奖金 员工旅游 餐饮补贴","jobwelf_list":["五险一金","绩效奖金","年终奖金","员工旅游","餐饮补贴"],"isdiffcity":"","attribute_text":["青岛-城阳区","3-4年经验","大专","招2人"],"companysize_text":"500-1000人","companyind_text":"电子技术\/半导体\/集成电路","adid":""},{"type":"engine_jds","jt":"0_0","tags":[],"ad_track":"","jobid":"133737047","coid":"6358787","effect":"1","is_special_job":"","job_href":"https:\/\/jobs.51job.com\/qingdao-snq\/133737047.html?s=sou_sou_soulb&t=0_0","job_name":"C#.NET高级软件工程师","job_title":"C#.NET高级软件工程师","company_href":"https:\/\/jobs.51job.com\/all\/co6358787.html","company_name":"青岛微比特软件有限公司","providesalary_text":"1.2-1.5万\/月","workarea":"120301","workarea_text":"青岛-市南区","updatedate":"08-07","iscommunicate":"","companytype_text":"创业公司","degreefrom":"5","workyear":"5","issuedate":"2021-08-07 04:02:16","isFromXyz":"","isIntern":"","jobwelf":"周末双休 五险一金 带薪年假 交通补贴 餐饮补贴 工龄补贴 年终奖金 项目奖金 定期体检 节日福利","jobwelf_list":["周末双休","五险一金","带薪年假","交通补贴","餐饮补贴","工龄补贴","年终奖金","项目奖金","定期体检","节日福利"],"isdiffcity":"","attribute_text":["青岛-市南区","3-4年经验","大专","招4人"],"companysize_text":"少于50人","companyind_text":"计算机软件","adid":""},{"type":"engine_jds","jt":"0_0","tags":[],"ad_track":"","jobid":"125829966","coid":"5834292","effect":"1","is_special_job":"","job_href":"https:\/\/jobs.51job.com\/qingdao-hdq\/125829966.html?s=sou_sou_soulb&t=0_0","job_name":".NET开发工程师  java开发工程师","job_title":".NET开发工程师  java开发工程师","company_href":"https:\/\/jobs.51job.com\/all\/co5834292.html","company_name":"青岛中科智通软件科技有限公司","providesalary_text":"6-8千\/月","workarea":"120303","workarea_text":"青岛-黄岛区","updatedate":"08-05","iscommunicate":"","companytype_text":"民营公司","degreefrom":"6","workyear":"10","issuedate":"2021-08-05 22:00:01","isFromXyz":"","isIntern":"","jobwelf":"五险一金 绩效奖金 交通补贴 带薪年假 专业培训 股票期权 年终奖金 定期体检 通讯补贴 员工旅游","jobwelf_list":["五险一金","绩效奖金","交通补贴","带薪年假","专业培训","股票期权","年终奖金","定期体检","通讯补贴","员工旅游"],"isdiffcity":"","attribute_text":["青岛-黄岛区","无需经验","本科","招1人"],"companysize_text":"少于50人","companyind_text":"计算机服务(系统、数据服务、维修)","adid":""},{"type":"engine_jds","jt":"0_0","tags":[],"ad_track":"","jobid":"123239703","coid":"3748306","effect":"1","is_special_job":"","job_href":"https:\/\/jobs.51job.com\/qingdao-lsq\/123239703.html?s=sou_sou_soulb&t=0_0","job_name":".net后端开发","job_title":".net后端开发","company_href":"https:\/\/jobs.51job.com\/all\/co3748306.html","company_name":"特来电新能源股份有限公司","providesalary_text":"0.8-1.5万\/月","workarea":"120304","workarea_text":"青岛-崂山区","updatedate":"08-02","iscommunicate":"","companytype_text":"上市公司","degreefrom":"6","workyear":"4","issuedate":"2021-08-02 09:00:01","isFromXyz":"","isIntern":"","jobwelf":"五险一金 餐饮补贴 通讯补贴 定期体检 年终奖金","jobwelf_list":["五险一金","餐饮补贴","通讯补贴","定期体检","年终奖金"],"isdiffcity":"","attribute_text":["青岛-崂山区","2年经验","本科","招1人"],"companysize_text":"5000-10000人","companyind_text":"新能源","adid":""},{"type":"engine_jds","jt":"0_0","tags":[],"ad_track":"","jobid":"95904959","coid":"2505765","effect":"1","is_special_job":"","job_href":"https:\/\/jobs.51job.com\/qingdao\/95904959.html?s=sou_sou_soulb&t=0_0","job_name":".NET开发工程师\/\/delphi、net\/软件开发","job_title":".NET开发工程师\/\/delphi、net\/软件开发","company_href":"https:\/\/jobs.51job.com\/all\/co2505765.html","company_name":"青岛科迪博电子科技有限公司","providesalary_text":"0.6-1万\/月","workarea":"120300","workarea_text":"青岛","updatedate":"07-29","iscommunicate":"","companytype_text":"民营公司","degreefrom":"5","workyear":"3","issuedate":"2021-07-29 09:55:25","isFromXyz":"","isIntern":"","jobwelf":"五险一金 绩效奖金 年终奖金","jobwelf_list":["五险一金","绩效奖金","年终奖金"],"isdiffcity":"","attribute_text":["青岛","1年经验","大专","招3人"],"companysize_text":"50-150人","companyind_text":"仪器仪表\/工业自动化","adid":""},{"type":"engine_jds","jt":"0_0","tags":[],"ad_track":"","jobid":"104496721","coid":"5128319","effect":"1","is_special_job":"","job_href":"https:\/\/jobs.51job.com\/qingdao-snq\/104496721.html?s=sou_sou_soulb&t=0_0","job_name":".net架构师（双休\/工作餐）","job_title":".net架构师（双休\/工作餐）","company_href":"https:\/\/jobs.51job.com\/all\/co5128319.html","company_name":"青岛正信科技有限公司","providesalary_text":"0.8-1.5万\/月","workarea":"120301","workarea_text":"青岛-市南区","updatedate":"07-27","iscommunicate":"","companytype_text":"民营公司","degreefrom":"6","workyear":"6","issuedate":"2021-07-27 14:00:01","isFromXyz":"","isIntern":"","jobwelf":"五险一金 通讯补贴 免费工作餐 年节福利 周末双休","jobwelf_list":["五险一金","通讯补贴","免费工作餐","年节福利","周末双休"],"isdiffcity":"","attribute_text":["青岛-市南区","5-7年经验","本科","招2人"],"companysize_text":"少于50人","companyind_text":"计算机软件","adid":""},{"type":"engine_jds","jt":"0_0","tags":[],"ad_track":"","jobid":"131723625","coid":"3848492","effect":"1","is_special_job":"","job_href":"https:\/\/jobs.51job.com\/qingdao-sbq\/131723625.html?s=sou_sou_soulb&t=0_0","job_name":".NET开发工程师","job_title":".NET开发工程师","company_href":"https:\/\/jobs.51job.com\/all\/co3848492.html","company_name":"青岛成方信息技术有限公司","providesalary_text":"6-8千\/月","workarea":"120302","workarea_text":"青岛-市北区","updatedate":"07-23","iscommunicate":"","companytype_text":"民营公司","degreefrom":"5","workyear":"3","issuedate":"2021-07-23 14:00:01","isFromXyz":"","isIntern":"","jobwelf":"五险一金 餐饮补贴 交通补贴 绩效奖金 定期体检 年终奖金 通讯补贴","jobwelf_list":["五险一金","餐饮补贴","交通补贴","绩效奖金","定期体检","年终奖金","通讯补贴"],"isdiffcity":"","attribute_text":["青岛-市北区","1年经验","大专","招3人"],"companysize_text":"50-150人","companyind_text":"计算机服务(系统、数据服务、维修)","adid":""},{"type":"engine_jds","jt":"0_0","tags":[],"ad_track":"","jobid":"125925064","coid":"2493127","effect":"1","is_special_job":"","job_href":"https:\/\/jobs.51job.com\/qingdao\/125925064.html?s=sou_sou_soulb&t=0_0","job_name":"C#开发工程师\/.net开发\/C#程序员","job_title":"C#开发工程师\/.net开发\/C#程序员","company_href":"https:\/\/jobs.51job.com\/all\/co2493127.html","company_name":"青岛新思诺软件有限责任公司","providesalary_text":"0.6-1万\/月","workarea":"120300","workarea_text":"青岛","updatedate":"07-20","iscommunicate":"","companytype_text":"民营公司","degreefrom":"5","workyear":"5","issuedate":"2021-07-20 13:33:09","isFromXyz":"","isIntern":"","jobwelf":"五险一金 交通补贴 餐饮补贴 通讯补贴 绩效奖金 年终奖金","jobwelf_list":["五险一金","交通补贴","餐饮补贴","通讯补贴","绩效奖金","年终奖金"],"isdiffcity":"","attribute_text":["青岛","3-4年经验","大专","招2人"],"companysize_text":"少于50人","companyind_text":"计算机软件","adid":""},{"type":"engine_jds","jt":"0_0","tags":[],"ad_track":"","jobid":"121438809","coid":"2586237","effect":"","is_special_job":"","job_href":"https:\/\/jobs.51job.com\/qingdao-sbq\/121438809.html?s=sou_sou_soulb&t=0_0","job_name":"ASP.NET C#软件开发工程师程","job_title":"ASP.NET C#软件开发工程师程","company_href":"https:\/\/jobs.51job.com\/all\/co2586237.html","company_name":"青岛创元软件科技有限公司","providesalary_text":"4-6千\/月","workarea":"120302","workarea_text":"青岛-市北区","updatedate":"07-17","iscommunicate":"","companytype_text":"民营公司","degreefrom":"5","workyear":"10","issuedate":"2021-07-17 14:56:46","isFromXyz":"","isIntern":"","jobwelf":"交通补贴 餐饮补贴 通讯补贴 专业培训 弹性工作","jobwelf_list":["交通补贴","餐饮补贴","通讯补贴","专业培训","弹性工作"],"isdiffcity":"","attribute_text":["青岛-市北区","无需经验","大专","招10人"],"companysize_text":"少于50人","companyind_text":"计算机软件","adid":""},{"type":"engine_jds","jt":"0_0","tags":[],"ad_track":"","jobid":"134409601","coid":"2597173","effect":"1","is_special_job":"","job_href":"https:\/\/jobs.51job.com\/qingdao-sbq\/134409601.html?s=sou_sou_soulb&t=0_0","job_name":"C#软件工程师","job_title":"C#软件工程师","company_href":"https:\/\/jobs.51job.com\/all\/co2597173.html","company_name":"青岛四机设备工程有限公司","providesalary_text":"0.8-1.5万\/月","workarea":"120302","workarea_text":"青岛-市北区","updatedate":"09-17","iscommunicate":"","companytype_text":"民营公司","degreefrom":"5","workyear":"5","issuedate":"2021-09-17 04:02:15","isFromXyz":"","isIntern":"","jobwelf":"五险一金 交通补贴 年终奖金 绩效奖金","jobwelf_list":["五险一金","交通补贴","年终奖金","绩效奖金"],"isdiffcity":"","attribute_text":["青岛-市北区","3-4年经验","大专","招2人"],"companysize_text":"150-500人","companyind_text":"机械\/设备\/重工","adid":""},{"type":"engine_jds","jt":"0_0","tags":[],"ad_track":"","jobid":"126547905","coid":"3262848","effect":"1","is_special_job":"","job_href":"https:\/\/jobs.51job.com\/qingdao-snq\/126547905.html?s=sou_sou_soulb&t=0_0","job_name":"对日高级软件开发工程师","job_title":"对日高级软件开发工程师","company_href":"https:\/\/jobs.51job.com\/all\/co3262848.html","company_name":"青岛日谷信息技术服务有限公司","providesalary_text":"0.5-1万\/月","workarea":"120301","workarea_text":"青岛-市南区","updatedate":"09-17","iscommunicate":"","companytype_text":"民营公司","degreefrom":"6","workyear":"3","issuedate":"2021-09-17 04:02:15","isFromXyz":"","isIntern":"","jobwelf":"五险一金 年终奖金 周末双休 带薪年假 节日福利 定期团建 公司重点项目","jobwelf_list":["五险一金","年终奖金","周末双休","带薪年假","节日福利","定期团建","公司重点项目"],"isdiffcity":"","attribute_text":["青岛-市南区","1年经验","本科","招5人"],"companysize_text":"50-150人","companyind_text":"计算机软件","adid":""},{"type":"engine_jds","jt":"0_0","tags":[],"ad_track":"","jobid":"130716421","coid":"4743311","effect":"1","is_special_job":"","job_href":"https:\/\/jobs.51job.com\/qingdao-hdq\/130716421.html?s=sou_sou_soulb&t=0_0","job_name":"软件开发工程师（8小时+双休）","job_title":"软件开发工程师（8小时+双休）","company_href":"https:\/\/jobs.51job.com\/all\/co4743311.html","company_name":"青岛宏智软件有限公司","providesalary_text":"4.5-7千\/月","workarea":"120303","workarea_text":"青岛-黄岛区","updatedate":"09-17","iscommunicate":"","companytype_text":"外资（非欧美）","degreefrom":"6","workyear":"10","issuedate":"2021-09-17 14:02:27","isFromXyz":"","isIntern":"","jobwelf":"五险一金 员工旅游 专业培训 出国机会 绩效奖金 年终奖金 弹性工作 定期体检","jobwelf_list":["五险一金","员工旅游","专业培训","出国机会","绩效奖金","年终奖金","弹性工作","定期体检"],"isdiffcity":"","attribute_text":["青岛-黄岛区","无需经验","本科","招20人"],"companysize_text":"50-150人","companyind_text":"计算机软件","adid":""},{"type":"engine_jds","jt":"0_0","tags":[],"ad_track":"","jobid":"134201667","coid":"2590890","effect":"1","is_special_job":"","job_href":"https:\/\/jobs.51job.com\/qingdao-snq\/134201667.html?s=sou_sou_soulb&t=0_0","job_name":"技术工程师","job_title":"技术工程师","company_href":"https:\/\/jobs.51job.com\/all\/co2590890.html","company_name":"青岛网利通科技有限公司","providesalary_text":"6-8千\/月","workarea":"120301","workarea_text":"青岛-市南区","updatedate":"09-17","iscommunicate":"","companytype_text":"民营公司","degreefrom":"5","workyear":"10","issuedate":"2021-09-17 20:02:18","isFromXyz":"","isIntern":"","jobwelf":"社会保险 交通补贴 通讯补贴 绩效奖金 周末双休","jobwelf_list":["社会保险","交通补贴","通讯补贴","绩效奖金","周末双休"],"isdiffcity":"","attribute_text":["青岛-市南区","无需经验","大专","招2人"],"companysize_text":"少于50人","companyind_text":"计算机软件","adid":""},{"type":"engine_jds","jt":"0_0","tags":[],"ad_track":"","jobid":"86453671","coid":"2471253","effect":"1","is_special_job":"","job_href":"https:\/\/jobs.51job.com\/qingdao-lsq\/86453671.html?s=sou_sou_soulb&t=0_0","job_name":"软件开发工程师","job_title":"软件开发工程师","company_href":"https:\/\/jobs.51job.com\/all\/co2471253.html","company_name":"青岛九域数码科技有限公司","providesalary_text":"3.5-6千\/月","workarea":"120304","workarea_text":"青岛-崂山区","updatedate":"09-17","iscommunicate":"","companytype_text":"民营公司","degreefrom":"5","workyear":"","issuedate":"2021-09-17 18:59:11","isFromXyz":"","isIntern":"","jobwelf":"五险一金 员工旅游 交通补贴 年终奖金 绩效奖金 专业培训 通讯补贴 餐饮补贴 弹性工作","jobwelf_list":["五险一金","员工旅游","交通补贴","年终奖金","绩效奖金","专业培训","通讯补贴","餐饮补贴","弹性工作"],"isdiffcity":"","attribute_text":["青岛-崂山区","大专","招2人"],"companysize_text":"50-150人","companyind_text":"计算机服务(系统、数据服务、维修)","adid":""},{"type":"engine_jds","jt":"0_0","tags":[],"ad_track":"","jobid":"132605418","coid":"289138","effect":"1","is_special_job":"","job_href":"https:\/\/jobs.51job.com\/qingdao\/132605418.html?s=sou_sou_soulb&t=0_0","job_name":"Software Service Engineer","job_title":"Software Service Engineer","company_href":"https:\/\/jobs.51job.com\/all\/co289138.html","company_name":"罗克韦尔自动化(中国)有限公司","providesalary_text":"","workarea":"120300","workarea_text":"青岛","updatedate":"09-17","iscommunicate":"","companytype_text":"外资（欧美）","degreefrom":"6","workyear":"5","issuedate":"2021-09-17 17:00:09","isFromXyz":"","isIntern":"","jobwelf":"周末双休 弹性工作 带薪年假 免费班车 专业培训 节日福利 五险一金 员工旅游 年终奖金","jobwelf_list":["周末双休","弹性工作","带薪年假","免费班车","专业培训","节日福利","五险一金","员工旅游","年终奖金"],"isdiffcity":"","attribute_text":["青岛","3-4年经验","本科","招若干人"],"companysize_text":"1000-5000人","companyind_text":"仪器仪表\/工业自动化","adid":""},{"type":"engine_jds","jt":"0_0","tags":[],"ad_track":"","jobid":"124773130","coid":"3817154","effect":"1","is_special_job":"","job_href":"https:\/\/jobs.51job.com\/qingdao\/124773130.html?s=sou_sou_soulb&t=0_0","job_name":"急聘C#开发\/6-8k+","job_title":"急聘C#开发\/6-8k+","company_href":"https:\/\/jobs.51job.com\/all\/co3817154.html","company_name":"爬山虎","providesalary_text":"6-8千\/月","workarea":"120300","workarea_text":"青岛","updatedate":"09-17","iscommunicate":"","companytype_text":"民营公司","degreefrom":"","workyear":"10","issuedate":"2021-09-17 16:28:36","isFromXyz":"","isIntern":"","jobwelf":"五险一金 员工旅游 专业培训 绩效奖金 年终奖金 包住 周末双休 弹性工作","jobwelf_list":["五险一金","员工旅游","专业培训","绩效奖金","年终奖金","包住","周末双休","弹性工作"],"isdiffcity":"","attribute_text":["青岛","无需经验","招10人"],"companysize_text":"150-500人","companyind_text":"计算机软件","adid":""},{"type":"engine_jds","jt":"0_0","tags":[],"ad_track":"","jobid":"134220306","coid":"6438321","effect":"1","is_special_job":"","job_href":"https:\/\/jobs.51job.com\/qingdao-snq\/134220306.html?s=sou_sou_soulb&t=0_0","job_name":"云计算研发工程师 5-8K+","job_title":"云计算研发工程师 5-8K+","company_href":"https:\/\/jobs.51job.com\/all\/coVTVQMARkVWMPaQFgAGQ.html","company_name":"青岛嘉淼网络科技有限公司","providesalary_text":"5-9千\/月","workarea":"120301","workarea_text":"青岛-市南区","updatedate":"09-17","iscommunicate":"","companytype_text":"民营公司","degreefrom":"5","workyear":"10","issuedate":"2021-09-17 16:23:56","isFromXyz":"","isIntern":"","jobwelf":"五险一金 绩效奖金 年终奖金 早九晚六 周末双休 带薪年假15天","jobwelf_list":["五险一金","绩效奖金","年终奖金","早九晚六","周末双休","带薪年假15天"],"isdiffcity":"","attribute_text":["青岛-市南区","无需经验","大专","招2人"],"companysize_text":"","companyind_text":"通信\/电信\/网络设备","adid":""},{"type":"engine_jds","jt":"0_0","tags":[],"ad_track":"","jobid":"97779232","coid":"376897","effect":"1","is_special_job":"","job_href":"https:\/\/jobs.51job.com\/qingdao\/97779232.html?s=sou_sou_soulb&t=0_0","job_name":"电子软件工程师-Senior Software Engineer","job_title":"电子软件工程师-Senior Software Engineer","company_href":"https:\/\/jobs.51job.com\/all\/co376897.html","company_name":"尼得科电机（青岛）有限公司","providesalary_text":"15-20万\/年","workarea":"120300","workarea_text":"青岛","updatedate":"09-17","iscommunicate":"","companytype_text":"外资（欧美）","degreefrom":"6","workyear":"6","issuedate":"2021-09-17 15:09:38","isFromXyz":"","isIntern":"","jobwelf":"五险一金 免费班车 出国机会 年终奖金 定期体检","jobwelf_list":["五险一金","免费班车","出国机会","年终奖金","定期体检"],"isdiffcity":"","attribute_text":["青岛","5-7年经验","本科","招1人"],"companysize_text":"500-1000人","companyind_text":"机械\/设备\/重工","adid":""},{"type":"engine_jds","jt":"0_0","tags":[],"ad_track":"","jobid":"131722119","coid":"4651374","effect":"1","is_special_job":"","job_href":"https:\/\/jobs.51job.com\/qingdao-hdq\/131722119.html?s=sou_sou_soulb&t=0_0","job_name":"软件开发工程师","job_title":"软件开发工程师","company_href":"https:\/\/jobs.51job.com\/all\/co4651374.html","company_name":"青岛中科华联新材料股份有限公司","providesalary_text":"0.8-1.2万\/月","workarea":"120303","workarea_text":"青岛-黄岛区","updatedate":"09-17","iscommunicate":"","companytype_text":"民营公司","degreefrom":"6","workyear":"3","issuedate":"2021-09-17 14:19:42","isFromXyz":"","isIntern":"","jobwelf":"五险一金 免费班车 专业培训 绩效奖金 定期体检","jobwelf_list":["五险一金","免费班车","专业培训","绩效奖金","定期体检"],"isdiffcity":"","attribute_text":["青岛-黄岛区","1年经验","本科","招2人"],"companysize_text":"150-500人","companyind_text":"机械\/设备\/重工","adid":""},{"type":"engine_jds","jt":"0_1","tags":[],"ad_track":"","jobid":"119524591","coid":"252573","effect":"1","is_special_job":"","job_href":"https:\/\/jobs.51job.com\/chengdu\/119524591.html?s=sou_sou_soulb&t=0_1","job_name":"对日软件工程师（工作地成都）","job_title":"对日软件工程师（工作地成都）","company_href":"https:\/\/jobs.51job.com\/all\/co252573.html","company_name":"音泰思计算机技术（成都）有限公司","providesalary_text":"0.7-1.5万\/月","workarea":"090200","workarea_text":"成都","updatedate":"09-17","iscommunicate":"","companytype_text":"合资","degreefrom":"","workyear":"","issuedate":"2021-09-17 13:32:50","isFromXyz":"","isIntern":"","jobwelf":"周末双休 五险一金","jobwelf_list":["周末双休","五险一金"],"isdiffcity":"1","attribute_text":["成都","招若干人"],"companysize_text":"150-500人","companyind_text":"计算机软件","adid":""}],"jobid_count":"235","group":[],"banner_ads":"<div class=\"mainleft s_search search_btm0\" id=\"banner_ads\">\r\n                                        <table border=0 cellspacing=0 cellpadding=4><tr>\n\t<td><a adid=\"35196230\" onmousedown=\"return AdsClick(35196230)\" href=\"https:\/\/companyadc.51job.com\/companyads\/2021\/cs\/35196230\/index.htm\" title=\"伟仕佳杰控股有限公司\" target=\"_blank\" onfocus=\"blur()\"><img src=\"\/\/img05.51jobcdn.com\/im\/images\/ads\/36\/35197\/35196230\/9936.gif\" border=\"0\" width=\"150\" height=\"60\"><\/a><\/td>\n\t<td><a adid=\"35444713\" onmousedown=\"return AdsClick(35444713)\" href=\"https:\/\/companyadc.51job.com\/companyads\/ads\/36\/35445\/35444713\/index.htm\" title=\"武汉慧联无限科技有限公司\" target=\"_blank\" onfocus=\"blur()\"><img src=\"\/\/img05.51jobcdn.com\/im\/images\/ads\/36\/35445\/35444713\/hlw.gif\" border=\"0\" width=\"150\" height=\"60\"><\/a><\/td>\n\t<td><a adid=\"35334843\" onmousedown=\"return AdsClick(35334843)\" href=\"https:\/\/companyadc.51job.com\/companyads\/ads\/36\/35335\/35334843\/index.htm\" title=\"安德阿镆贸易（上海）有限公司\" target=\"_blank\" onfocus=\"blur()\"><img src=\"\/\/img05.51jobcdn.com\/im\/images\/ads\/36\/35335\/35334843\/ad150-60.gif\" border=\"0\" width=\"150\" height=\"60\"><\/a><\/td>\n\t<td><a adid=\"35252748\" onmousedown=\"return AdsClick(35252748)\" href=\"https:\/\/companyadc.51job.com\/companyads\/2021\/gz\/35252748\/index.htm\" title=\"捷普电子（广州）有限公司\" target=\"_blank\" onfocus=\"blur()\"><img src=\"\/\/img05.51jobcdn.com\/im\/images\/ads\/36\/35253\/35252748\/jp150.gif\" border=\"0\" width=\"150\" height=\"60\"><\/a><\/td>\n\t<td><a adid=\"34594235\" onmousedown=\"return AdsClick(34594235)\" href=\"https:\/\/companyadc.51job.com\/companyads\/ads\/35\/34595\/34594235\/index.htm\" title=\"英域成语言培训（上海）有限公司\" target=\"_blank\" onfocus=\"blur()\"><img src=\"\/\/img05.51jobcdn.com\/im\/images\/ads\/35\/34595\/34594235\/092412.gif\" border=\"0\" width=\"150\" height=\"60\"><\/a><\/td>\n\t<td><a adid=\"35423291\" onmousedown=\"return AdsClick(35423291)\" href=\"https:\/\/companyadc.51job.com\/companyads\/2021\/sz\/35423291\/index.htm\" title=\"深圳悦孚斯科技有限公司\" target=\"_blank\" onfocus=\"blur()\"><img src=\"\/\/img05.51jobcdn.com\/im\/images\/ads\/36\/35424\/35423291\/yfuu.gif\" border=\"0\" width=\"150\" height=\"60\"><\/a><\/td>\n<\/tr>\n<\/table>                    <table border=0 cellspacing=0 cellpadding=4>\r\n                        <tr>\r\n                            <td><a href=\"https:\/\/edu.51job.com\" target=\"_blank\" onfocus=\"blur()\"><img src=\"\/\/img03.51jobcdn.com\/im\/mkt\/zn\/train\/20200618\/ad\/eduad.png\" border=\"0\" width=\"150\" height=\"60\"><\/a><\/td>\r\n                        <\/tr>\r\n                    <\/table>\r\n                                <\/div>","is_collapseexpansion":"","co_ads":[],"keyword_recommendation":{"title":"猜你喜欢","data_type":"1","keyword":".net","data":[{"href":"https:\/\/search.51job.com\/list\/120300,000000,0000,00,9,99,.NET%2B%25E5%25BC%2580%25E5%258F%2591,2,1.html?lang=c&postchannel=0000&workyear=99&cotype=99&degreefrom=99&jobterm=99&companysize=99&ord_field=0&dibiaoid=0&line=&welfare=","text":".NET 开发","click":"15\u001a1\u001a1631880666006\u001a\u001a6e12961aa2fd23ef7636ad167f00e0a7\u001a123.168.102.237\u001a1\u001a.net\u001a.NET 开发,.NET 高级,C# .NET,.NET 中级,ASP.NET,.NET 网站,.NET 架构,.NET 经理,.NET 主管,开发工程师\u001a.NET 开发"},{"href":"https:\/\/search.51job.com\/list\/120300,000000,0000,00,9,99,.NET%2B%25E9%25AB%2598%25E7%25BA%25A7,2,1.html?lang=c&postchannel=0000&workyear=99&cotype=99&degreefrom=99&jobterm=99&companysize=99&ord_field=0&dibiaoid=0&line=&welfare=","text":".NET 高级","click":"15\u001a1\u001a1631880666006\u001a\u001a6e12961aa2fd23ef7636ad167f00e0a7\u001a123.168.102.237\u001a1\u001a.net\u001a.NET 开发,.NET 高级,C# .NET,.NET 中级,ASP.NET,.NET 网站,.NET 架构,.NET 经理,.NET 主管,开发工程师\u001a.NET 高级"},{"href":"https:\/\/search.51job.com\/list\/120300,000000,0000,00,9,99,C%2523%2B.NET,2,1.html?lang=c&postchannel=0000&workyear=99&cotype=99&degreefrom=99&jobterm=99&companysize=99&ord_field=0&dibiaoid=0&line=&welfare=","text":"C# .NET","click":"15\u001a1\u001a1631880666006\u001a\u001a6e12961aa2fd23ef7636ad167f00e0a7\u001a123.168.102.237\u001a1\u001a.net\u001a.NET 开发,.NET 高级,C# .NET,.NET 中级,ASP.NET,.NET 网站,.NET 架构,.NET 经理,.NET 主管,开发工程师\u001aC# .NET"},{"href":"https:\/\/search.51job.com\/list\/120300,000000,0000,00,9,99,.NET%2B%25E4%25B8%25AD%25E7%25BA%25A7,2,1.html?lang=c&postchannel=0000&workyear=99&cotype=99&degreefrom=99&jobterm=99&companysize=99&ord_field=0&dibiaoid=0&line=&welfare=","text":".NET 中级","click":"15\u001a1\u001a1631880666006\u001a\u001a6e12961aa2fd23ef7636ad167f00e0a7\u001a123.168.102.237\u001a1\u001a.net\u001a.NET 开发,.NET 高级,C# .NET,.NET 中级,ASP.NET,.NET 网站,.NET 架构,.NET 经理,.NET 主管,开发工程师\u001a.NET 中级"},{"href":"https:\/\/search.51job.com\/list\/120300,000000,0000,00,9,99,ASP.NET,2,1.html?lang=c&postchannel=0000&workyear=99&cotype=99&degreefrom=99&jobterm=99&companysize=99&ord_field=0&dibiaoid=0&line=&welfare=","text":"ASP.NET","click":"15\u001a1\u001a1631880666006\u001a\u001a6e12961aa2fd23ef7636ad167f00e0a7\u001a123.168.102.237\u001a1\u001a.net\u001a.NET 开发,.NET 高级,C# .NET,.NET 中级,ASP.NET,.NET 网站,.NET 架构,.NET 经理,.NET 主管,开发工程师\u001aASP.NET"},{"href":"https:\/\/search.51job.com\/list\/120300,000000,0000,00,9,99,.NET%2B%25E7%25BD%2591%25E7%25AB%2599,2,1.html?lang=c&postchannel=0000&workyear=99&cotype=99&degreefrom=99&jobterm=99&companysize=99&ord_field=0&dibiaoid=0&line=&welfare=","text":".NET 网站","click":"15\u001a1\u001a1631880666006\u001a\u001a6e12961aa2fd23ef7636ad167f00e0a7\u001a123.168.102.237\u001a1\u001a.net\u001a.NET 开发,.NET 高级,C# .NET,.NET 中级,ASP.NET,.NET 网站,.NET 架构,.NET 经理,.NET 主管,开发工程师\u001a.NET 网站"},{"href":"https:\/\/search.51job.com\/list\/120300,000000,0000,00,9,99,.NET%2B%25E6%259E%25B6%25E6%259E%2584,2,1.html?lang=c&postchannel=0000&workyear=99&cotype=99&degreefrom=99&jobterm=99&companysize=99&ord_field=0&dibiaoid=0&line=&welfare=","text":".NET 架构","click":"15\u001a1\u001a1631880666006\u001a\u001a6e12961aa2fd23ef7636ad167f00e0a7\u001a123.168.102.237\u001a1\u001a.net\u001a.NET 开发,.NET 高级,C# .NET,.NET 中级,ASP.NET,.NET 网站,.NET 架构,.NET 经理,.NET 主管,开发工程师\u001a.NET 架构"},{"href":"https:\/\/search.51job.com\/list\/120300,000000,0000,00,9,99,.NET%2B%25E7%25BB%258F%25E7%2590%2586,2,1.html?lang=c&postchannel=0000&workyear=99&cotype=99&degreefrom=99&jobterm=99&companysize=99&ord_field=0&dibiaoid=0&line=&welfare=","text":".NET 经理","click":"15\u001a1\u001a1631880666006\u001a\u001a6e12961aa2fd23ef7636ad167f00e0a7\u001a123.168.102.237\u001a1\u001a.net\u001a.NET 开发,.NET 高级,C# .NET,.NET 中级,ASP.NET,.NET 网站,.NET 架构,.NET 经理,.NET 主管,开发工程师\u001a.NET 经理"},{"href":"https:\/\/search.51job.com\/list\/120300,000000,0000,00,9,99,.NET%2B%25E4%25B8%25BB%25E7%25AE%25A1,2,1.html?lang=c&postchannel=0000&workyear=99&cotype=99&degreefrom=99&jobterm=99&companysize=99&ord_field=0&dibiaoid=0&line=&welfare=","text":".NET 主管","click":"15\u001a1\u001a1631880666006\u001a\u001a6e12961aa2fd23ef7636ad167f00e0a7\u001a123.168.102.237\u001a1\u001a.net\u001a.NET 开发,.NET 高级,C# .NET,.NET 中级,ASP.NET,.NET 网站,.NET 架构,.NET 经理,.NET 主管,开发工程师\u001a.NET 主管"},{"href":"https:\/\/search.51job.com\/list\/120300,000000,0000,00,9,99,%25E5%25BC%2580%25E5%258F%2591%25E5%25B7%25A5%25E7%25A8%258B%25E5%25B8%2588,2,1.html?lang=c&postchannel=0000&workyear=99&cotype=99&degreefrom=99&jobterm=99&companysize=99&ord_field=0&dibiaoid=0&line=&welfare=","text":"开发工程师","click":"15\u001a1\u001a1631880666006\u001a\u001a6e12961aa2fd23ef7636ad167f00e0a7\u001a123.168.102.237\u001a1\u001a.net\u001a.NET 开发,.NET 高级,C# .NET,.NET 中级,ASP.NET,.NET 网站,.NET 架构,.NET 经理,.NET 主管,开发工程师\u001a开发工程师"}]},"search_condition":{"lang":"c","keywordtype":"2","ord_field":"0","jobarea":"120300","curr_page":"1","workarea":"000000","district":"000000","dibiaoid":"0","postchannel":"0000","reservechannel":"00000000","issuedate":"9","providesalary":"99","degreefrom":"99","companysize":"99","cotype":"99","workyear":"99","industrytype":"00","funtype":"0000","jobterm":"99","keyword":".net","welfare":"","address":"","line":"","confirmdate":"9","radius":"-1","lonlat":"0,0","exparea":"000000","groupid":"0","coid":"0"},"searched_condition":".net(全文)+青岛","curr_page":"1","total_page":"5","keyword_ads":[],"job_search_assistance":[{"url":"https:\/\/edu.51job.com\/lesson_detail.php?lessonid=40801&fromtype=pc_searchresult_list","img":"https:\/\/img01.51jobcdn.com\/im\/mkt\/zn\/train\/20200316\/course\/40801.png?1630482128","txt":"全景绩效解析","vtxt":"HR","startdate":"2021-09-01","enddate":"2021-09-30","indexform":"","isdefault":"0"},{"url":"https:\/\/edu.51job.com\/lesson_detail.php?lessonid=10602&fromtype=pc_searchresult_list","img":"\/\/img01.51jobcdn.com\/im\/mkt\/zn\/train\/20191220\/10602.jpg?1630481955","txt":"面试中的说话之道","vtxt":"面试 求职 沟通技巧","startdate":"2020-07-28","enddate":"2021-12-31","indexform":"","isdefault":"0"},{"url":"https:\/\/edu.51job.com\/lesson_detail.php?lessonid=15001&fromtype=pc_searchresult_list","img":"https:\/\/img01.51jobcdn.com\/im\/mkt\/zn\/train\/20200602\/course\/15001.png?1630481922","txt":"全方位打造有面试机会的简历","vtxt":"简历","startdate":"2021-08-31","enddate":"2021-09-30","indexform":"","isdefault":"0"}],"seo_title":"【青岛,.net招聘，求职】-前程无忧","seo_description":"前程无忧为您提供青岛,.net招聘，求职信息。网聚全国各城市的人才信息，找好工作，找好员工，上前程无忧。","seo_keywords":"找工作,求职,人才,招聘"}</script>
+<div class="clear"></div>
+<a href="#top" id="goTop" style="display: none;">回到<br/>顶部</a>
+<a class="dw_fb" href="//i.51job.com/userset/advice.php?from=search" target="_blank"></a>
+<div class="bottombox">
+<div class="in">
+<div class="bmad">
+<!-- BANNER 广告 -->
+<div class="mainleft s_search search_btm0" id="banner_ads">
+<table border="0" cellpadding="4" cellspacing="0"><tr>
+<td><a adid="35196230" href="https://companyadc.51job.com/companyads/2021/cs/35196230/index.htm" onfocus="blur()" onmousedown="return AdsClick(35196230)" target="_blank" title="伟仕佳杰控股有限公司"><img border="0" height="60" src="//img05.51jobcdn.com/im/images/ads/36/35197/35196230/9936.gif" width="150"/></a></td>
+<td><a adid="35444713" href="https://companyadc.51job.com/companyads/ads/36/35445/35444713/index.htm" onfocus="blur()" onmousedown="return AdsClick(35444713)" target="_blank" title="武汉慧联无限科技有限公司"><img border="0" height="60" src="//img05.51jobcdn.com/im/images/ads/36/35445/35444713/hlw.gif" width="150"/></a></td>
+<td><a adid="35334843" href="https://companyadc.51job.com/companyads/ads/36/35335/35334843/index.htm" onfocus="blur()" onmousedown="return AdsClick(35334843)" target="_blank" title="安德阿镆贸易（上海）有限公司"><img border="0" height="60" src="//img05.51jobcdn.com/im/images/ads/36/35335/35334843/ad150-60.gif" width="150"/></a></td>
+<td><a adid="35252748" href="https://companyadc.51job.com/companyads/2021/gz/35252748/index.htm" onfocus="blur()" onmousedown="return AdsClick(35252748)" target="_blank" title="捷普电子（广州）有限公司"><img border="0" height="60" src="//img05.51jobcdn.com/im/images/ads/36/35253/35252748/jp150.gif" width="150"/></a></td>
+<td><a adid="34594235" href="https://companyadc.51job.com/companyads/ads/35/34595/34594235/index.htm" onfocus="blur()" onmousedown="return AdsClick(34594235)" target="_blank" title="英域成语言培训（上海）有限公司"><img border="0" height="60" src="//img05.51jobcdn.com/im/images/ads/35/34595/34594235/092412.gif" width="150"/></a></td>
+<td><a adid="35423291" href="https://companyadc.51job.com/companyads/2021/sz/35423291/index.htm" onfocus="blur()" onmousedown="return AdsClick(35423291)" target="_blank" title="深圳悦孚斯科技有限公司"><img border="0" height="60" src="//img05.51jobcdn.com/im/images/ads/36/35424/35423291/yfuu.gif" width="150"/></a></td>
+</tr>
+</table> <table border="0" cellpadding="4" cellspacing="0">
+<tr>
+<td><a href="https://edu.51job.com" onfocus="blur()" target="_blank"><img border="0" height="60" src="//img04.51jobcdn.com/im/mkt/zn/train/20200618/ad/eduad.png" width="150"/></a></td>
+</tr>
+</table>
+</div> <!-- 广告 end -->
+<div class="clearbox"></div>
+</div>
+<div class="tResult_bottom_roll tResult_bottom_roll_w">
+<!--地区招聘 start -->
+<div class="rollBox">
+<div id="announcement">
+<div id="announcementbody">
+<ul><li style="font-size:14px;color:#666;">地区人才网招聘</li>
+<li class="st_one"><a href="https://jobs.51job.com/beijing/" target="_blank">北京人才网</a></li><li class="st_one"><a href="https://jobs.51job.com/shanghai/" target="_blank">上海人才网</a></li><li class="st_one"><a href="https://jobs.51job.com/guangzhou/" target="_blank">广州人才网</a></li><li class="st_one"><a href="https://jobs.51job.com/shenzhen/" target="_blank">深圳人才网</a></li><li class="st_one"><a href="https://jobs.51job.com/wuhan/" target="_blank">武汉人才网</a></li><li class="st_one"><a href="https://jobs.51job.com/xian/" target="_blank">西安人才网</a></li><li class="st_one"><a href="https://jobs.51job.com/hangzhou/" target="_blank">杭州人才网</a></li> </ul>
+<ul><li style="font-size:14px;color:#666;">地区人才网招聘</li>
+<li class="st_one"><a href="https://jobs.51job.com/nanjing/" target="_blank">南京人才网</a></li><li class="st_one"><a href="https://jobs.51job.com/chengdu/" target="_blank">成都人才网</a></li><li class="st_one"><a href="https://jobs.51job.com/chongqing/" target="_blank">重庆人才网</a></li><li class="st_one"><a href="https://jobs.51job.com/dongguan/" target="_blank">东莞人才网</a></li><li class="st_one"><a href="https://jobs.51job.com/dalian/" target="_blank">大连人才网</a></li><li class="st_one"><a href="https://jobs.51job.com/shenyang/" target="_blank">沈阳人才网</a></li><li class="st_one"><a href="https://jobs.51job.com/suzhou/" target="_blank">苏州人才网</a></li> </ul>
+<ul><li style="font-size:14px;color:#666;">地区人才网招聘</li>
+<li class="st_one"><a href="https://jobs.51job.com/kunming/" target="_blank">昆明人才网</a></li><li class="st_one"><a href="https://jobs.51job.com/changsha/" target="_blank">长沙人才网</a></li><li class="st_one"><a href="https://jobs.51job.com/hefei/" target="_blank">合肥人才网</a></li><li class="st_one"><a href="https://jobs.51job.com/ningbo/" target="_blank">宁波人才网</a></li><li class="st_one"><a href="https://jobs.51job.com/zhengzhou/" target="_blank">郑州人才网</a></li><li class="st_one"><a href="https://jobs.51job.com/tianjin/" target="_blank">天津人才网</a></li><li class="st_one"><a href="https://jobs.51job.com/qingdao/" target="_blank">青岛人才网</a></li> </ul>
+<ul><li style="font-size:14px;color:#666;">简历模板</li>
+<li class="st_one"><a href="https://jianli.51job.com/" target="_blank">个人简历模板</a></li>
+<li class="st_one"><a href="https://jianli.51job.com/fengmian/" target="_blank">简历封面</a></li>
+<li class="st_one"><a href="https://jianli.51job.com/biaoge/" target="_blank">简历表格</a></li>
+<li class="st_one"><a href="https://jianli.51job.com/jianlifanwen/" target="_blank">简历范文</a></li>
+<li class="st_one"><a href="https://jianli.51job.com/jianliyangben/" target="_blank">简历样本</a></li>
+<li class="st_one"><a href="https://jianli.51job.com/gaoxiao/" target="_blank">高校简历</a></li>
+<li class="st_one"><a href="https://jianli.51job.com/zhuanye/" target="_blank">专业简历</a></li>
+</ul>
+</div>
+</div> </div>
+<!--地区招聘 end-->
+<div class="rollBox">
+<h3>个人简历模版-简历指导</h3>
+<div class="rollBox_twoRow f14">
+<div id="resumeGuideTopicsBody">
+</div>
+<div id="resumeGuideTopics" style="display:none">
+<div><ul class="resumeGuide"><li><a href="//jianli.51job.com/fengmian/" target="_blank" title="简历封面"><strong>简历封面</strong></a><span style="color:#266EBA"> | </span><a href="//jianli.51job.com/fengmian/9795.html" target="_blank" title="[简历封面下载]机会">[简历封面下载]机...</a></li><li><a href="//jianli.51job.com/jianlifanwen/" target="_blank" title="简历范文"><strong>简历范文</strong></a><span style="color:#266EBA"> | </span><a href="//jianli.51job.com/jianlifanwen/14367.html" target="_blank" title="图书编目加工部主管简历范文">图书编目加工部主...</a></li><li><a href="//jianli.51job.com/biaoge/" target="_blank" title="个人简历表格"><strong>个人简历表格</strong></a><span style="color:#266EBA"> | </span><a href="//jianli.51job.com/biaoge/1329.html" target="_blank" title="互联网开发个人简历表格">互联网开发个...</a></li><li><a href="//jianli.51job.com/jianliyangben/" target="_blank" title="简历样本"><strong>简历样本</strong></a><span style="color:#266EBA"> | </span><a href="//jianli.51job.com/jianliyangben/128.html" target="_blank" title="中国现当代文学简历样本">中国现当代文学简...</a></li><li><a href="//jianli.51job.com/gaoxiao/" target="_blank" title="高校简历模板"><strong>高校简历模板</strong></a><span style="color:#266EBA"> | </span><a href="//jianli.51job.com/gaoxiao/193.html" target="_blank" title="南昌航空大学高校简历模版">南昌航空大学...</a></li><li><a href="//jianli.51job.com/zhuanye/" target="_blank" title="专业简历模板"><strong>专业简历模板</strong></a><span style="color:#266EBA"> | </span><a href="//jianli.51job.com/zhuanye/196.html" target="_blank" title="冶金工程专业">冶金工程专业</a></li><li><a href="//jianli.51job.com/xiaohui/" target="_blank" title="高校校徽下载"><strong>高校校徽下载</strong></a><span style="color:#266EBA"> | </span><a href="//jianli.51job.com/xiaohui/347.html" target="_blank" title="深圳大学">深圳大学</a></li><li><a href="//jianli.51job.com/jianliyangben/" target="_blank" title="简历样本"><strong>简历样本</strong></a><span style="color:#266EBA"> | </span><a href="//jianli.51job.com/jianliyangben/126.html" target="_blank" title="业务员简历样本">业务员简历样本</a></li></ul></div><div><ul class="resumeGuide"><li><a href="//jianli.51job.com/biaoge/" target="_blank" title="个人简历表格"><strong>个人简历表格</strong></a><span style="color:#266EBA"> | </span><a href="//jianli.51job.com/biaoge/1323.html" target="_blank" title="电子商务专业本科毕业生个人简历表格">电子商务专业...</a></li><li><a href="//jianli.51job.com/xiaohui/" target="_blank" title="高校校徽下载"><strong>高校校徽下载</strong></a><span style="color:#266EBA"> | </span><a href="//jianli.51job.com/xiaohui/346.html" target="_blank" title="上海理工大学">上海理工大学</a></li><li><a href="//jianli.51job.com/fengmian/" target="_blank" title="简历封面"><strong>简历封面</strong></a><span style="color:#266EBA"> | </span><a href="//jianli.51job.com/fengmian/9801.html" target="_blank" title="[简历封面下载]激情">[简历封面下载]激...</a></li><li><a href="//jianli.51job.com/gaoxiao/" target="_blank" title="高校简历模板"><strong>高校简历模板</strong></a><span style="color:#266EBA"> | </span><a href="//jianli.51job.com/gaoxiao/211.html" target="_blank" title="杭州师范大学高校简历模版">杭州师范大学...</a></li><li><a href="//jianli.51job.com/zhuanye/" target="_blank" title="专业简历模板"><strong>专业简历模板</strong></a><span style="color:#266EBA"> | </span><a href="//jianli.51job.com/zhuanye/187.html" target="_blank" title="经营管理专业">经营管理专业</a></li><li><a href="//jianli.51job.com/jianliyangben/" target="_blank" title="简历样本"><strong>简历样本</strong></a><span style="color:#266EBA"> | </span><a href="//jianli.51job.com/jianliyangben/104.html" target="_blank" title="人力资源总监简历样本">人力资源总监简历...</a></li><li><a href="//jianli.51job.com/jianlifanwen/" target="_blank" title="简历范文"><strong>简历范文</strong></a><span style="color:#266EBA"> | </span><a href="//jianli.51job.com/jianlifanwen/14356.html" target="_blank" title="商务总监简历范文">商务总监简历范文</a></li><li><a href="//jianli.51job.com/zhuanye/" target="_blank" title="专业简历模板"><strong>专业简历模板</strong></a><span style="color:#266EBA"> | </span><a href="//jianli.51job.com/zhuanye/192.html" target="_blank" title="广播电视新闻专业">广播电视新闻...</a></li></ul></div><div><ul class="resumeGuide"><li><a href="//jianli.51job.com/biaoge/" target="_blank" title="个人简历表格"><strong>个人简历表格</strong></a><span style="color:#266EBA"> | </span><a href="//jianli.51job.com/biaoge/1271.html" target="_blank" title="应届毕业生个人简历表格">应届毕业生个...</a></li><li><a href="//jianli.51job.com/gaoxiao/" target="_blank" title="高校简历模板"><strong>高校简历模板</strong></a><span style="color:#266EBA"> | </span><a href="//jianli.51job.com/gaoxiao/128.html" target="_blank" title="同济大学高校简历模版">同济大学高校...</a></li></ul></div> </div>
+</div>
+</div> </div>
+</div>
+</div>
+<div class="footer">
+<div class="in">
+<div class="nag">
+<div class="e e_first">
+<label>销售热线：</label>400-886-0051  027-87810888<br/>
+<label>客服热线：</label>400-620-5100<br/>
+<label>Email：</label><a href="mailto:club@51job.com" rel="external nofollow">club@51job.com</a>（个人）<br/>
+<a href="mailto:hr@51job.com" rel="external nofollow">hr@51job.com</a>（公司）            </div>
+<div class="e">
+<strong>简介</strong><br/>
+<a href="//www.51job.com/bo/AboutUs.php" target="_blank">关于我们</a><br/>
+<a href="//www.51job.com/bo/service.php" target="_blank">法律协议</a><br/>
+<a href="//www.51job.com/bo/private.php" target="_blank">隐私条款</a><br/>
+<a href="https://media.51job.com/media.php" target="_blank">媒体报道</a><br/>
+<a href="https://ir.51job.com/ir/IRMain.php" target="_blank">Investor Relations</a>
+</div>
+<div class="e">
+<strong>合作</strong><br/>
+<a href="//www.51job.com/bo/jobs/new_joinus.php" target="_blank">加入我们</a><br/>
+<a href="//www.51job.com/bo/contact.php" target="_blank">联系我们</a><br/>
+<a href="//www.51job.com/link.php" target="_blank">友情链接</a> </div>
+<div class="e">
+<strong>帮助</strong><br/>
+<a href="https://help.51job.com/home.html" target="_blank">帮助中心</a><br/>
+<a href="https://help.51job.com/qa.html?from=b" target="_blank">常见问题</a><br/>
+<a href="https://help.51job.com/guide.html?from=d" target="_blank">新手引导</a> </div>
+<div class="e">
+<strong>导航</strong><br/>
+<a href="//www.51job.com/sitemap/site_Navigate.php" target="_blank">网站地图</a><br/>
+<a href="https://search.51job.com" target="_blank">职位搜索</a><br/>
+<a href="//i.51job.com/resume/resume_center.php?lang=c">简历中心</a> </div>
+<div class="code c_first">
+<img alt="APP下载" height="80" src="//img03.51jobcdn.com/im/2016/code/new_app.png" width="80"/>
+<span><a href="http://app.51job.com/index.html">APP下载</a></span>
+</div>
+<div class="code">
+<img alt="微信服务号" height="80" src="//img01.51jobcdn.com/im/2016/code/web_fuwuhao_bottom.png" width="80"/>
+<span>微信服务号</span>
+</div>
+<div class="clear"></div>
+</div>
+<p class="note nag">
+<span>未经51Job同意，不得转载本网站之所有招聘信息及作品 | 无忧工作网版权所有©1999-2021</span>
+</p> </div>
+</div>
+
+<!--引用js-->
+<script src="//js.51jobcdn.com/in/resource/js/2021/search/common.cc27b366.js" type="text/javascript"></script>
+<script src="//js.51jobcdn.com/in/resource/js/2021/search/index.5cadbf0e.js" type="text/javascript"></script>
+<script>
+
+App.$on('fetchDataEnd', function (data) {
+
+    $('#banner_ads').html(data.banner_ads);
+
+});
+
+</script>

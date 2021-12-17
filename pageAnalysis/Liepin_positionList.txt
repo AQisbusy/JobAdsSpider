@@ -1,0 +1,3171 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>【青岛招聘信息_青岛人才网招聘信息】-猎聘</title>
+<meta content="青岛招聘信息,青岛人才信息,青岛人才招聘信息" name="keywords"/>
+<meta content="猎聘青岛招聘信息提供真实的青岛人才招聘信息，青岛招聘信息有超过10000多高薪人才招聘信息职位任你选，找青岛招聘信息就来青岛人才网招聘信息频道。" name="description"/>
+<meta content="pc" name="applicable-device"/>
+<meta content="no-transform" http-equiv="Cache-Control">
+<meta content="no-siteapp" http-equiv="Cache-Control">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+<meta content="on" http-equiv="x-dns-prefetch-control"/>
+<link href="//concat.lietou-static.com" rel="dns-prefetch"/>
+<link href="//image0.lietou-static.com" rel="dns-prefetch"/>
+<!-- 使360浏览器 默认启用极速内核 -->
+<meta content="webkit" name="renderer"/>
+<link href="//concat.lietou-static.com" rel="preconnect"/>
+<link href="//image0.lietou-static.com" rel="preconnect"/>
+<link href="//concat.lietou-static.com/fe-www-pc/v6/static/images/favicon.e6edbc00.ico" rel="icon" type="image/x-icon"/>
+<script crossorigin="anonymous" src="//concat.lietou-static.com/fe-www-pc/v6/static/js/jquery-1.7.1.min.99a28ce2.js"></script>
+<script src="//s.lietou-static.com/fe-lib-pc/v5/femonitor/0.8.1/femonitor.min.3b7053e0.js"></script>
+<script src="//s.lietou-static.com/fe-www-pc/v6/static/js/es6-proxy-polyfill.d1fb1f99.js"></script>
+<!--[if lte IE 9]>
+    <script src="//concat.lietou-static.com/fe-c-pc/v6/static/js/html5shiv.js"></script>
+    <script src="//concat.lietou-static.com/fe-c-pc/v6/static/js/unpack_files/console-polyfill.js"></script>
+    <![endif]-->
+<script>
+        /*@cc_on document.write("<script src=\"//s.lietou-static.com/fe-lib-pc/v5/ietip/index.download.qa.38e4a2d5.js\"><\/script>")@*/
+    </script>
+<!-- 待服务端联调时开启 -->
+<link href="//concat.lietou-static.com/fe-www-pc/v6/css/pages/search-jobs.ab827cec.css" rel="stylesheet"/>
+</meta></meta></meta></head>
+<body>
+<!-- header -->
+<section id="lp-seo-header-container"><header id="framework-pc-header-container"><nav class="header-content-box"><a href="https://www.liepin.com" id="header-logo-box" title="猎聘网"><img alt="" src="https://download.lietou-static.com/img/610bb5592a02d60fe2b896b202u.png" title="猎聘网"/></a><a href="https://www.liepin.com/citylist/" id="header-city-box" title="城市切换"><div class="header-city-box"><svg height="10" viewbox="0 0 10 10" width="10" xmlns="http://www.w3.org/2000/svg"><path d="M5 .25a3.65 3.65 0 012.646 1.152 4.033 4.033 0 011.104 2.79c0 .531-.073.98-.236 1.409a4.093 4.093 0 01-.747 1.228l-.179.2-2.326 2.528L2.428 7.04a7.282 7.282 0 01-.36-.413 3.863 3.863 0 01-.475-.785 4.076 4.076 0 01-.343-1.649c0-1.088.422-2.075 1.104-2.79A3.65 3.65 0 015 .25zm0 1.5a2.24 2.24 0 00-1.59.66 2.243 2.243 0 000 3.18 2.244 2.244 0 003.179 0A2.246 2.246 0 005 1.75z" fill="#FFF" opacity="0.4" stroke="#FFF" stroke-width="0.5"></path></svg><span>全国</span><svg height="3" viewbox="0 0 6 3" width="6" xmlns="http://www.w3.org/2000/svg"><path d="M3.283 2.717L5.317.683A.4.4 0 005.034 0H.966a.4.4 0 00-.283.683l2.034 2.034a.4.4 0 00.566 0z" fill="#FFF" fill-rule="evenodd"></path></svg></div></a><ul class="header-nav-menu"><li class="header-menu-item header-nav-menu-item"><a href="https://www.liepin.com" id="header-nav-menu-home">首页</a></li><li class="header-menu-item header-nav-menu-item"><a href="https://www.liepin.com/zhaopin/?init=1" id="header-nav-menu-job">职位</a></li><li class="header-menu-item header-nav-menu-item"><a class="ant-dropdown-trigger" href="https://www.liepin.com/campus/" id="header-nav-menu-campus"><span>校园</span></a></li><li class="header-menu-item header-nav-menu-item"><a href="https://blade.liepin.com" id="header-nav-menu-community">社区</a></li><li class="header-menu-item header-nav-menu-item"><a class="ant-dropdown-trigger" href="https://vas.liepin.com/view-intro?utm_content=pcjuhexiala&imscid=R000014437" id="header-nav-menu-resume-optimization" target="_blank"><span>简历优化</span></a></li><li class="header-menu-item header-nav-menu-item download-app-item"><span id="header-nav-menu-download-app">猎聘APP</span><div id="fix-header-download-app-modal"><img alt="" src="https://download.lietou-static.com/img/614157155d455b005d25211208u.png"/></div></li></ul><div class="header-quick-menu-box"><ul class="header-quick-menu-not-login"><li class="header-menu-item header-quick-menu-not-login-item"><a href="https://h.liepin.com/#sfrom=click-pc_homepage-front_navigation-hunter_new" id="header-quick-menu-hunter" target="_blank">我是猎头</a></li><li class="header-menu-item header-quick-menu-not-login-item"><a href="https://passport.liepin.com/logout?rdurl=https://lpt.liepin.com/user/login#sfrom=click-pc_homepage-front_navigation-ecomphr_new" id="header-quick-menu-recruiter" target="_blank">我是招聘方</a><svg class="recruiter-min-logo" height="14" viewbox="0 0 28 14" width="28" xmlns="http://www.w3.org/2000/svg"><g fill="none" fill-rule="evenodd"><path d="M4 0h23a1 1 0 011 1v9a4 4 0 01-4 4H1a1 1 0 01-1-1V4a4 4 0 014-4z" fill="#FF6400" fill-rule="nonzero"></path><text fill="#FFF" font-family="PingFangSC-Medium, PingFang SC" font-size="10" font-weight="400"><tspan x="2" y="10.5">NEW</tspan></text></g></svg></li><li class="header-menu-item header-quick-menu-not-login-item"><span id="header-quick-menu-login">登录/注册</span></li></ul></div></nav></header></section>
+<!-- 搜索区域 -->
+<section id="lp-search-bar-section"></section>
+<div class="common-page-container">
+<!-- 筛选项区 -->
+<section>
+<div class="filter-options-container">
+<!-- 平铺区 -->
+<div class="filter-options-row-section">
+<!-- 公司 -->
+<div class="options-row row-logo-box">
+<div class="row-title">公司</div>
+<ul class="row-options-detail-box hide-more-logo">
+<li class="options-logo-item selected" data-code="8923464" data-key="compId" data-name="海尔集团(青岛)金融控股有限公司" data-nick="search-jobs-filter-options-item" data-selector="filter-option-item">
+<img alt="" src="https://image0.lietou-static.com/img/59549af3703287e466d0329505a.jpg" title="海尔集团(青岛)金融控股有限公司"/>
+</li>
+<li class="options-logo-item selected" data-code="9496464" data-key="compId" data-name="上海盒马网络科技有限公司" data-nick="search-jobs-filter-options-item" data-selector="filter-option-item">
+<img alt="" src="https://image0.lietou-static.com/img/5b9f54838e50a3257f4cf6e304a.jpg" title="上海盒马网络科技有限公司"/>
+</li>
+<li class="options-logo-item selected" data-code="8217469" data-key="compId" data-name="北京万科物业服务有限公司青岛分公司" data-nick="search-jobs-filter-options-item" data-selector="filter-option-item">
+<img alt="" src="https://image0.lietou-static.com/img/5bfffb9674719da073f149dd03u.png" title="北京万科物业服务有限公司青岛分公司"/>
+</li>
+<li class="options-logo-item selected" data-code="9692243" data-key="compId" data-name="青岛优诺博士口腔医疗有限公司" data-nick="search-jobs-filter-options-item" data-selector="filter-option-item">
+<img alt="" src="https://image0.lietou-static.com/img/5d59f9f64ebeb1284dff09b107u.png" title="青岛优诺博士口腔医疗有限公司"/>
+</li>
+<li class="options-logo-item selected" data-code="385862" data-key="compId" data-name="海信集团有限公司" data-nick="search-jobs-filter-options-item" data-selector="filter-option-item">
+<img alt="" src="https://image0.lietou-static.com/img/5bfea01374719d2aa34be4a703a.png" title="海信集团有限公司"/>
+</li>
+<li class="options-logo-item selected" data-code="7975487" data-key="compId" data-name="青岛银盛泰房地产有限公司" data-nick="search-jobs-filter-options-item" data-selector="filter-option-item">
+<img alt="" src="https://image0.lietou-static.com/img/5fd2e9ac1721db2a11d396f805u.png" title="青岛银盛泰房地产有限公司"/>
+</li>
+<li class="options-logo-item selected" data-code="9971281" data-key="compId" data-name="圣历实业发展集团有限公司" data-nick="search-jobs-filter-options-item" data-selector="filter-option-item">
+<img alt="" src="https://image0.lietou-static.com/img/5e0b158a643e6e53a870064008u.png" title="圣历实业发展集团有限公司"/>
+</li>
+<li class="options-logo-item selected" data-code="12147639" data-key="compId" data-name="海尔卡奥斯物联生态科技有限公司" data-nick="search-jobs-filter-options-item" data-selector="filter-option-item">
+<img alt="" src="https://image0.lietou-static.com/img/5fdac1261721db2a11d7320901u.png" title="海尔卡奥斯物联生态科技有限公司"/>
+</li>
+<li class="options-logo-item selected" data-code="12754125" data-key="compId" data-name="青岛用无忧人力资源服务有限公司" data-nick="search-jobs-filter-options-item" data-selector="filter-option-item">
+<img alt="" src="https://image0.lietou-static.com/img/61b07937d0458d53c627567e02u.jpg" title="青岛用无忧人力资源服务有限公司"/>
+</li>
+<li class="options-logo-item selected" data-code="1849869" data-key="compId" data-name="青岛海信日立空调系统有限公司" data-nick="search-jobs-filter-options-item" data-selector="filter-option-item">
+<img alt="" src="https://image0.lietou-static.com/img/5bfea35b74719d2aa34c857303a.png" title="青岛海信日立空调系统有限公司"/>
+</li>
+<li class="options-logo-item selected" data-code="8018671" data-key="compId" data-name="青岛海信宽带多媒体技术有限公司" data-nick="search-jobs-filter-options-item" data-selector="filter-option-item">
+<img alt="" src="https://image0.lietou-static.com/img/5bfe9e4174719d2aa34b89c503a.png" title="青岛海信宽带多媒体技术有限公司"/>
+</li>
+<li class="options-logo-item selected" data-code="9245333" data-key="compId" data-name="华住酒店管理有限公司" data-nick="search-jobs-filter-options-item" data-selector="filter-option-item">
+<img alt="" src="https://image0.lietou-static.com/img/5b7bb9c58e504f60e316271e04a.jpg" title="华住酒店管理有限公司"/>
+</li>
+<li class="options-logo-item selected" data-code="12188387" data-key="compId" data-name="江苏中南建筑产业集团有限责任公司(建筑总公司)" data-nick="search-jobs-filter-options-item" data-selector="filter-option-item">
+<img alt="" src="https://image0.lietou-static.com/img/61b07937d0458d53c627567e02u.jpg" title="江苏中南建筑产业集团有限责任公司(建筑总公司)"/>
+</li>
+<li class="options-logo-item selected" data-code="885718" data-key="compId" data-name="歌尔股份有限公司" data-nick="search-jobs-filter-options-item" data-selector="filter-option-item">
+<img alt="" src="https://image0.lietou-static.com/img/5bfe9e5c74719d2aa34b8f3703a.png" title="歌尔股份有限公司"/>
+</li>
+<li class="options-logo-item selected" data-code="7907111" data-key="compId" data-name="青岛东海药业有限公司" data-nick="search-jobs-filter-options-item" data-selector="filter-option-item">
+<img alt="" src="https://image0.lietou-static.com/img/609b2c01db221f41a821243104u.png" title="青岛东海药业有限公司"/>
+</li>
+<li class="options-logo-item selected" data-code="8712357" data-key="compId" data-name="青岛天泰爱家物业服务有限公司" data-nick="search-jobs-filter-options-item" data-selector="filter-option-item">
+<img alt="" src="https://image0.lietou-static.com/img/5bfe91cc74719d35745ae6e303a.png" title="青岛天泰爱家物业服务有限公司"/>
+</li>
+<li class="options-logo-item selected" data-code="8923433" data-key="compId" data-name="海尔电器集团股份有限公司" data-nick="search-jobs-filter-options-item" data-selector="filter-option-item">
+<img alt="" src="https://image0.lietou-static.com/img/5bfe971874719df0ac99286103a.png" title="海尔电器集团股份有限公司"/>
+</li>
+<li class="options-logo-item selected" data-code="12310361" data-key="compId" data-name="青岛恒晟源网络服务有限公司" data-nick="search-jobs-filter-options-item" data-selector="filter-option-item">
+<img alt="" src="https://image0.lietou-static.com/img/61b07937d0458d53c627567e02u.jpg" title="青岛恒晟源网络服务有限公司"/>
+</li>
+<li class="options-logo-item selected" data-code="8639136" data-key="compId" data-name="北京北森云计算股份有限公司" data-nick="search-jobs-filter-options-item" data-selector="filter-option-item">
+<img alt="" src="https://image0.lietou-static.com/img/5c8765ad87fd7d4d43b993c806u.jpg" title="北京北森云计算股份有限公司"/>
+</li>
+<li class="options-logo-item selected" data-code="1404145" data-key="compId" data-name="重庆海尔家电销售有限公司" data-nick="search-jobs-filter-options-item" data-selector="filter-option-item">
+<img alt="" src="https://image0.lietou-static.com/img/5bfe977e74719df0ac993d5203a.png" title="重庆海尔家电销售有限公司"/>
+</li>
+<li class="options-logo-item selected" data-code="8923437" data-key="compId" data-name="文化中心" data-nick="search-jobs-filter-options-item" data-selector="filter-option-item">
+<img alt="" src="https://image0.lietou-static.com/img/61b07937d0458d53c627567e02u.jpg" title="文化中心"/>
+</li>
+<li class="options-logo-item selected" data-code="8718562" data-key="compId" data-name="青岛韦立国际船舶管理有限公司" data-nick="search-jobs-filter-options-item" data-selector="filter-option-item">
+<img alt="" src="https://image0.lietou-static.com/img/597ad017703221ef70a4b65f06a.jpg" title="青岛韦立国际船舶管理有限公司"/>
+</li>
+<li class="options-logo-item selected" data-code="8597800" data-key="compId" data-name="重庆西西弗文化传播有限公司" data-nick="search-jobs-filter-options-item" data-selector="filter-option-item">
+<img alt="" src="https://image0.lietou-static.com/img/5bfe8fdb74719d35745a856f03a.png" title="重庆西西弗文化传播有限公司"/>
+</li>
+<li class="options-logo-item selected" data-code="9671743" data-key="compId" data-name="海尔智家股份有限公司" data-nick="search-jobs-filter-options-item" data-selector="filter-option-item">
+<img alt="" src="https://image0.lietou-static.com/img/61b07937d0458d53c627567e02u.jpg" title="海尔智家股份有限公司"/>
+</li>
+<li class="options-logo-item selected" data-code="7891415" data-key="compId" data-name="青岛酷特智能股份有限公司" data-nick="search-jobs-filter-options-item" data-selector="filter-option-item">
+<img alt="" src="https://image0.lietou-static.com/img/5bfe8ee274719d35745a558103a.png" title="青岛酷特智能股份有限公司"/>
+</li>
+<li class="options-logo-item selected" data-code="9616481" data-key="compId" data-name="万仕道(北京)管理咨询股份有限公司" data-nick="search-jobs-filter-options-item" data-selector="filter-option-item">
+<img alt="" src="https://image0.lietou-static.com/img/5dc51b10cd52473b94be9cce04u.jpg" title="万仕道(北京)管理咨询股份有限公司"/>
+</li>
+<li class="options-logo-item selected" data-code="2930264" data-key="compId" data-name="阳光新天地投资集团有限公司" data-nick="search-jobs-filter-options-item" data-selector="filter-option-item">
+<img alt="" src="https://image0.lietou-static.com/img/5bfffb8974719da073f1426003u.png" title="阳光新天地投资集团有限公司"/>
+</li>
+<li class="options-logo-item selected" data-code="7965324" data-key="compId" data-name="青岛文达通科技股份有限公司" data-nick="search-jobs-filter-options-item" data-selector="filter-option-item">
+<img alt="" src="https://image0.lietou-static.com/img/607d1c3cf24b717171ca6a2d03u.png" title="青岛文达通科技股份有限公司"/>
+</li>
+<li class="options-logo-item selected" data-code="8496438" data-key="compId" data-name="海信视像科技股份有限公司" data-nick="search-jobs-filter-options-item" data-selector="filter-option-item">
+<img alt="" src="https://image0.lietou-static.com/img/5ed0d87cf1b6f0697066e82104u.jpg" title="海信视像科技股份有限公司"/>
+</li>
+<li class="options-logo-item selected" data-code="9862049" data-key="compId" data-name="新希望六和股份有限公司" data-nick="search-jobs-filter-options-item" data-selector="filter-option-item">
+<img alt="" src="https://image0.lietou-static.com/img/5e4cd8de29d83a67544e5d4906u.png" title="新希望六和股份有限公司"/>
+</li>
+<li class="options-logo-item selected" data-code="10279783" data-key="compId" data-name="青岛斯坦德检测股份有限公司" data-nick="search-jobs-filter-options-item" data-selector="filter-option-item">
+<img alt="" src="https://image0.lietou-static.com/img/5f44ad409d37de58795d35f408u.png" title="青岛斯坦德检测股份有限公司"/>
+</li>
+<li class="options-logo-item selected" data-code="9391988" data-key="compId" data-name="青岛清原抗性杂草防治有限公司" data-nick="search-jobs-filter-options-item" data-selector="filter-option-item">
+<img alt="" src="https://image0.lietou-static.com/img/5bfea53c74719d2aa34cde1603a.png" title="青岛清原抗性杂草防治有限公司"/>
+</li>
+<li class="options-logo-item selected" data-code="8496447" data-key="compId" data-name="海信多媒体研发" data-nick="search-jobs-filter-options-item" data-selector="filter-option-item">
+<img alt="" src="https://image0.lietou-static.com/img/5bfe97ae74719df0ac99478603a.png" title="海信多媒体研发"/>
+</li>
+<li class="options-logo-item selected" data-code="2229149" data-key="compId" data-name="青岛尚美生活集团有限公司" data-nick="search-jobs-filter-options-item" data-selector="filter-option-item">
+<img alt="" src="https://image0.lietou-static.com/img/6087d70b1695f04fd2c337f401u.png" title="青岛尚美生活集团有限公司"/>
+</li>
+<li class="options-logo-item selected" data-code="9855657" data-key="compId" data-name="金蝶软件(中国)有限公司青岛分公司" data-nick="search-jobs-filter-options-item" data-selector="filter-option-item">
+<img alt="" src="https://image0.lietou-static.com/img/5f101f1d639c8353867132c506u.png" title="金蝶软件(中国)有限公司青岛分公司"/>
+</li>
+</ul>
+<div class="logo-option-more-btn">
+<span>更多</span>
+<svg viewbox="0 0 12 12" xmlns="http://www.w3.org/2000/svg"><path d="M.566 4.434a.8.8 0 0 1 1.131 0l3.958 3.96 3.962-3.96a.8.8 0 1 1 1.131 1.132L6.232 10.08a.8.8 0 0 1-1.141.01L.566 5.566a.8.8 0 0 1 0-1.132z" fill="#07132B" fill-rule="evenodd"></path></svg>
+</div>
+</div>
+<!-- 名企 -->
+<div class="options-row">
+<div class="row-title">名企</div>
+<ul class="row-options-detail-box">
+<li class="options-item" data-code="qua_0004" data-key="compTag" data-name="财富中国500强" data-nick="search-jobs-filter-options-item" data-selector="filter-option-item">财富中国500强</li>
+<li class="options-item" data-code="qua_0009" data-key="compTag" data-name="创新企业100强" data-nick="search-jobs-filter-options-item" data-selector="filter-option-item">创新企业100强</li>
+<li class="options-item" data-code="qua_0005" data-key="compTag" data-name="制造业500强" data-nick="search-jobs-filter-options-item" data-selector="filter-option-item">制造业500强</li>
+<li class="options-item" data-code="qua_0003" data-key="compTag" data-name="专精特新企业" data-nick="search-jobs-filter-options-item" data-selector="filter-option-item">专精特新企业</li>
+<li class="options-item" data-code="qua_0001" data-key="compTag" data-name="高新技术企业" data-nick="search-jobs-filter-options-item" data-selector="filter-option-item">高新技术企业</li>
+<li class="options-item" data-code="qua_0008" data-key="compTag" data-name="独角兽" data-nick="search-jobs-filter-options-item" data-selector="filter-option-item">独角兽</li>
+</ul>
+</div>
+<!-- 城市 -->
+<div class="options-row">
+<div class="row-title">城市</div>
+<ul class="row-options-detail-box">
+<li class="options-item" data-code="410" data-key="dq" data-name="全国" data-nick="search-jobs-filter-options-item" data-selector="filter-option-item">全国</li>
+<li class="options-item" data-code="010" data-key="dq" data-name="北京" data-nick="search-jobs-filter-options-item" data-selector="filter-option-item">北京</li>
+<li class="options-item" data-code="030" data-key="dq" data-name="天津" data-nick="search-jobs-filter-options-item" data-selector="filter-option-item">天津</li>
+<li class="options-item" data-code="210040" data-key="dq" data-name="大连" data-nick="search-jobs-filter-options-item" data-selector="filter-option-item">大连</li>
+<li class="options-item" data-code="020" data-key="dq" data-name="上海" data-nick="search-jobs-filter-options-item" data-selector="filter-option-item">上海</li>
+<li class="options-item" data-code="060020" data-key="dq" data-name="南京" data-nick="search-jobs-filter-options-item" data-selector="filter-option-item">南京</li>
+<li class="options-item" data-code="060080" data-key="dq" data-name="苏州" data-nick="search-jobs-filter-options-item" data-selector="filter-option-item">苏州</li>
+<li class="options-item" data-code="070020" data-key="dq" data-name="杭州" data-nick="search-jobs-filter-options-item" data-selector="filter-option-item">杭州</li>
+<li class="options-item" data-code="170020" data-key="dq" data-name="武汉" data-nick="search-jobs-filter-options-item" data-selector="filter-option-item">武汉</li>
+<li class="options-item" data-code="050020" data-key="dq" data-name="广州" data-nick="search-jobs-filter-options-item" data-selector="filter-option-item">广州</li>
+<li class="options-item" data-code="050090" data-key="dq" data-name="深圳" data-nick="search-jobs-filter-options-item" data-selector="filter-option-item">深圳</li>
+<li class="options-item" data-code="040" data-key="dq" data-name="重庆" data-nick="search-jobs-filter-options-item" data-selector="filter-option-item">重庆</li>
+<li class="options-item" data-code="280020" data-key="dq" data-name="成都" data-nick="search-jobs-filter-options-item" data-selector="filter-option-item">成都</li>
+<li class="options-item" id="filter-option-other-city">其他</li>
+</ul>
+</div>
+<!-- 区域 -->
+<div class="options-row">
+<div class="row-title">区域</div>
+<ul class="row-options-detail-box">
+<li class="options-item" data-code="250070010" data-key="dq" data-name="市南区" data-nick="search-jobs-filter-options-item" data-selector="filter-option-item">市南区</li>
+<li class="options-item" data-code="250070020" data-key="dq" data-name="市北区" data-nick="search-jobs-filter-options-item" data-selector="filter-option-item">市北区</li>
+<li class="options-item" data-code="250070060" data-key="dq" data-name="黄岛区" data-nick="search-jobs-filter-options-item" data-selector="filter-option-item">黄岛区</li>
+<li class="options-item" data-code="250070070" data-key="dq" data-name="崂山区" data-nick="search-jobs-filter-options-item" data-selector="filter-option-item">崂山区</li>
+<li class="options-item" data-code="250070050" data-key="dq" data-name="李沧区" data-nick="search-jobs-filter-options-item" data-selector="filter-option-item">李沧区</li>
+<li class="options-item" data-code="250070030" data-key="dq" data-name="城阳区" data-nick="search-jobs-filter-options-item" data-selector="filter-option-item">城阳区</li>
+<li class="options-item" data-code="250070090" data-key="dq" data-name="即墨区" data-nick="search-jobs-filter-options-item" data-selector="filter-option-item">即墨区</li>
+<li class="options-item" data-code="250070080" data-key="dq" data-name="胶州" data-nick="search-jobs-filter-options-item" data-selector="filter-option-item">胶州</li>
+<li class="options-item" data-code="250070100" data-key="dq" data-name="平度" data-nick="search-jobs-filter-options-item" data-selector="filter-option-item">平度</li>
+<li class="options-item" data-code="250070120" data-key="dq" data-name="莱西" data-nick="search-jobs-filter-options-item" data-selector="filter-option-item">莱西</li>
+</ul>
+</div>
+<!-- 薪资 -->
+<div class="options-row">
+<div class="row-title">薪资</div>
+<ul class="row-options-detail-box">
+<li class="options-item" data-code="0$3" data-key="salary" data-name="3K以下" data-nick="search-jobs-filter-options-item" data-selector="filter-option-item">3K以下</li>
+<li class="options-item" data-code="3$5" data-key="salary" data-name="3K-5k" data-nick="search-jobs-filter-options-item" data-selector="filter-option-item">3K-5k</li>
+<li class="options-item" data-code="5$10" data-key="salary" data-name="5K-10k" data-nick="search-jobs-filter-options-item" data-selector="filter-option-item">5K-10k</li>
+<li class="options-item" data-code="10$20" data-key="salary" data-name="10K-20k" data-nick="search-jobs-filter-options-item" data-selector="filter-option-item">10K-20k</li>
+<li class="options-item" data-code="20$40" data-key="salary" data-name="20K-40k" data-nick="search-jobs-filter-options-item" data-selector="filter-option-item">20K-40k</li>
+<li class="options-item" data-code="40$60" data-key="salary" data-name="40K-60k" data-nick="search-jobs-filter-options-item" data-selector="filter-option-item">40K-60k</li>
+<li class="options-item" data-code="60$999" data-key="salary" data-name="60K以上" data-nick="search-jobs-filter-options-item" data-selector="filter-option-item">60K以上</li>
+</ul>
+<div data-nick="search-jobs-filter-options-item" id="salary-custom-box"></div>
+</div>
+<!-- 发布时间 -->
+<div class="options-row">
+<div class="row-title">发布时间</div>
+<ul class="row-options-detail-box">
+<li class="options-item selected" data-key="pubTime" data-name="不限" data-nick="search-jobs-filter-options-item" data-selector="filter-option-item">不限</li>
+<li class="options-item" data-code="1" data-key="pubTime" data-name="一天以内" data-nick="search-jobs-filter-options-item" data-selector="filter-option-item">一天以内</li>
+<li class="options-item" data-code="3" data-key="pubTime" data-name="三天以内" data-nick="search-jobs-filter-options-item" data-selector="filter-option-item">三天以内</li>
+<li class="options-item" data-code="7" data-key="pubTime" data-name="一周以内" data-nick="search-jobs-filter-options-item" data-selector="filter-option-item">一周以内</li>
+<li class="options-item" data-code="30" data-key="pubTime" data-name="一个月以内" data-nick="search-jobs-filter-options-item" data-selector="filter-option-item">一个月以内</li>
+</ul>
+</div>
+<!-- 经验 -->
+<div class="options-row">
+<div class="row-title">经验</div>
+<ul class="row-options-detail-box">
+<li class="options-item" data-code="1" data-key="workYearCode" data-name="应届生" data-nick="search-jobs-filter-options-item" data-selector="filter-option-item">应届生</li>
+<li class="options-item" data-code="2" data-key="workYearCode" data-name="实习生" data-nick="search-jobs-filter-options-item" data-selector="filter-option-item">实习生</li>
+<li class="options-item" data-code="0$1" data-key="workYearCode" data-name="1年以内" data-nick="search-jobs-filter-options-item" data-selector="filter-option-item">1年以内</li>
+<li class="options-item" data-code="1$3" data-key="workYearCode" data-name="1-3年" data-nick="search-jobs-filter-options-item" data-selector="filter-option-item">1-3年</li>
+<li class="options-item" data-code="3$5" data-key="workYearCode" data-name="3-5年" data-nick="search-jobs-filter-options-item" data-selector="filter-option-item">3-5年</li>
+<li class="options-item" data-code="5$10" data-key="workYearCode" data-name="5-10年" data-nick="search-jobs-filter-options-item" data-selector="filter-option-item">5-10年</li>
+<li class="options-item" data-code="10$999" data-key="workYearCode" data-name="10年以上" data-nick="search-jobs-filter-options-item" data-selector="filter-option-item">10年以上</li>
+</ul>
+</div>
+</div>
+<!-- 下拉选择区 -->
+<div class="filter-options-selector-section">
+<div class="options-row">
+<div class="row-title">更多</div>
+<div class="row-options-detail-box">
+<div id="filter-options-selector-bar"></div>
+</div>
+</div>
+</div>
+<!-- 已选条件区 -->
+<div class="selected-options-box">
+<div class="selected-options-title">已选条件：</div>
+<ul class="selected-options-list-box">
+<li class="selected-item" data-code="250070" data-key="dq" data-nick="search-jobs-delete-option">
+<span>青岛</span>
+<svg height="16" viewbox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg">
+<path d="M3.14 3.86c.24-.24.63-.24.87 0l3.655 3.656 3.656-3.655a.615.615 0 11.87.87L8.536 8.386l3.655 3.655a.616.616 0 01.072.785l-.072.086c-.24.24-.63.24-.87 0L7.665 9.257l-3.654 3.655a.615.615 0 11-.87-.87l3.654-3.656L3.14 4.73a.616.616 0 01-.07-.785z" fill="#FAF9F9" fill-rule="evenodd"></path>
+</svg>
+</li>
+</ul>
+<div class="selected-clear" data-nick="search-jobs-clear-options" id="search-jobs-clear-options">
+                清空筛选条件
+            </div>
+</div>
+<div style="display: none;">
+<form id="filter-options-form">
+<input data-name="66a3abbe5f0dde32b6e5ff8d343a5dac" name="headId" value="66a3abbe5f0dde32b6e5ff8d343a5dac"/>
+<input data-name="66a3abbe5f0dde32b6e5ff8d343a5dac" name="ckId" value="66a3abbe5f0dde32b6e5ff8d343a5dac"/>
+<input data-name="人力资源" name="key" value="人力资源"/>
+<input data-name="青岛" name="dq" value="250070"/>
+</form>
+</div>
+</div>
+</section>
+<!-- 公司卡片 -->
+<div class="content-wrap">
+<!-- 列表区 -->
+<section class="content-left-section">
+<div class="left-list-box">
+<!-- 职位卡片 -->
+<ul>
+<li>
+<div class="job-list-item">
+<div class="job-card-pc-container seo-job-card-action-box" data-info="%7B%22jobId%22%3A%2245524791%22%2C%22jobKind%22%3A%222%22%2C%22as_from%22%3A%22search_prime%22%2C%22d_headId%22%3A%2266a3abbe5f0dde32b6e5ff8d343a5dac%22%2C%22d_ckId%22%3A%2266a3abbe5f0dde32b6e5ff8d343a5dac%22%2C%22d_curPage%22%3A%220%22%2C%22d_pageSize%22%3A%2240%22%7D">
+<div class="job-card-left-box">
+<div class="job-detail-box">
+<!-- href需拼上dataPromId数据 -->
+<a data-nick="job-detail-job-info" href="https://www.liepin.com/job/1945524791.shtml?d_sfrom=search_prime&d_ckId=66a3abbe5f0dde32b6e5ff8d343a5dac&d_curPage=0&d_pageSize=40&d_headId=66a3abbe5f0dde32b6e5ff8d343a5dac&d_posi=0" target="_blank">
+<div class="job-detail-header-box">
+<div class="job-title-box">
+<div class="ellipsis-1" title="人事行政经理">人事行政经理</div>
+<div class="job-dq-box">
+<span class="dq-bracket">【</span>
+<span class="ellipsis-1">青岛-城阳区</span>
+<span class="dq-bracket">】</span>
+</div>
+</div>
+<span class="job-tag">急聘</span>
+<span class="job-salary">8-10k</span>
+</div>
+<div class="job-labels-box">
+<!-- campusJobKind 非空时显示 -->
+<!-- requireWorkYears 非空时显示 -->
+<span class="labels-tag">3-5年</span>
+<!-- requireEduLevel 非空时显示 -->
+<span class="labels-tag">大专及以上</span>
+<span class="labels-tag">薪酬管理</span><span class="labels-tag">绩效管理</span><span class="labels-tag">企业文化</span><span class="labels-tag">人力资源规划</span><span class="labels-tag">校园招聘</span><span class="labels-tag">社会招聘</span><span class="labels-tag">猎头招聘</span><span class="labels-tag">制造业</span><span class="labels-tag">医美领域</span><span class="labels-tag">医疗行业</span>
+</div>
+</a>
+<!-- 有公司链接时才用a标签，没有公司链接不需要a标签 -->
+<a href="https://www.liepin.com/company/9356592/" target="_blank">
+<div class="job-detail-company-box" data-nick="job-detail-company-info">
+<div class="job-company-info-box">
+<div class="company-logo">
+<img alt="青岛中腾生物技术有限公司" src="//image0.lietou-static.com/img/607fdc152699b8716cc8ecd008u.png">
+</img></div>
+<span class="company-name ellipsis-1">青岛中腾生物技术有限公司</span>
+<!-- compIndustry || compStage || compScale 三个都没有值时不显示 -->
+<div class="company-tags-box ellipsis-1">
+<span>制药/生物工程</span>
+<span>融资未公开</span>
+<span>50-99人</span>
+</div>
+</div>
+</div>
+</a>
+</div>
+</div>
+<div class="job-card-right-box">
+<div class="recruiter-info-box">
+<div class="recruiter-photo" data-params='{"imId":"6e35399a5f910f74e37b0b202b2adc1c","jobId":"45524791","userId":"7664780fabe3407eaa67a604901ee2d0","jobKind":"2","recruiterName":"胡女士","imUserType":"2","recruiterPhoto":"5f8f98648dbe6273dcf8515508u.jpg"}' data-selector="chat-chat">
+<img alt="" src="//image0.lietou-static.com/big/5f8f98648dbe6273dcf8515508u.jpg">
+</img></div>
+<div class="recruiter-info-text-box">
+<div class="recruiter-name ellipsis-1">胡女士</div>
+<div class="recruiter-title ellipsis-1">销售</div>
+</div>
+<!-- 聊一聊 -->
+<div class="chat-btn-box" data-nick="recruiter-info-box-chat-btn" data-params='{"imId":"6e35399a5f910f74e37b0b202b2adc1c","jobId":"45524791","userId":"7664780fabe3407eaa67a604901ee2d0","jobKind":"2","recruiterName":"胡女士","imUserType":"2","recruiterPhoto":"5f8f98648dbe6273dcf8515508u.jpg"}' data-selector="chat-chat">
+<button class="ant-btn ant-btn-primary ant-btn-round" type="button">
+<span>聊一聊</span>
+</button>
+</div>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li>
+<div class="job-list-item">
+<div class="job-card-pc-container seo-job-card-action-box" data-info="%7B%22jobId%22%3A%2245521133%22%2C%22jobKind%22%3A%222%22%2C%22as_from%22%3A%22search_prime%22%2C%22d_headId%22%3A%2266a3abbe5f0dde32b6e5ff8d343a5dac%22%2C%22d_ckId%22%3A%2266a3abbe5f0dde32b6e5ff8d343a5dac%22%2C%22d_curPage%22%3A%220%22%2C%22d_pageSize%22%3A%2240%22%7D">
+<div class="job-card-left-box">
+<div class="job-detail-box">
+<!-- href需拼上dataPromId数据 -->
+<a data-nick="job-detail-job-info" href="https://www.liepin.com/job/1945521133.shtml?d_sfrom=search_prime&d_ckId=66a3abbe5f0dde32b6e5ff8d343a5dac&d_curPage=0&d_pageSize=40&d_headId=66a3abbe5f0dde32b6e5ff8d343a5dac&d_posi=1" target="_blank">
+<div class="job-detail-header-box">
+<div class="job-title-box">
+<div class="ellipsis-1" title="人力资源专员/助理">人力资源专员/助理</div>
+<div class="job-dq-box">
+<span class="dq-bracket">【</span>
+<span class="ellipsis-1">青岛</span>
+<span class="dq-bracket">】</span>
+</div>
+</div>
+<span class="job-tag">急聘</span>
+<span class="job-salary">5-6k</span>
+</div>
+<div class="job-labels-box">
+<!-- campusJobKind 非空时显示 -->
+<!-- requireWorkYears 非空时显示 -->
+<span class="labels-tag">1-3年</span>
+<!-- requireEduLevel 非空时显示 -->
+<span class="labels-tag">本科及以上</span>
+</div>
+</a>
+<!-- 有公司链接时才用a标签，没有公司链接不需要a标签 -->
+<a href="https://www.liepin.com/company/2930264/" target="_blank">
+<div class="job-detail-company-box" data-nick="job-detail-company-info">
+<div class="job-company-info-box">
+<div class="company-logo">
+<img alt="阳光新天地地产" src="//image0.lietou-static.com/img/5bfffb8974719da073f1426003u.png">
+</img></div>
+<span class="company-name ellipsis-1">阳光新天地地产</span>
+<!-- compIndustry || compStage || compScale 三个都没有值时不显示 -->
+<div class="company-tags-box ellipsis-1">
+<span>房地产/建筑</span>
+<span>100-499人</span>
+</div>
+</div>
+</div>
+</a>
+</div>
+</div>
+<div class="job-card-right-box">
+<div class="recruiter-info-box">
+<div class="recruiter-photo" data-params='{"imId":"a695c7133035a6e6d6a9d1214a39013b","jobId":"45521133","userId":"aca8769c685ddfbcc298a9fb99217a3d","jobKind":"2","recruiterName":"来女士","imUserType":"2","recruiterPhoto":"5f8f9863f6d1ab58476f246a08u.jpg"}' data-selector="chat-chat">
+<img alt="" src="//image0.lietou-static.com/big/5f8f9863f6d1ab58476f246a08u.jpg">
+</img></div>
+<div class="recruiter-info-text-box">
+<div class="recruiter-name ellipsis-1">来女士</div>
+<div class="recruiter-title ellipsis-1">高级人事主管 （2013/3从人事主管升职为高级人事主管）</div>
+</div>
+<!-- 聊一聊 -->
+<div class="chat-btn-box" data-nick="recruiter-info-box-chat-btn" data-params='{"imId":"a695c7133035a6e6d6a9d1214a39013b","jobId":"45521133","userId":"aca8769c685ddfbcc298a9fb99217a3d","jobKind":"2","recruiterName":"来女士","imUserType":"2","recruiterPhoto":"5f8f9863f6d1ab58476f246a08u.jpg"}' data-selector="chat-chat">
+<button class="ant-btn ant-btn-primary ant-btn-round" type="button">
+<span>聊一聊</span>
+</button>
+</div>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li>
+<div class="job-list-item">
+<div class="job-card-pc-container seo-job-card-action-box" data-info="%7B%22jobId%22%3A%2237159843%22%2C%22jobKind%22%3A%222%22%2C%22as_from%22%3A%22search_prime%22%2C%22d_headId%22%3A%2266a3abbe5f0dde32b6e5ff8d343a5dac%22%2C%22d_ckId%22%3A%2266a3abbe5f0dde32b6e5ff8d343a5dac%22%2C%22d_curPage%22%3A%220%22%2C%22d_pageSize%22%3A%2240%22%7D">
+<div class="job-card-left-box">
+<div class="job-detail-box">
+<!-- href需拼上dataPromId数据 -->
+<a data-nick="job-detail-job-info" href="https://www.liepin.com/job/1937159843.shtml?d_sfrom=search_prime&d_ckId=66a3abbe5f0dde32b6e5ff8d343a5dac&d_curPage=0&d_pageSize=40&d_headId=66a3abbe5f0dde32b6e5ff8d343a5dac&d_posi=2" target="_blank">
+<div class="job-detail-header-box">
+<div class="job-title-box">
+<div class="ellipsis-1" title="人力资源主管/人力行政专员/HR主管/HRBP/人事主管">人力资源主管/人力行政专员/HR主管/HRBP/人事主管</div>
+<div class="job-dq-box">
+<span class="dq-bracket">【</span>
+<span class="ellipsis-1">青岛-崂山区</span>
+<span class="dq-bracket">】</span>
+</div>
+</div>
+<span class="job-salary">7-12k·13薪</span>
+</div>
+<div class="job-labels-box">
+<!-- campusJobKind 非空时显示 -->
+<!-- requireWorkYears 非空时显示 -->
+<span class="labels-tag">1-3年</span>
+<!-- requireEduLevel 非空时显示 -->
+<span class="labels-tag">统招本科</span>
+<span class="labels-tag">绩效管理</span><span class="labels-tag">岗位配置招聘</span><span class="labels-tag">员工关系</span><span class="labels-tag">企业文化</span><span class="labels-tag">企业培训</span><span class="labels-tag">培训开发与实施</span><span class="labels-tag">人才发展</span><span class="labels-tag">人力资源规划</span><span class="labels-tag">人力资源经验</span>
+</div>
+</a>
+<!-- 有公司链接时才用a标签，没有公司链接不需要a标签 -->
+<a href="https://www.liepin.com/company/12523005/" target="_blank">
+<div class="job-detail-company-box" data-nick="job-detail-company-info">
+<div class="job-company-info-box">
+<div class="company-logo">
+<img alt="青岛睿玺工业有限公司" src="//image0.lietou-static.com/img/60517440b926e53932619db704u.png">
+</img></div>
+<span class="company-name ellipsis-1">青岛睿玺工业有限公司</span>
+<!-- compIndustry || compStage || compScale 三个都没有值时不显示 -->
+<div class="company-tags-box ellipsis-1">
+<span>贸易/进出口</span>
+<span>50-99人</span>
+</div>
+</div>
+</div>
+</a>
+</div>
+</div>
+<div class="job-card-right-box">
+<div class="recruiter-info-box">
+<div class="recruiter-photo" data-params='{"imId":"6d092f8ad5bfe97ca9f0273dd33fa30b","jobId":"37159843","userId":"7e2e7e25bf282666f9a3ccd3b9e8baa0","jobKind":"2","recruiterName":"苗先生","imUserType":"2","recruiterPhoto":"61a0444a35a60001d1db1b5604u.png"}' data-selector="chat-chat">
+<img alt="" src="//image0.lietou-static.com/big/61a0444a35a60001d1db1b5604u.png">
+</img></div>
+<div class="recruiter-info-text-box">
+<div class="recruiter-name ellipsis-1">苗先生</div>
+<div class="recruiter-title ellipsis-1">行政人事经理</div>
+</div>
+<!-- 聊一聊 -->
+<div class="chat-btn-box" data-nick="recruiter-info-box-chat-btn" data-params='{"imId":"6d092f8ad5bfe97ca9f0273dd33fa30b","jobId":"37159843","userId":"7e2e7e25bf282666f9a3ccd3b9e8baa0","jobKind":"2","recruiterName":"苗先生","imUserType":"2","recruiterPhoto":"61a0444a35a60001d1db1b5604u.png"}' data-selector="chat-chat">
+<button class="ant-btn ant-btn-primary ant-btn-round" type="button">
+<span>聊一聊</span>
+</button>
+</div>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li>
+<div class="job-list-item">
+<div class="job-card-pc-container seo-job-card-action-box" data-info="%7B%22jobId%22%3A%2245251615%22%2C%22jobKind%22%3A%222%22%2C%22as_from%22%3A%22search_prime%22%2C%22d_headId%22%3A%2266a3abbe5f0dde32b6e5ff8d343a5dac%22%2C%22d_ckId%22%3A%2266a3abbe5f0dde32b6e5ff8d343a5dac%22%2C%22d_curPage%22%3A%220%22%2C%22d_pageSize%22%3A%2240%22%7D">
+<div class="job-card-left-box">
+<div class="job-detail-box">
+<!-- href需拼上dataPromId数据 -->
+<a data-nick="job-detail-job-info" href="https://www.liepin.com/job/1945251615.shtml?d_sfrom=search_prime&d_ckId=66a3abbe5f0dde32b6e5ff8d343a5dac&d_curPage=0&d_pageSize=40&d_headId=66a3abbe5f0dde32b6e5ff8d343a5dac&d_posi=3" target="_blank">
+<div class="job-detail-header-box">
+<div class="job-title-box">
+<div class="ellipsis-1" title="人力资源经理/人事经理">人力资源经理/人事经理</div>
+<div class="job-dq-box">
+<span class="dq-bracket">【</span>
+<span class="ellipsis-1">青岛-崂山区</span>
+<span class="dq-bracket">】</span>
+</div>
+</div>
+<span class="job-salary">10-15k</span>
+</div>
+<div class="job-labels-box">
+<!-- campusJobKind 非空时显示 -->
+<!-- requireWorkYears 非空时显示 -->
+<span class="labels-tag">3-5年</span>
+<!-- requireEduLevel 非空时显示 -->
+<span class="labels-tag">本科及以上</span>
+<span class="labels-tag">岗位配置招聘</span><span class="labels-tag">绩效管理</span><span class="labels-tag">薪酬核算</span><span class="labels-tag">薪酬管理</span><span class="labels-tag">劳务纠纷</span><span class="labels-tag">培训开发与实施</span><span class="labels-tag">建筑工程</span><span class="labels-tag">人力资源经验</span>
+</div>
+</a>
+<!-- 有公司链接时才用a标签，没有公司链接不需要a标签 -->
+<a href="https://www.liepin.com/company/9744297/" target="_blank">
+<div class="job-detail-company-box" data-nick="job-detail-company-info">
+<div class="job-company-info-box">
+<div class="company-logo">
+<img alt="北京智工场物联科技有限公司" src="//image0.lietou-static.com/img/61b07937d0458d53c627567e02u.jpg">
+</img></div>
+<span class="company-name ellipsis-1">北京智工场物联科技有限公司</span>
+<!-- compIndustry || compStage || compScale 三个都没有值时不显示 -->
+<div class="company-tags-box ellipsis-1">
+<span>仪器/电气/自动化</span>
+<span>天使轮</span>
+<span>1-49人</span>
+</div>
+</div>
+</div>
+</a>
+</div>
+</div>
+<div class="job-card-right-box">
+<div class="recruiter-info-box">
+<div class="recruiter-photo" data-params='{"imId":"813366f7abfcadb9c113e61f65e6c038","jobId":"45251615","userId":"07814d14b2a9d5fcd46804f7ec0f6674","jobKind":"2","recruiterName":"朱女士","imUserType":"2","recruiterPhoto":"5f8f98648dbe6273dcf8515508u.jpg"}' data-selector="chat-chat">
+<img alt="" src="//image0.lietou-static.com/big/5f8f98648dbe6273dcf8515508u.jpg">
+</img></div>
+<div class="recruiter-info-text-box">
+<div class="recruiter-name ellipsis-1">朱女士</div>
+<div class="recruiter-title ellipsis-1">人事经理</div>
+</div>
+<!-- 聊一聊 -->
+<div class="chat-btn-box" data-nick="recruiter-info-box-chat-btn" data-params='{"imId":"813366f7abfcadb9c113e61f65e6c038","jobId":"45251615","userId":"07814d14b2a9d5fcd46804f7ec0f6674","jobKind":"2","recruiterName":"朱女士","imUserType":"2","recruiterPhoto":"5f8f98648dbe6273dcf8515508u.jpg"}' data-selector="chat-chat">
+<button class="ant-btn ant-btn-primary ant-btn-round" type="button">
+<span>聊一聊</span>
+</button>
+</div>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li>
+<div class="job-list-item">
+<div class="job-card-pc-container seo-job-card-action-box" data-info="%7B%22jobId%22%3A%2230899013%22%2C%22jobKind%22%3A%222%22%2C%22as_from%22%3A%22search_prime%22%2C%22d_headId%22%3A%2266a3abbe5f0dde32b6e5ff8d343a5dac%22%2C%22d_ckId%22%3A%2266a3abbe5f0dde32b6e5ff8d343a5dac%22%2C%22d_curPage%22%3A%220%22%2C%22d_pageSize%22%3A%2240%22%7D">
+<div class="job-card-left-box">
+<div class="job-detail-box">
+<!-- href需拼上dataPromId数据 -->
+<a data-nick="job-detail-job-info" href="https://www.liepin.com/job/1930899013.shtml?d_sfrom=search_prime&d_ckId=66a3abbe5f0dde32b6e5ff8d343a5dac&d_curPage=0&d_pageSize=40&d_headId=66a3abbe5f0dde32b6e5ff8d343a5dac&d_posi=4" target="_blank">
+<div class="job-detail-header-box">
+<div class="job-title-box">
+<div class="ellipsis-1" title="人事主管（人力资源总监）">人事主管（人力资源总监）</div>
+<div class="job-dq-box">
+<span class="dq-bracket">【</span>
+<span class="ellipsis-1">青岛-市南区</span>
+<span class="dq-bracket">】</span>
+</div>
+</div>
+<span class="job-salary">8-12k</span>
+</div>
+<div class="job-labels-box">
+<!-- campusJobKind 非空时显示 -->
+<!-- requireWorkYears 非空时显示 -->
+<span class="labels-tag">5-10年</span>
+<!-- requireEduLevel 非空时显示 -->
+<span class="labels-tag">本科及以上</span>
+<span class="labels-tag">岗位配置招聘</span><span class="labels-tag">绩效管理</span><span class="labels-tag">劳务纠纷</span><span class="labels-tag">培训开发与实施</span><span class="labels-tag">考勤管理</span><span class="labels-tag">社保公积金管理</span><span class="labels-tag">人事档案</span><span class="labels-tag">薪酬设计</span><span class="labels-tag">薪酬管理</span><span class="labels-tag">员工激励</span>
+</div>
+</a>
+<!-- 有公司链接时才用a标签，没有公司链接不需要a标签 -->
+<a href="https://www.liepin.com/company/12354695/" target="_blank">
+<div class="job-detail-company-box" data-nick="job-detail-company-info">
+<div class="job-company-info-box">
+<div class="company-logo">
+<img alt="山东华德隆建设有限公司青岛分公司" src="//image0.lietou-static.com/img/61b07937d0458d53c627567e02u.jpg">
+</img></div>
+<span class="company-name ellipsis-1">山东华德隆建设有限公司青岛分公司</span>
+<!-- compIndustry || compStage || compScale 三个都没有值时不显示 -->
+<div class="company-tags-box ellipsis-1">
+<span>房地产/建筑</span>
+<span>1-49人</span>
+</div>
+</div>
+</div>
+</a>
+</div>
+</div>
+<div class="job-card-right-box">
+<div class="recruiter-info-box">
+<div class="recruiter-photo" data-params='{"imId":"1d30ea092c599c1159a7d64ad9817c9f","jobId":"30899013","userId":"6ba2b7a1c7d5f2531fb860b8712de557","jobKind":"2","recruiterName":"张女士","imUserType":"2","recruiterPhoto":"5f8f98648dbe6273dcf8515508u.jpg"}' data-selector="chat-chat">
+<img alt="" src="//image0.lietou-static.com/big/5f8f98648dbe6273dcf8515508u.jpg">
+</img></div>
+<div class="recruiter-info-text-box">
+<div class="recruiter-name ellipsis-1">张女士</div>
+<div class="recruiter-title ellipsis-1">人力主管（人力资源总监）</div>
+</div>
+<!-- 聊一聊 -->
+<div class="chat-btn-box" data-nick="recruiter-info-box-chat-btn" data-params='{"imId":"1d30ea092c599c1159a7d64ad9817c9f","jobId":"30899013","userId":"6ba2b7a1c7d5f2531fb860b8712de557","jobKind":"2","recruiterName":"张女士","imUserType":"2","recruiterPhoto":"5f8f98648dbe6273dcf8515508u.jpg"}' data-selector="chat-chat">
+<button class="ant-btn ant-btn-primary ant-btn-round" type="button">
+<span>聊一聊</span>
+</button>
+</div>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li>
+<div class="job-list-item">
+<div class="job-card-pc-container seo-job-card-action-box" data-info="%7B%22jobId%22%3A%2242714963%22%2C%22jobKind%22%3A%222%22%2C%22as_from%22%3A%22search_prime%22%2C%22d_headId%22%3A%2266a3abbe5f0dde32b6e5ff8d343a5dac%22%2C%22d_ckId%22%3A%2266a3abbe5f0dde32b6e5ff8d343a5dac%22%2C%22d_curPage%22%3A%220%22%2C%22d_pageSize%22%3A%2240%22%7D">
+<div class="job-card-left-box">
+<div class="job-detail-box">
+<!-- href需拼上dataPromId数据 -->
+<a data-nick="job-detail-job-info" href="https://www.liepin.com/job/1942714963.shtml?d_sfrom=search_prime&d_ckId=66a3abbe5f0dde32b6e5ff8d343a5dac&d_curPage=0&d_pageSize=40&d_headId=66a3abbe5f0dde32b6e5ff8d343a5dac&d_posi=5" target="_blank">
+<div class="job-detail-header-box">
+<div class="job-title-box">
+<div class="ellipsis-1" title="培训绩效专员（人力资源HR）">培训绩效专员（人力资源HR）</div>
+<div class="job-dq-box">
+<span class="dq-bracket">【</span>
+<span class="ellipsis-1">青岛</span>
+<span class="dq-bracket">】</span>
+</div>
+</div>
+<span class="job-salary">5-7k</span>
+</div>
+<div class="job-labels-box">
+<!-- campusJobKind 非空时显示 -->
+<!-- requireWorkYears 非空时显示 -->
+<span class="labels-tag">3-5年</span>
+<!-- requireEduLevel 非空时显示 -->
+<span class="labels-tag">大专及以上</span>
+<span class="labels-tag">绩效管理</span><span class="labels-tag">岗位配置招聘</span><span class="labels-tag">培训开发与实施</span><span class="labels-tag">企业培训</span><span class="labels-tag">人力资源经验</span>
+</div>
+</a>
+<!-- 有公司链接时才用a标签，没有公司链接不需要a标签 -->
+<a href="https://www.liepin.com/company/8735282/" target="_blank">
+<div class="job-detail-company-box" data-nick="job-detail-company-info">
+<div class="job-company-info-box">
+<div class="company-logo">
+<img alt="居元素" src="//image0.lietou-static.com/img/5bfe9eba74719d2aa34ba1af03a.png">
+</img></div>
+<span class="company-name ellipsis-1">居元素</span>
+<!-- compIndustry || compStage || compScale 三个都没有值时不显示 -->
+<div class="company-tags-box ellipsis-1">
+<span>珠宝/玩具/工艺品</span>
+<span>500-999人</span>
+</div>
+</div>
+</div>
+</a>
+</div>
+</div>
+<div class="job-card-right-box">
+<div class="recruiter-info-box">
+<div class="recruiter-photo" data-params='{"imId":"2eaf1fb5d9c13541527a3bdaa9ebdbbf","jobId":"42714963","userId":"27eccd4668df77dcd094a15e7088daa8","jobKind":"2","recruiterName":"谭女士","imUserType":"2","recruiterPhoto":"5f8f98648dbe6273dcf8515508u.jpg"}' data-selector="chat-chat">
+<img alt="" src="//image0.lietou-static.com/big/5f8f98648dbe6273dcf8515508u.jpg">
+</img></div>
+<div class="recruiter-info-text-box">
+<div class="recruiter-name ellipsis-1">谭女士</div>
+<div class="recruiter-title ellipsis-1">人行部主管</div>
+</div>
+<!-- 聊一聊 -->
+<div class="chat-btn-box" data-nick="recruiter-info-box-chat-btn" data-params='{"imId":"2eaf1fb5d9c13541527a3bdaa9ebdbbf","jobId":"42714963","userId":"27eccd4668df77dcd094a15e7088daa8","jobKind":"2","recruiterName":"谭女士","imUserType":"2","recruiterPhoto":"5f8f98648dbe6273dcf8515508u.jpg"}' data-selector="chat-chat">
+<button class="ant-btn ant-btn-primary ant-btn-round" type="button">
+<span>聊一聊</span>
+</button>
+</div>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li>
+<div class="job-list-item">
+<div class="job-card-pc-container seo-job-card-action-box" data-info="%7B%22jobId%22%3A%2244971037%22%2C%22jobKind%22%3A%222%22%2C%22as_from%22%3A%22search_prime%22%2C%22d_headId%22%3A%2266a3abbe5f0dde32b6e5ff8d343a5dac%22%2C%22d_ckId%22%3A%2266a3abbe5f0dde32b6e5ff8d343a5dac%22%2C%22d_curPage%22%3A%220%22%2C%22d_pageSize%22%3A%2240%22%7D">
+<div class="job-card-left-box">
+<div class="job-detail-box">
+<!-- href需拼上dataPromId数据 -->
+<a data-nick="job-detail-job-info" href="https://www.liepin.com/job/1944971037.shtml?d_sfrom=search_prime&d_ckId=66a3abbe5f0dde32b6e5ff8d343a5dac&d_curPage=0&d_pageSize=40&d_headId=66a3abbe5f0dde32b6e5ff8d343a5dac&d_posi=6" target="_blank">
+<div class="job-detail-header-box">
+<div class="job-title-box">
+<div class="ellipsis-1" title="人力资源专员hr">人力资源专员hr</div>
+<div class="job-dq-box">
+<span class="dq-bracket">【</span>
+<span class="ellipsis-1">青岛-崂山区</span>
+<span class="dq-bracket">】</span>
+</div>
+</div>
+<span class="job-salary">5-10k</span>
+</div>
+<div class="job-labels-box">
+<!-- campusJobKind 非空时显示 -->
+<!-- requireWorkYears 非空时显示 -->
+<span class="labels-tag">3-5年</span>
+<!-- requireEduLevel 非空时显示 -->
+<span class="labels-tag">统招本科</span>
+<span class="labels-tag">企业文化</span><span class="labels-tag">薪酬核算</span><span class="labels-tag">薪酬设计</span><span class="labels-tag">绩效管理</span><span class="labels-tag">人力资源经验</span>
+</div>
+</a>
+<!-- 有公司链接时才用a标签，没有公司链接不需要a标签 -->
+<a href="https://www.liepin.com/company/12147639/" target="_blank">
+<div class="job-detail-company-box" data-nick="job-detail-company-info">
+<div class="job-company-info-box">
+<div class="company-logo">
+<img alt="海尔卡奥斯物联生态科技有限公司" src="//image0.lietou-static.com/img/5fdac1261721db2a11d7320901u.png">
+</img></div>
+<span class="company-name ellipsis-1">海尔卡奥斯物联生态科技有限公司</span>
+<!-- compIndustry || compStage || compScale 三个都没有值时不显示 -->
+<div class="company-tags-box ellipsis-1">
+<span>物联网</span>
+<span>5000-10000人</span>
+</div>
+</div>
+</div>
+</a>
+</div>
+</div>
+<div class="job-card-right-box">
+<div class="recruiter-info-box">
+<div class="recruiter-photo" data-params='{"imId":"84d530b01dd9943f0e33f8ac54fbf39e","jobId":"44971037","userId":"27a8e3d69780ed0103762e39e7b9ded8","jobKind":"2","recruiterName":"王女士","imUserType":"2","recruiterPhoto":"5f8f9865ea60860b75384fa508u.jpg"}' data-selector="chat-chat">
+<img alt="" src="//image0.lietou-static.com/big/5f8f9865ea60860b75384fa508u.jpg">
+</img></div>
+<div class="recruiter-info-text-box">
+<div class="recruiter-name ellipsis-1">王女士</div>
+<div class="recruiter-title ellipsis-1">HRBP</div>
+</div>
+<!-- 聊一聊 -->
+<div class="chat-btn-box" data-nick="recruiter-info-box-chat-btn" data-params='{"imId":"84d530b01dd9943f0e33f8ac54fbf39e","jobId":"44971037","userId":"27a8e3d69780ed0103762e39e7b9ded8","jobKind":"2","recruiterName":"王女士","imUserType":"2","recruiterPhoto":"5f8f9865ea60860b75384fa508u.jpg"}' data-selector="chat-chat">
+<button class="ant-btn ant-btn-primary ant-btn-round" type="button">
+<span>聊一聊</span>
+</button>
+</div>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li>
+<div class="job-list-item">
+<div class="job-card-pc-container seo-job-card-action-box" data-info="%7B%22jobId%22%3A%2245250187%22%2C%22jobKind%22%3A%222%22%2C%22as_from%22%3A%22search_prime%22%2C%22d_headId%22%3A%2266a3abbe5f0dde32b6e5ff8d343a5dac%22%2C%22d_ckId%22%3A%2266a3abbe5f0dde32b6e5ff8d343a5dac%22%2C%22d_curPage%22%3A%220%22%2C%22d_pageSize%22%3A%2240%22%7D">
+<div class="job-card-left-box">
+<div class="job-detail-box">
+<!-- href需拼上dataPromId数据 -->
+<a data-nick="job-detail-job-info" href="https://www.liepin.com/job/1945250187.shtml?d_sfrom=search_prime&d_ckId=66a3abbe5f0dde32b6e5ff8d343a5dac&d_curPage=0&d_pageSize=40&d_headId=66a3abbe5f0dde32b6e5ff8d343a5dac&d_posi=7" target="_blank">
+<div class="job-detail-header-box">
+<div class="job-title-box">
+<div class="ellipsis-1" title="HR Analyst 人力资源专员">HR Analyst 人力资源专员</div>
+<div class="job-dq-box">
+<span class="dq-bracket">【</span>
+<span class="ellipsis-1">青岛</span>
+<span class="dq-bracket">】</span>
+</div>
+</div>
+<span class="job-salary">5-15k·13薪</span>
+</div>
+<div class="job-labels-box">
+<!-- campusJobKind 非空时显示 -->
+<!-- requireWorkYears 非空时显示 -->
+<span class="labels-tag">3-5年</span>
+<!-- requireEduLevel 非空时显示 -->
+<span class="labels-tag">本科及以上</span>
+<span class="labels-tag">薪酬核算</span>
+</div>
+</a>
+<!-- 有公司链接时才用a标签，没有公司链接不需要a标签 -->
+<a href="https://www.liepin.com/company/8826707/" target="_blank">
+<div class="job-detail-company-box" data-nick="job-detail-company-info">
+<div class="job-company-info-box">
+<div class="company-logo">
+<img alt="卡拉罗(中国)传动系统有限公司" src="//image0.lietou-static.com/img/5db259dc47b2f02171aeb81906u.jpg">
+</img></div>
+<span class="company-name ellipsis-1">卡拉罗(中国)传动系统有限公司</span>
+<!-- compIndustry || compStage || compScale 三个都没有值时不显示 -->
+<div class="company-tags-box ellipsis-1">
+<span>机械/机电/重工</span>
+<span>100-499人</span>
+</div>
+</div>
+</div>
+</a>
+</div>
+</div>
+<div class="job-card-right-box">
+<div class="recruiter-info-box">
+<div class="recruiter-photo" data-params='{"imId":"67a10c55a6afdf81befa578784e31c32","jobId":"45250187","userId":"57021409fdc302000befacb5e6fa153f","jobKind":"2","recruiterName":"李女士","imUserType":"2","recruiterPhoto":"5f8f9866dfb13a7dee342f1808u.jpg"}' data-selector="chat-chat">
+<img alt="" src="//image0.lietou-static.com/big/5f8f9866dfb13a7dee342f1808u.jpg">
+</img></div>
+<div class="recruiter-info-text-box">
+<div class="recruiter-name ellipsis-1">李女士</div>
+<div class="recruiter-title ellipsis-1">高级人事专员</div>
+</div>
+<!-- 聊一聊 -->
+<div class="chat-btn-box" data-nick="recruiter-info-box-chat-btn" data-params='{"imId":"67a10c55a6afdf81befa578784e31c32","jobId":"45250187","userId":"57021409fdc302000befacb5e6fa153f","jobKind":"2","recruiterName":"李女士","imUserType":"2","recruiterPhoto":"5f8f9866dfb13a7dee342f1808u.jpg"}' data-selector="chat-chat">
+<button class="ant-btn ant-btn-primary ant-btn-round" type="button">
+<span>聊一聊</span>
+</button>
+</div>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li>
+<div class="job-list-item">
+<div class="job-card-pc-container seo-job-card-action-box" data-info="%7B%22jobId%22%3A%2226774975%22%2C%22jobKind%22%3A%221%22%2C%22as_from%22%3A%22search_prime%22%2C%22d_headId%22%3A%2266a3abbe5f0dde32b6e5ff8d343a5dac%22%2C%22d_ckId%22%3A%2266a3abbe5f0dde32b6e5ff8d343a5dac%22%2C%22d_curPage%22%3A%220%22%2C%22d_pageSize%22%3A%2240%22%7D">
+<div class="job-card-left-box">
+<div class="job-detail-box">
+<!-- href需拼上dataPromId数据 -->
+<a data-nick="job-detail-job-info" href="https://www.liepin.com/a/26774975.shtml?d_sfrom=search_prime&d_ckId=66a3abbe5f0dde32b6e5ff8d343a5dac&d_curPage=0&d_pageSize=40&d_headId=66a3abbe5f0dde32b6e5ff8d343a5dac&d_posi=8" target="_blank">
+<div class="job-detail-header-box">
+<div class="job-title-box">
+<div class="ellipsis-1" title="高级人力资源专员/HR Specialist">高级人力资源专员/HR Specialist</div>
+<div class="job-dq-box">
+<span class="dq-bracket">【</span>
+<span class="ellipsis-1">青岛</span>
+<span class="dq-bracket">】</span>
+</div>
+</div>
+<span class="job-salary">9-13k·13薪</span>
+</div>
+<div class="job-labels-box">
+<!-- campusJobKind 非空时显示 -->
+<!-- requireWorkYears 非空时显示 -->
+<span class="labels-tag">3-5年</span>
+<!-- requireEduLevel 非空时显示 -->
+<span class="labels-tag">统招本科</span>
+<span class="labels-tag">岗位配置招聘</span><span class="labels-tag">薪酬管理</span><span class="labels-tag">薪酬核算</span><span class="labels-tag">制造业</span>
+</div>
+</a>
+<!-- 有公司链接时才用a标签，没有公司链接不需要a标签 -->
+<div class="job-detail-company-box" data-nick="job-detail-company-info">
+<div class="job-company-info-box">
+<div class="company-logo">
+<img alt="某大型外商独资企业" src="//image0.lietou-static.com/mini/60e2fe0bf3df194a3c48adb502u.png">
+</img></div>
+<span class="company-name ellipsis-1">某大型外商独资企业</span>
+<!-- compIndustry || compStage || compScale 三个都没有值时不显示 -->
+<div class="company-tags-box ellipsis-1">
+<span>电子/芯片/半导体</span>
+<span>不需要融资</span>
+<span>1000-2000人</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="job-card-right-box">
+<div class="recruiter-info-box">
+<div class="recruiter-photo" data-params='{"imId":"f8e6d3a4eeec27d56ddb46921ed98068","jobId":"26774975","userId":"db00fc0f37ae9372072245dd028fffbd","jobKind":"1","recruiterName":"孙先生","imUserType":"2","recruiterPhoto":"60544bf1a985901f4a959e2906u.png"}' data-selector="chat-chat">
+<img alt="" src="//image0.lietou-static.com/big/60544bf1a985901f4a959e2906u.png">
+</img></div>
+<div class="recruiter-info-text-box">
+<div class="recruiter-name ellipsis-1">孙先生</div>
+<div class="recruiter-title ellipsis-1">猎头顾问</div>
+</div>
+<!-- 聊一聊 -->
+<div class="chat-btn-box" data-nick="recruiter-info-box-chat-btn" data-params='{"imId":"f8e6d3a4eeec27d56ddb46921ed98068","jobId":"26774975","userId":"db00fc0f37ae9372072245dd028fffbd","jobKind":"1","recruiterName":"孙先生","imUserType":"2","recruiterPhoto":"60544bf1a985901f4a959e2906u.png"}' data-selector="chat-chat">
+<button class="ant-btn ant-btn-primary ant-btn-round" type="button">
+<span>聊一聊</span>
+</button>
+</div>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li>
+<div class="job-list-item">
+<div class="job-card-pc-container seo-job-card-action-box" data-info="%7B%22jobId%22%3A%2243129633%22%2C%22jobKind%22%3A%222%22%2C%22as_from%22%3A%22search_prime%22%2C%22d_headId%22%3A%2266a3abbe5f0dde32b6e5ff8d343a5dac%22%2C%22d_ckId%22%3A%2266a3abbe5f0dde32b6e5ff8d343a5dac%22%2C%22d_curPage%22%3A%220%22%2C%22d_pageSize%22%3A%2240%22%7D">
+<div class="job-card-left-box">
+<div class="job-detail-box">
+<!-- href需拼上dataPromId数据 -->
+<a data-nick="job-detail-job-info" href="https://www.liepin.com/job/1943129633.shtml?d_sfrom=search_prime&d_ckId=66a3abbe5f0dde32b6e5ff8d343a5dac&d_curPage=0&d_pageSize=40&d_headId=66a3abbe5f0dde32b6e5ff8d343a5dac&d_posi=9" target="_blank">
+<div class="job-detail-header-box">
+<div class="job-title-box">
+<div class="ellipsis-1" title="人力资源专员hr">人力资源专员hr</div>
+<div class="job-dq-box">
+<span class="dq-bracket">【</span>
+<span class="ellipsis-1">青岛</span>
+<span class="dq-bracket">】</span>
+</div>
+</div>
+<span class="job-salary">7-12k</span>
+</div>
+<div class="job-labels-box">
+<!-- campusJobKind 非空时显示 -->
+<!-- requireWorkYears 非空时显示 -->
+<span class="labels-tag">5-10年</span>
+<!-- requireEduLevel 非空时显示 -->
+<span class="labels-tag">本科及以上</span>
+<span class="labels-tag">社保公积金管理</span><span class="labels-tag">劳务纠纷</span>
+</div>
+</a>
+<!-- 有公司链接时才用a标签，没有公司链接不需要a标签 -->
+<a href="https://www.liepin.com/company/8054767/" target="_blank">
+<div class="job-detail-company-box" data-nick="job-detail-company-info">
+<div class="job-company-info-box">
+<div class="company-logo">
+<img alt="上海东邦丽阳建筑工程技术有限公司" src="//image0.lietou-static.com/img/61b07937d0458d53c627567e02u.jpg">
+</img></div>
+<span class="company-name ellipsis-1">上海东邦丽阳建筑工程技术有限公司</span>
+<!-- compIndustry || compStage || compScale 三个都没有值时不显示 -->
+<div class="company-tags-box ellipsis-1">
+<span>专业服务</span>
+<span>融资未公开</span>
+<span>1-49人</span>
+</div>
+</div>
+</div>
+</a>
+</div>
+</div>
+<div class="job-card-right-box">
+<div class="recruiter-info-box">
+<div class="recruiter-photo" data-params='{"imId":"69d73d843d66d3d3e7aabf91dfd63a90","jobId":"43129633","userId":"9ef883f8ce3ef1ec9586bf6532be9c65","jobKind":"2","recruiterName":"许女士","imUserType":"2","recruiterPhoto":"5f8f986779c7cc70efbf36c008u.jpg"}' data-selector="chat-chat">
+<img alt="" src="//image0.lietou-static.com/big/5f8f986779c7cc70efbf36c008u.jpg">
+</img></div>
+<div class="recruiter-info-text-box">
+<div class="recruiter-name ellipsis-1">许女士</div>
+<div class="recruiter-title ellipsis-1">法务专员</div>
+</div>
+<!-- 聊一聊 -->
+<div class="chat-btn-box" data-nick="recruiter-info-box-chat-btn" data-params='{"imId":"69d73d843d66d3d3e7aabf91dfd63a90","jobId":"43129633","userId":"9ef883f8ce3ef1ec9586bf6532be9c65","jobKind":"2","recruiterName":"许女士","imUserType":"2","recruiterPhoto":"5f8f986779c7cc70efbf36c008u.jpg"}' data-selector="chat-chat">
+<button class="ant-btn ant-btn-primary ant-btn-round" type="button">
+<span>聊一聊</span>
+</button>
+</div>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li>
+<div class="job-list-item">
+<div class="job-card-pc-container seo-job-card-action-box" data-info="%7B%22jobId%22%3A%2225733921%22%2C%22jobKind%22%3A%222%22%2C%22as_from%22%3A%22search_prime%22%2C%22d_headId%22%3A%2266a3abbe5f0dde32b6e5ff8d343a5dac%22%2C%22d_ckId%22%3A%2266a3abbe5f0dde32b6e5ff8d343a5dac%22%2C%22d_curPage%22%3A%220%22%2C%22d_pageSize%22%3A%2240%22%7D">
+<div class="job-card-left-box">
+<div class="job-detail-box">
+<!-- href需拼上dataPromId数据 -->
+<a data-nick="job-detail-job-info" href="https://www.liepin.com/job/1925733921.shtml?d_sfrom=search_prime&d_ckId=66a3abbe5f0dde32b6e5ff8d343a5dac&d_curPage=0&d_pageSize=40&d_headId=66a3abbe5f0dde32b6e5ff8d343a5dac&d_posi=10" target="_blank">
+<div class="job-detail-header-box">
+<div class="job-title-box">
+<div class="ellipsis-1" title="HR Officer 人力资源专员(006667)">HR Officer 人力资源专员(006667)</div>
+<div class="job-dq-box">
+<span class="dq-bracket">【</span>
+<span class="ellipsis-1">青岛-崂山区</span>
+<span class="dq-bracket">】</span>
+</div>
+</div>
+<span class="job-salary">面议</span>
+</div>
+<div class="job-labels-box">
+<!-- campusJobKind 非空时显示 -->
+<!-- requireWorkYears 非空时显示 -->
+<span class="labels-tag">1-3年</span>
+<!-- requireEduLevel 非空时显示 -->
+<span class="labels-tag">学历不限</span>
+<span class="labels-tag">岗位配置招聘</span><span class="labels-tag">薪酬核算</span><span class="labels-tag">薪酬管理</span>
+</div>
+</a>
+<!-- 有公司链接时才用a标签，没有公司链接不需要a标签 -->
+<a href="https://www.liepin.com/company/9573271/" target="_blank">
+<div class="job-detail-company-box" data-nick="job-detail-company-info">
+<div class="job-company-info-box">
+<div class="company-logo">
+<img alt="青岛和睦家医院有限公司" src="//image0.lietou-static.com/img/61b07937d0458d53c627567e02u.jpg">
+</img></div>
+<span class="company-name ellipsis-1">青岛和睦家医院有限公司</span>
+<!-- compIndustry || compStage || compScale 三个都没有值时不显示 -->
+<div class="company-tags-box ellipsis-1">
+<span>医疗/保健/美容</span>
+</div>
+</div>
+</div>
+</a>
+</div>
+</div>
+<div class="job-card-right-box">
+<div class="recruiter-info-box">
+<div class="recruiter-photo" data-params='{"imId":"33f26fc09d6cb44f73ea3114a5fc2d96","jobId":"25733921","userId":"54e961ec0fa57997d9c84b34117e0e5f","jobKind":"2","recruiterName":"HR","imUserType":"2","recruiterPhoto":"5f8f9866dfb13a7dee342f1808u.jpg"}' data-selector="chat-chat">
+<img alt="" src="//image0.lietou-static.com/big/5f8f9866dfb13a7dee342f1808u.jpg">
+</img></div>
+<div class="recruiter-info-text-box">
+<div class="recruiter-name ellipsis-1">HR</div>
+<div class="recruiter-title ellipsis-1"></div>
+</div>
+<!-- 聊一聊 -->
+<div class="chat-btn-box" data-nick="recruiter-info-box-chat-btn" data-params='{"imId":"33f26fc09d6cb44f73ea3114a5fc2d96","jobId":"25733921","userId":"54e961ec0fa57997d9c84b34117e0e5f","jobKind":"2","recruiterName":"HR","imUserType":"2","recruiterPhoto":"5f8f9866dfb13a7dee342f1808u.jpg"}' data-selector="chat-chat">
+<button class="ant-btn ant-btn-primary ant-btn-round" type="button">
+<span>聊一聊</span>
+</button>
+</div>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li>
+<div class="job-list-item">
+<div class="job-card-pc-container seo-job-card-action-box" data-info="%7B%22jobId%22%3A%2242048767%22%2C%22jobKind%22%3A%222%22%2C%22as_from%22%3A%22search_prime%22%2C%22d_headId%22%3A%2266a3abbe5f0dde32b6e5ff8d343a5dac%22%2C%22d_ckId%22%3A%2266a3abbe5f0dde32b6e5ff8d343a5dac%22%2C%22d_curPage%22%3A%220%22%2C%22d_pageSize%22%3A%2240%22%7D">
+<div class="job-card-left-box">
+<div class="job-detail-box">
+<!-- href需拼上dataPromId数据 -->
+<a data-nick="job-detail-job-info" href="https://www.liepin.com/job/1942048767.shtml?d_sfrom=search_prime&d_ckId=66a3abbe5f0dde32b6e5ff8d343a5dac&d_curPage=0&d_pageSize=40&d_headId=66a3abbe5f0dde32b6e5ff8d343a5dac&d_posi=11" target="_blank">
+<div class="job-detail-header-box">
+<div class="job-title-box">
+<div class="ellipsis-1" title="人力资源专员hr">人力资源专员hr</div>
+<div class="job-dq-box">
+<span class="dq-bracket">【</span>
+<span class="ellipsis-1">青岛</span>
+<span class="dq-bracket">】</span>
+</div>
+</div>
+<span class="job-salary">4-5k</span>
+</div>
+<div class="job-labels-box">
+<!-- campusJobKind 非空时显示 -->
+<!-- requireWorkYears 非空时显示 -->
+<span class="labels-tag">1-3年</span>
+<!-- requireEduLevel 非空时显示 -->
+<span class="labels-tag">大专及以上</span>
+<span class="labels-tag">岗位配置招聘</span><span class="labels-tag">劳务纠纷</span><span class="labels-tag">薪酬设计</span><span class="labels-tag">人事档案</span><span class="labels-tag">员工关系</span><span class="labels-tag">人力资源经验</span>
+</div>
+</a>
+<!-- 有公司链接时才用a标签，没有公司链接不需要a标签 -->
+<a href="https://www.liepin.com/company/9503783/" target="_blank">
+<div class="job-detail-company-box" data-nick="job-detail-company-info">
+<div class="job-company-info-box">
+<div class="company-logo">
+<img alt="中南物业" src="//image0.lietou-static.com/img/61b07937d0458d53c627567e02u.jpg">
+</img></div>
+<span class="company-name ellipsis-1">中南物业</span>
+<!-- compIndustry || compStage || compScale 三个都没有值时不显示 -->
+<div class="company-tags-box ellipsis-1">
+<span>物业管理</span>
+<span>融资未公开</span>
+<span>1000-2000人</span>
+</div>
+</div>
+</div>
+</a>
+</div>
+</div>
+<div class="job-card-right-box">
+<div class="recruiter-info-box">
+<div class="recruiter-photo" data-params='{"imId":"dc6ca8baf0b8988405783d9a4a302353","jobId":"42048767","userId":"a3d917f07120d1bf79382b54b1249c43","jobKind":"2","recruiterName":"王女士","imUserType":"2","recruiterPhoto":"5f8f98648dbe6273dcf8515508u.jpg"}' data-selector="chat-chat">
+<img alt="" src="//image0.lietou-static.com/big/5f8f98648dbe6273dcf8515508u.jpg">
+</img></div>
+<div class="recruiter-info-text-box">
+<div class="recruiter-name ellipsis-1">王女士</div>
+<div class="recruiter-title ellipsis-1">人力资源伙伴(HRBP)</div>
+</div>
+<!-- 聊一聊 -->
+<div class="chat-btn-box" data-nick="recruiter-info-box-chat-btn" data-params='{"imId":"dc6ca8baf0b8988405783d9a4a302353","jobId":"42048767","userId":"a3d917f07120d1bf79382b54b1249c43","jobKind":"2","recruiterName":"王女士","imUserType":"2","recruiterPhoto":"5f8f98648dbe6273dcf8515508u.jpg"}' data-selector="chat-chat">
+<button class="ant-btn ant-btn-primary ant-btn-round" type="button">
+<span>聊一聊</span>
+</button>
+</div>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li>
+<div class="job-list-item">
+<div class="job-card-pc-container seo-job-card-action-box" data-info="%7B%22jobId%22%3A%2231652965%22%2C%22jobKind%22%3A%221%22%2C%22as_from%22%3A%22search_prime%22%2C%22d_headId%22%3A%2266a3abbe5f0dde32b6e5ff8d343a5dac%22%2C%22d_ckId%22%3A%2266a3abbe5f0dde32b6e5ff8d343a5dac%22%2C%22d_curPage%22%3A%220%22%2C%22d_pageSize%22%3A%2240%22%7D">
+<div class="job-card-left-box">
+<div class="job-detail-box">
+<!-- href需拼上dataPromId数据 -->
+<a data-nick="job-detail-job-info" href="https://www.liepin.com/a/31652965.shtml?d_sfrom=search_prime&d_ckId=66a3abbe5f0dde32b6e5ff8d343a5dac&d_curPage=0&d_pageSize=40&d_headId=66a3abbe5f0dde32b6e5ff8d343a5dac&d_posi=12" target="_blank">
+<div class="job-detail-header-box">
+<div class="job-title-box">
+<div class="ellipsis-1" title="人力资源专家（OD组织发展方向）">人力资源专家（OD组织发展方向）</div>
+<div class="job-dq-box">
+<span class="dq-bracket">【</span>
+<span class="ellipsis-1">青岛</span>
+<span class="dq-bracket">】</span>
+</div>
+</div>
+<span class="job-salary">80-110k·15薪</span>
+</div>
+<div class="job-labels-box">
+<!-- campusJobKind 非空时显示 -->
+<!-- requireWorkYears 非空时显示 -->
+<span class="labels-tag">10年以上</span>
+<!-- requireEduLevel 非空时显示 -->
+<span class="labels-tag">统招本科</span>
+<span class="labels-tag">组织发展</span><span class="labels-tag">人才发展</span><span class="labels-tag">人力资源规划</span><span class="labels-tag">COE</span><span class="labels-tag">人力资源经验</span>
+</div>
+</a>
+<!-- 有公司链接时才用a标签，没有公司链接不需要a标签 -->
+<div class="job-detail-company-box" data-nick="job-detail-company-info">
+<div class="job-company-info-box">
+<div class="company-logo">
+<img alt="知名世界500强" src="//image0.lietou-static.com/mini/60e2fe0bf3df194a3c48adb502u.png">
+</img></div>
+<span class="company-name ellipsis-1">知名世界500强</span>
+<!-- compIndustry || compStage || compScale 三个都没有值时不显示 -->
+<div class="company-tags-box ellipsis-1">
+<span>智能安防</span>
+<span>已上市</span>
+<span>10000人以上</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="job-card-right-box">
+<div class="recruiter-info-box">
+<div class="recruiter-photo" data-params='{"imId":"7aaa9f61297a51c405cd690f9a5023eb","jobId":"31652965","userId":"f14dcc3362111fd02b8d4fd1c663acc9","jobKind":"1","recruiterName":"刘女士","imUserType":"2","recruiterPhoto":"5deb0190cd52473b94f4f59602u.png"}' data-selector="chat-chat">
+<img alt="" src="//image0.lietou-static.com/big/5deb0190cd52473b94f4f59602u.png">
+</img></div>
+<div class="recruiter-info-text-box">
+<div class="recruiter-name ellipsis-1">刘女士</div>
+<div class="recruiter-title ellipsis-1">猎头顾问</div>
+</div>
+<!-- 聊一聊 -->
+<div class="chat-btn-box" data-nick="recruiter-info-box-chat-btn" data-params='{"imId":"7aaa9f61297a51c405cd690f9a5023eb","jobId":"31652965","userId":"f14dcc3362111fd02b8d4fd1c663acc9","jobKind":"1","recruiterName":"刘女士","imUserType":"2","recruiterPhoto":"5deb0190cd52473b94f4f59602u.png"}' data-selector="chat-chat">
+<button class="ant-btn ant-btn-primary ant-btn-round" type="button">
+<span>聊一聊</span>
+</button>
+</div>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li>
+<div class="job-list-item">
+<div class="job-card-pc-container seo-job-card-action-box" data-info="%7B%22jobId%22%3A%2217126303%22%2C%22jobKind%22%3A%221%22%2C%22as_from%22%3A%22search_prime%22%2C%22d_headId%22%3A%2266a3abbe5f0dde32b6e5ff8d343a5dac%22%2C%22d_ckId%22%3A%2266a3abbe5f0dde32b6e5ff8d343a5dac%22%2C%22d_curPage%22%3A%220%22%2C%22d_pageSize%22%3A%2240%22%7D">
+<div class="job-card-left-box">
+<div class="job-detail-box">
+<!-- href需拼上dataPromId数据 -->
+<a data-nick="job-detail-job-info" href="https://www.liepin.com/a/17126303.shtml?d_sfrom=search_prime&d_ckId=66a3abbe5f0dde32b6e5ff8d343a5dac&d_curPage=0&d_pageSize=40&d_headId=66a3abbe5f0dde32b6e5ff8d343a5dac&d_posi=13" target="_blank">
+<div class="job-detail-header-box">
+<div class="job-title-box">
+<div class="ellipsis-1" title="人力资源总监">人力资源总监</div>
+<div class="job-dq-box">
+<span class="dq-bracket">【</span>
+<span class="ellipsis-1">青岛</span>
+<span class="dq-bracket">】</span>
+</div>
+</div>
+<span class="job-salary">20-26k</span>
+</div>
+<div class="job-labels-box">
+<!-- campusJobKind 非空时显示 -->
+<!-- requireWorkYears 非空时显示 -->
+<span class="labels-tag">5-10年</span>
+<!-- requireEduLevel 非空时显示 -->
+<span class="labels-tag">统招本科</span>
+<span class="labels-tag">绩效管理</span><span class="labels-tag">薪酬管理</span><span class="labels-tag">薪酬设计</span><span class="labels-tag">薪酬战略</span><span class="labels-tag">薪酬核算</span><span class="labels-tag">SSC</span><span class="labels-tag">人才发展</span><span class="labels-tag">劳务纠纷</span><span class="labels-tag">培训开发与实施</span><span class="labels-tag">岗位配置招聘</span>
+</div>
+</a>
+<!-- 有公司链接时才用a标签，没有公司链接不需要a标签 -->
+<div class="job-detail-company-box" data-nick="job-detail-company-info">
+<div class="job-company-info-box">
+<div class="company-logo">
+<img alt="知名集团公司" src="//image0.lietou-static.com/mini/60e2fe0bf3df194a3c48adb502u.png">
+</img></div>
+<span class="company-name ellipsis-1">知名集团公司</span>
+<!-- compIndustry || compStage || compScale 三个都没有值时不显示 -->
+<div class="company-tags-box ellipsis-1">
+<span>企业服务软件</span>
+<span>1000-2000人</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="job-card-right-box">
+<div class="recruiter-info-box">
+<div class="recruiter-photo" data-params='{"imId":"52dae53afa6c45013eaad1f295204b5b","jobId":"17126303","userId":"5bfc3f4afbd3a816822d4fe85fceaa2e","jobKind":"1","recruiterName":"刘先生","imUserType":"2","recruiterPhoto":"618368a94ef3c506648f56cc03u.jpg"}' data-selector="chat-chat">
+<img alt="" src="//image0.lietou-static.com/big/618368a94ef3c506648f56cc03u.jpg">
+</img></div>
+<div class="recruiter-info-text-box">
+<div class="recruiter-name ellipsis-1">刘先生</div>
+<div class="recruiter-title ellipsis-1">猎头顾问</div>
+</div>
+<!-- 聊一聊 -->
+<div class="chat-btn-box" data-nick="recruiter-info-box-chat-btn" data-params='{"imId":"52dae53afa6c45013eaad1f295204b5b","jobId":"17126303","userId":"5bfc3f4afbd3a816822d4fe85fceaa2e","jobKind":"1","recruiterName":"刘先生","imUserType":"2","recruiterPhoto":"618368a94ef3c506648f56cc03u.jpg"}' data-selector="chat-chat">
+<button class="ant-btn ant-btn-primary ant-btn-round" type="button">
+<span>聊一聊</span>
+</button>
+</div>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li>
+<div class="job-list-item">
+<div class="job-card-pc-container seo-job-card-action-box" data-info="%7B%22jobId%22%3A%2241920511%22%2C%22jobKind%22%3A%222%22%2C%22as_from%22%3A%22search_prime%22%2C%22d_headId%22%3A%2266a3abbe5f0dde32b6e5ff8d343a5dac%22%2C%22d_ckId%22%3A%2266a3abbe5f0dde32b6e5ff8d343a5dac%22%2C%22d_curPage%22%3A%220%22%2C%22d_pageSize%22%3A%2240%22%7D">
+<div class="job-card-left-box">
+<div class="job-detail-box">
+<!-- href需拼上dataPromId数据 -->
+<a data-nick="job-detail-job-info" href="https://www.liepin.com/job/1941920511.shtml?d_sfrom=search_prime&d_ckId=66a3abbe5f0dde32b6e5ff8d343a5dac&d_curPage=0&d_pageSize=40&d_headId=66a3abbe5f0dde32b6e5ff8d343a5dac&d_posi=14" target="_blank">
+<div class="job-detail-header-box">
+<div class="job-title-box">
+<div class="ellipsis-1" title="人力资源经理">人力资源经理</div>
+<div class="job-dq-box">
+<span class="dq-bracket">【</span>
+<span class="ellipsis-1">青岛</span>
+<span class="dq-bracket">】</span>
+</div>
+</div>
+<span class="job-salary">10-20k</span>
+</div>
+<div class="job-labels-box">
+<!-- campusJobKind 非空时显示 -->
+<!-- requireWorkYears 非空时显示 -->
+<span class="labels-tag">10年以上</span>
+<!-- requireEduLevel 非空时显示 -->
+<span class="labels-tag">统招本科</span>
+<span class="labels-tag">员工关系</span><span class="labels-tag">离职管理</span><span class="labels-tag">人力资源规划</span><span class="labels-tag">薪酬管理</span><span class="labels-tag">人才发展</span><span class="labels-tag">绩效管理</span><span class="labels-tag">培训开发与实施</span><span class="labels-tag">劳务纠纷</span><span class="labels-tag">合同管理</span><span class="labels-tag">岗位配置招聘</span>
+</div>
+</a>
+<!-- 有公司链接时才用a标签，没有公司链接不需要a标签 -->
+<a href="https://www.liepin.com/company/7928997/" target="_blank">
+<div class="job-detail-company-box" data-nick="job-detail-company-info">
+<div class="job-company-info-box">
+<div class="company-logo">
+<img alt="北控水务" src="//image0.lietou-static.com/img/5bfe999c74719df0ac99ab4003a.png">
+</img></div>
+<span class="company-name ellipsis-1">北控水务</span>
+<!-- compIndustry || compStage || compScale 三个都没有值时不显示 -->
+<div class="company-tags-box ellipsis-1">
+<span>基金/证券/投资</span>
+<span>10000人以上</span>
+</div>
+</div>
+</div>
+</a>
+</div>
+</div>
+<div class="job-card-right-box">
+<div class="recruiter-info-box">
+<div class="recruiter-photo" data-params='{"imId":"0451bc1d7b756ab404612e645251413c","jobId":"41920511","userId":"8e1079cfcf125b6b6b9c3dbdea4a1dc0","jobKind":"2","recruiterName":"纪女士","imUserType":"2","recruiterPhoto":"5f8f986779c7cc70efbf36c008u.jpg"}' data-selector="chat-chat">
+<img alt="" src="//image0.lietou-static.com/big/5f8f986779c7cc70efbf36c008u.jpg">
+</img></div>
+<div class="recruiter-info-text-box">
+<div class="recruiter-name ellipsis-1">纪女士</div>
+<div class="recruiter-title ellipsis-1"></div>
+</div>
+<!-- 聊一聊 -->
+<div class="chat-btn-box" data-nick="recruiter-info-box-chat-btn" data-params='{"imId":"0451bc1d7b756ab404612e645251413c","jobId":"41920511","userId":"8e1079cfcf125b6b6b9c3dbdea4a1dc0","jobKind":"2","recruiterName":"纪女士","imUserType":"2","recruiterPhoto":"5f8f986779c7cc70efbf36c008u.jpg"}' data-selector="chat-chat">
+<button class="ant-btn ant-btn-primary ant-btn-round" type="button">
+<span>聊一聊</span>
+</button>
+</div>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li>
+<div class="job-list-item">
+<div class="job-card-pc-container seo-job-card-action-box" data-info="%7B%22jobId%22%3A%2231426459%22%2C%22jobKind%22%3A%221%22%2C%22as_from%22%3A%22search_prime%22%2C%22d_headId%22%3A%2266a3abbe5f0dde32b6e5ff8d343a5dac%22%2C%22d_ckId%22%3A%2266a3abbe5f0dde32b6e5ff8d343a5dac%22%2C%22d_curPage%22%3A%220%22%2C%22d_pageSize%22%3A%2240%22%7D">
+<div class="job-card-left-box">
+<div class="job-detail-box">
+<!-- href需拼上dataPromId数据 -->
+<a data-nick="job-detail-job-info" href="https://www.liepin.com/a/31426459.shtml?d_sfrom=search_prime&d_ckId=66a3abbe5f0dde32b6e5ff8d343a5dac&d_curPage=0&d_pageSize=40&d_headId=66a3abbe5f0dde32b6e5ff8d343a5dac&d_posi=15" target="_blank">
+<div class="job-detail-header-box">
+<div class="job-title-box">
+<div class="ellipsis-1" title="人力资源总监">人力资源总监</div>
+<div class="job-dq-box">
+<span class="dq-bracket">【</span>
+<span class="ellipsis-1">青岛-城阳区</span>
+<span class="dq-bracket">】</span>
+</div>
+</div>
+<span class="job-salary">15-22k</span>
+</div>
+<div class="job-labels-box">
+<!-- campusJobKind 非空时显示 -->
+<!-- requireWorkYears 非空时显示 -->
+<span class="labels-tag">5-10年</span>
+<!-- requireEduLevel 非空时显示 -->
+<span class="labels-tag">统招本科</span>
+<span class="labels-tag">岗位配置招聘</span><span class="labels-tag">人力成本分析</span><span class="labels-tag">劳务纠纷</span><span class="labels-tag">校园招聘</span><span class="labels-tag">人力资源经验</span>
+</div>
+</a>
+<!-- 有公司链接时才用a标签，没有公司链接不需要a标签 -->
+<div class="job-detail-company-box" data-nick="job-detail-company-info">
+<div class="job-company-info-box">
+<div class="company-logo">
+<img alt="青岛某大学" src="//image0.lietou-static.com/mini/60e2fe0bf3df194a3c48adb502u.png">
+</img></div>
+<span class="company-name ellipsis-1">青岛某大学</span>
+<!-- compIndustry || compStage || compScale 三个都没有值时不显示 -->
+<div class="company-tags-box ellipsis-1">
+<span>高等教育</span>
+<span>10000人以上</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="job-card-right-box">
+<div class="recruiter-info-box">
+<div class="recruiter-photo" data-params='{"imId":"cb3bdedbaad193ce3eae059a38e31609","jobId":"31426459","userId":"515d87e69b3dea34ebcebc4f8a36a24c","jobKind":"1","recruiterName":"丁女士","imUserType":"2","recruiterPhoto":"5db80c0acd52473b94b20e3701u.jpg"}' data-selector="chat-chat">
+<img alt="" src="//image0.lietou-static.com/big/5db80c0acd52473b94b20e3701u.jpg">
+</img></div>
+<div class="recruiter-info-text-box">
+<div class="recruiter-name ellipsis-1">丁女士</div>
+<div class="recruiter-title ellipsis-1">猎头顾问</div>
+</div>
+<!-- 聊一聊 -->
+<div class="chat-btn-box" data-nick="recruiter-info-box-chat-btn" data-params='{"imId":"cb3bdedbaad193ce3eae059a38e31609","jobId":"31426459","userId":"515d87e69b3dea34ebcebc4f8a36a24c","jobKind":"1","recruiterName":"丁女士","imUserType":"2","recruiterPhoto":"5db80c0acd52473b94b20e3701u.jpg"}' data-selector="chat-chat">
+<button class="ant-btn ant-btn-primary ant-btn-round" type="button">
+<span>聊一聊</span>
+</button>
+</div>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li>
+<div class="job-list-item">
+<div class="job-card-pc-container seo-job-card-action-box" data-info="%7B%22jobId%22%3A%2232286653%22%2C%22jobKind%22%3A%221%22%2C%22as_from%22%3A%22search_prime%22%2C%22d_headId%22%3A%2266a3abbe5f0dde32b6e5ff8d343a5dac%22%2C%22d_ckId%22%3A%2266a3abbe5f0dde32b6e5ff8d343a5dac%22%2C%22d_curPage%22%3A%220%22%2C%22d_pageSize%22%3A%2240%22%7D">
+<div class="job-card-left-box">
+<div class="job-detail-box">
+<!-- href需拼上dataPromId数据 -->
+<a data-nick="job-detail-job-info" href="https://www.liepin.com/a/32286653.shtml?d_sfrom=search_prime&d_ckId=66a3abbe5f0dde32b6e5ff8d343a5dac&d_curPage=0&d_pageSize=40&d_headId=66a3abbe5f0dde32b6e5ff8d343a5dac&d_posi=16" target="_blank">
+<div class="job-detail-header-box">
+<div class="job-title-box">
+<div class="ellipsis-1" title="人力资源主管">人力资源主管</div>
+<div class="job-dq-box">
+<span class="dq-bracket">【</span>
+<span class="ellipsis-1">青岛-市南区</span>
+<span class="dq-bracket">】</span>
+</div>
+</div>
+<span class="job-salary">5-8k</span>
+</div>
+<div class="job-labels-box">
+<!-- campusJobKind 非空时显示 -->
+<!-- requireWorkYears 非空时显示 -->
+<span class="labels-tag">经验不限</span>
+<!-- requireEduLevel 非空时显示 -->
+<span class="labels-tag">统招本科</span>
+<span class="labels-tag">劳务纠纷</span><span class="labels-tag">人力资源规划</span><span class="labels-tag">SSC</span><span class="labels-tag">人力资源经验</span>
+</div>
+</a>
+<!-- 有公司链接时才用a标签，没有公司链接不需要a标签 -->
+<div class="job-detail-company-box" data-nick="job-detail-company-info">
+<div class="job-company-info-box">
+<div class="company-logo">
+<img alt="某国有企业" src="//image0.lietou-static.com/mini/60e2fe0bf3df194a3c48adb502u.png">
+</img></div>
+<span class="company-name ellipsis-1">某国有企业</span>
+<!-- compIndustry || compStage || compScale 三个都没有值时不显示 -->
+<div class="company-tags-box ellipsis-1">
+<span>园区开发</span>
+<span>不需要融资</span>
+<span>50-99人</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="job-card-right-box">
+<div class="recruiter-info-box">
+<div class="recruiter-photo" data-params='{"imId":"9b362597ac7eb5ebb46026be1342d1d5","jobId":"32286653","userId":"e0ed36e49dd087a1339743e894664e56","jobKind":"1","recruiterName":"张女士","imUserType":"2","recruiterPhoto":"6194901ce825507d06518f0d06u.png"}' data-selector="chat-chat">
+<img alt="" src="//image0.lietou-static.com/big/6194901ce825507d06518f0d06u.png">
+</img></div>
+<div class="recruiter-info-text-box">
+<div class="recruiter-name ellipsis-1">张女士</div>
+<div class="recruiter-title ellipsis-1">猎头顾问</div>
+</div>
+<!-- 聊一聊 -->
+<div class="chat-btn-box" data-nick="recruiter-info-box-chat-btn" data-params='{"imId":"9b362597ac7eb5ebb46026be1342d1d5","jobId":"32286653","userId":"e0ed36e49dd087a1339743e894664e56","jobKind":"1","recruiterName":"张女士","imUserType":"2","recruiterPhoto":"6194901ce825507d06518f0d06u.png"}' data-selector="chat-chat">
+<button class="ant-btn ant-btn-primary ant-btn-round" type="button">
+<span>聊一聊</span>
+</button>
+</div>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li>
+<div class="job-list-item">
+<div class="job-card-pc-container seo-job-card-action-box" data-info="%7B%22jobId%22%3A%2231567869%22%2C%22jobKind%22%3A%221%22%2C%22as_from%22%3A%22search_prime%22%2C%22d_headId%22%3A%2266a3abbe5f0dde32b6e5ff8d343a5dac%22%2C%22d_ckId%22%3A%2266a3abbe5f0dde32b6e5ff8d343a5dac%22%2C%22d_curPage%22%3A%220%22%2C%22d_pageSize%22%3A%2240%22%7D">
+<div class="job-card-left-box">
+<div class="job-detail-box">
+<!-- href需拼上dataPromId数据 -->
+<a data-nick="job-detail-job-info" href="https://www.liepin.com/a/31567869.shtml?d_sfrom=search_prime&d_ckId=66a3abbe5f0dde32b6e5ff8d343a5dac&d_curPage=0&d_pageSize=40&d_headId=66a3abbe5f0dde32b6e5ff8d343a5dac&d_posi=17" target="_blank">
+<div class="job-detail-header-box">
+<div class="job-title-box">
+<div class="ellipsis-1" title="人力资源总监hrd">人力资源总监hrd</div>
+<div class="job-dq-box">
+<span class="dq-bracket">【</span>
+<span class="ellipsis-1">青岛</span>
+<span class="dq-bracket">】</span>
+</div>
+</div>
+<span class="job-salary">30-60k</span>
+</div>
+<div class="job-labels-box">
+<!-- campusJobKind 非空时显示 -->
+<!-- requireWorkYears 非空时显示 -->
+<span class="labels-tag">10年以上</span>
+<!-- requireEduLevel 非空时显示 -->
+<span class="labels-tag">统招本科</span>
+<span class="labels-tag">绩效管理</span><span class="labels-tag">人力资源规划</span><span class="labels-tag">薪酬管理</span><span class="labels-tag">岗位配置招聘</span><span class="labels-tag">企业文化</span><span class="labels-tag">人才发展</span><span class="labels-tag">团队管理</span><span class="labels-tag">人力资源经验</span>
+</div>
+</a>
+<!-- 有公司链接时才用a标签，没有公司链接不需要a标签 -->
+<div class="job-detail-company-box" data-nick="job-detail-company-info">
+<div class="job-company-info-box">
+<div class="company-logo">
+<img alt="某科技公司" src="//image0.lietou-static.com/mini/60e2fe0bf3df194a3c48adb502u.png">
+</img></div>
+<span class="company-name ellipsis-1">某科技公司</span>
+<!-- compIndustry || compStage || compScale 三个都没有值时不显示 -->
+<div class="company-tags-box ellipsis-1">
+<span>互联网/电商</span>
+<span>1000-2000人</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="job-card-right-box">
+<div class="recruiter-info-box">
+<div class="recruiter-photo" data-params='{"imId":"803eba16d7b3c8246042c177f0a1d2b1","jobId":"31567869","userId":"481dfb2c7cd61c4a0370326f1d85673d","jobKind":"1","recruiterName":"曹先生","imUserType":"2","recruiterPhoto":"5d6dbb8b28021708fa3222eb01u.jpg"}' data-selector="chat-chat">
+<img alt="" src="//image0.lietou-static.com/big/5d6dbb8b28021708fa3222eb01u.jpg"/>
+</div>
+<div class="recruiter-info-text-box">
+<div class="recruiter-name ellipsis-1">曹先生</div>
+<div class="recruiter-title ellipsis-1">猎头顾问</div>
+</div>
+<!-- 聊一聊 -->
+<div class="chat-btn-box" data-nick="recruiter-info-box-chat-btn" data-params='{"imId":"803eba16d7b3c8246042c177f0a1d2b1","jobId":"31567869","userId":"481dfb2c7cd61c4a0370326f1d85673d","jobKind":"1","recruiterName":"曹先生","imUserType":"2","recruiterPhoto":"5d6dbb8b28021708fa3222eb01u.jpg"}' data-selector="chat-chat">
+<button class="ant-btn ant-btn-primary ant-btn-round" type="button">
+<span>聊一聊</span>
+</button>
+</div>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li>
+<div class="job-list-item">
+<div class="job-card-pc-container seo-job-card-action-box" data-info="%7B%22jobId%22%3A%2231564111%22%2C%22jobKind%22%3A%221%22%2C%22as_from%22%3A%22search_prime%22%2C%22d_headId%22%3A%2266a3abbe5f0dde32b6e5ff8d343a5dac%22%2C%22d_ckId%22%3A%2266a3abbe5f0dde32b6e5ff8d343a5dac%22%2C%22d_curPage%22%3A%220%22%2C%22d_pageSize%22%3A%2240%22%7D">
+<div class="job-card-left-box">
+<div class="job-detail-box">
+<!-- href需拼上dataPromId数据 -->
+<a data-nick="job-detail-job-info" href="https://www.liepin.com/a/31564111.shtml?d_sfrom=search_prime&d_ckId=66a3abbe5f0dde32b6e5ff8d343a5dac&d_curPage=0&d_pageSize=40&d_headId=66a3abbe5f0dde32b6e5ff8d343a5dac&d_posi=18" target="_blank">
+<div class="job-detail-header-box">
+<div class="job-title-box">
+<div class="ellipsis-1" title="人力资源总监">人力资源总监</div>
+<div class="job-dq-box">
+<span class="dq-bracket">【</span>
+<span class="ellipsis-1">青岛</span>
+<span class="dq-bracket">】</span>
+</div>
+</div>
+<span class="job-salary">25-50k·14薪</span>
+</div>
+<div class="job-labels-box">
+<!-- campusJobKind 非空时显示 -->
+<!-- requireWorkYears 非空时显示 -->
+<span class="labels-tag">10年以上</span>
+<!-- requireEduLevel 非空时显示 -->
+<span class="labels-tag">统招本科</span>
+<span class="labels-tag">绩效管理</span><span class="labels-tag">人力资源规划</span><span class="labels-tag">薪酬管理</span><span class="labels-tag">岗位配置招聘</span><span class="labels-tag">企业文化</span><span class="labels-tag">人才发展</span><span class="labels-tag">人力资源经验</span>
+</div>
+</a>
+<!-- 有公司链接时才用a标签，没有公司链接不需要a标签 -->
+<div class="job-detail-company-box" data-nick="job-detail-company-info">
+<div class="job-company-info-box">
+<div class="company-logo">
+<img alt="青岛某上市集团公司" src="//image0.lietou-static.com/mini/60e2fe0bf3df194a3c48adb502u.png"/>
+</div>
+<span class="company-name ellipsis-1">青岛某上市集团公司</span>
+<!-- compIndustry || compStage || compScale 三个都没有值时不显示 -->
+<div class="company-tags-box ellipsis-1">
+<span>电力</span>
+<span>5000-10000人</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="job-card-right-box">
+<div class="recruiter-info-box">
+<div class="recruiter-photo" data-params='{"imId":"7cbc5104eaf4704c337193710fe42056","jobId":"31564111","userId":"00c7104cee215c57fc0ce7ee7dc12748","jobKind":"1","recruiterName":"余女士","imUserType":"2","recruiterPhoto":"5de4d8bf276e4871f40d320507u.jpg"}' data-selector="chat-chat">
+<img alt="" src="//image0.lietou-static.com/big/5de4d8bf276e4871f40d320507u.jpg"/>
+</div>
+<div class="recruiter-info-text-box">
+<div class="recruiter-name ellipsis-1">余女士</div>
+<div class="recruiter-title ellipsis-1">猎头顾问</div>
+</div>
+<!-- 聊一聊 -->
+<div class="chat-btn-box" data-nick="recruiter-info-box-chat-btn" data-params='{"imId":"7cbc5104eaf4704c337193710fe42056","jobId":"31564111","userId":"00c7104cee215c57fc0ce7ee7dc12748","jobKind":"1","recruiterName":"余女士","imUserType":"2","recruiterPhoto":"5de4d8bf276e4871f40d320507u.jpg"}' data-selector="chat-chat">
+<button class="ant-btn ant-btn-primary ant-btn-round" type="button">
+<span>聊一聊</span>
+</button>
+</div>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li>
+<div class="job-list-item">
+<div class="job-card-pc-container seo-job-card-action-box" data-info="%7B%22jobId%22%3A%2230327477%22%2C%22jobKind%22%3A%221%22%2C%22as_from%22%3A%22search_prime%22%2C%22d_headId%22%3A%2266a3abbe5f0dde32b6e5ff8d343a5dac%22%2C%22d_ckId%22%3A%2266a3abbe5f0dde32b6e5ff8d343a5dac%22%2C%22d_curPage%22%3A%220%22%2C%22d_pageSize%22%3A%2240%22%7D">
+<div class="job-card-left-box">
+<div class="job-detail-box">
+<!-- href需拼上dataPromId数据 -->
+<a data-nick="job-detail-job-info" href="https://www.liepin.com/a/30327477.shtml?d_sfrom=search_prime&d_ckId=66a3abbe5f0dde32b6e5ff8d343a5dac&d_curPage=0&d_pageSize=40&d_headId=66a3abbe5f0dde32b6e5ff8d343a5dac&d_posi=19" target="_blank">
+<div class="job-detail-header-box">
+<div class="job-title-box">
+<div class="ellipsis-1" title="人力资源经理">人力资源经理</div>
+<div class="job-dq-box">
+<span class="dq-bracket">【</span>
+<span class="ellipsis-1">青岛</span>
+<span class="dq-bracket">】</span>
+</div>
+</div>
+<span class="job-salary">15-23k</span>
+</div>
+<div class="job-labels-box">
+<!-- campusJobKind 非空时显示 -->
+<!-- requireWorkYears 非空时显示 -->
+<span class="labels-tag">经验不限</span>
+<!-- requireEduLevel 非空时显示 -->
+<span class="labels-tag">本科及以上</span>
+<span class="labels-tag">岗位配置招聘</span><span class="labels-tag">薪酬管理</span><span class="labels-tag">人力资源规划</span><span class="labels-tag">薪酬核算</span><span class="labels-tag">人事档案</span><span class="labels-tag">培训开发与实施</span><span class="labels-tag">绩效管理</span><span class="labels-tag">人力资源经验</span>
+</div>
+</a>
+<!-- 有公司链接时才用a标签，没有公司链接不需要a标签 -->
+<div class="job-detail-company-box" data-nick="job-detail-company-info">
+<div class="job-company-info-box">
+<div class="company-logo">
+<img alt="青岛排名前三地产" src="//image0.lietou-static.com/mini/60e2fe0bf3df194a3c48adb502u.png"/>
+</div>
+<span class="company-name ellipsis-1">青岛排名前三地产</span>
+<!-- compIndustry || compStage || compScale 三个都没有值时不显示 -->
+<div class="company-tags-box ellipsis-1">
+<span>房地产/建筑</span>
+<span>2000-5000人</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="job-card-right-box">
+<div class="recruiter-info-box">
+<div class="recruiter-photo" data-params='{"imId":"092cae7a678408cb13dd84912f51618a","jobId":"30327477","userId":"239ce88ef429f348cf5f80ab56d0cfaf","jobKind":"1","recruiterName":"祝女士","imUserType":"2","recruiterPhoto":"5de85debcd52473b94f0c7ae02u.jpg"}' data-selector="chat-chat">
+<img alt="" src="//image0.lietou-static.com/big/5de85debcd52473b94f0c7ae02u.jpg"/>
+</div>
+<div class="recruiter-info-text-box">
+<div class="recruiter-name ellipsis-1">祝女士</div>
+<div class="recruiter-title ellipsis-1">猎头顾问</div>
+</div>
+<!-- 聊一聊 -->
+<div class="chat-btn-box" data-nick="recruiter-info-box-chat-btn" data-params='{"imId":"092cae7a678408cb13dd84912f51618a","jobId":"30327477","userId":"239ce88ef429f348cf5f80ab56d0cfaf","jobKind":"1","recruiterName":"祝女士","imUserType":"2","recruiterPhoto":"5de85debcd52473b94f0c7ae02u.jpg"}' data-selector="chat-chat">
+<button class="ant-btn ant-btn-primary ant-btn-round" type="button">
+<span>聊一聊</span>
+</button>
+</div>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li>
+<div class="job-list-item">
+<div class="job-card-pc-container seo-job-card-action-box" data-info="%7B%22jobId%22%3A%2242214719%22%2C%22jobKind%22%3A%222%22%2C%22as_from%22%3A%22search_prime%22%2C%22d_headId%22%3A%2266a3abbe5f0dde32b6e5ff8d343a5dac%22%2C%22d_ckId%22%3A%2266a3abbe5f0dde32b6e5ff8d343a5dac%22%2C%22d_curPage%22%3A%220%22%2C%22d_pageSize%22%3A%2240%22%7D">
+<div class="job-card-left-box">
+<div class="job-detail-box">
+<!-- href需拼上dataPromId数据 -->
+<a data-nick="job-detail-job-info" href="https://www.liepin.com/job/1942214719.shtml?d_sfrom=search_prime&d_ckId=66a3abbe5f0dde32b6e5ff8d343a5dac&d_curPage=0&d_pageSize=40&d_headId=66a3abbe5f0dde32b6e5ff8d343a5dac&d_posi=20" target="_blank">
+<div class="job-detail-header-box">
+<div class="job-title-box">
+<div class="ellipsis-1" title="人力资源经理">人力资源经理</div>
+<div class="job-dq-box">
+<span class="dq-bracket">【</span>
+<span class="ellipsis-1">青岛</span>
+<span class="dq-bracket">】</span>
+</div>
+</div>
+<span class="job-salary">面议</span>
+</div>
+<div class="job-labels-box">
+<!-- campusJobKind 非空时显示 -->
+<!-- requireWorkYears 非空时显示 -->
+<span class="labels-tag">10年以上</span>
+<!-- requireEduLevel 非空时显示 -->
+<span class="labels-tag">本科及以上</span>
+<span class="labels-tag">岗位配置招聘</span><span class="labels-tag">绩效管理</span><span class="labels-tag">劳务纠纷</span><span class="labels-tag">培训开发与实施</span><span class="labels-tag">薪酬管理</span><span class="labels-tag">企业文化</span><span class="labels-tag">人才发展</span><span class="labels-tag">人力资源规划</span><span class="labels-tag">企业培训</span><span class="labels-tag">组织发展</span>
+</div>
+</a>
+<!-- 有公司链接时才用a标签，没有公司链接不需要a标签 -->
+<a href="https://www.liepin.com/company/12576587/" target="_blank">
+<div class="job-detail-company-box" data-nick="job-detail-company-info">
+<div class="job-company-info-box">
+<div class="company-logo">
+<img alt="清华青岛艺术与科学创新研究院" src="//image0.lietou-static.com/img/60dd53fda38d253fe36b724f05u.png"/>
+</div>
+<span class="company-name ellipsis-1">清华青岛艺术与科学创新研究院</span>
+<!-- compIndustry || compStage || compScale 三个都没有值时不显示 -->
+<div class="company-tags-box ellipsis-1">
+<span>科研及技术服务</span>
+<span>50-99人</span>
+</div>
+</div>
+</div>
+</a>
+</div>
+</div>
+<div class="job-card-right-box">
+<div class="recruiter-info-box">
+<div class="recruiter-photo" data-params='{"imId":"5bca2f6782a28e8f2972004574cc2f3b","jobId":"42214719","userId":"51f9c99546fef8d99db29b6256d65f40","jobKind":"2","recruiterName":"叶先生","imUserType":"2","recruiterPhoto":"5f8f9868f6d1ab58476f24a008u.jpg"}' data-selector="chat-chat">
+<img alt="" src="//image0.lietou-static.com/big/5f8f9868f6d1ab58476f24a008u.jpg"/>
+</div>
+<div class="recruiter-info-text-box">
+<div class="recruiter-name ellipsis-1">叶先生</div>
+<div class="recruiter-title ellipsis-1">文案策划</div>
+</div>
+<!-- 聊一聊 -->
+<div class="chat-btn-box" data-nick="recruiter-info-box-chat-btn" data-params='{"imId":"5bca2f6782a28e8f2972004574cc2f3b","jobId":"42214719","userId":"51f9c99546fef8d99db29b6256d65f40","jobKind":"2","recruiterName":"叶先生","imUserType":"2","recruiterPhoto":"5f8f9868f6d1ab58476f24a008u.jpg"}' data-selector="chat-chat">
+<button class="ant-btn ant-btn-primary ant-btn-round" type="button">
+<span>聊一聊</span>
+</button>
+</div>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li>
+<div class="job-list-item">
+<div class="job-card-pc-container seo-job-card-action-box" data-info="%7B%22jobId%22%3A%2245274911%22%2C%22jobKind%22%3A%222%22%2C%22as_from%22%3A%22search_prime%22%2C%22d_headId%22%3A%2266a3abbe5f0dde32b6e5ff8d343a5dac%22%2C%22d_ckId%22%3A%2266a3abbe5f0dde32b6e5ff8d343a5dac%22%2C%22d_curPage%22%3A%220%22%2C%22d_pageSize%22%3A%2240%22%7D">
+<div class="job-card-left-box">
+<div class="job-detail-box">
+<!-- href需拼上dataPromId数据 -->
+<a data-nick="job-detail-job-info" href="https://www.liepin.com/job/1945274911.shtml?d_sfrom=search_prime&d_ckId=66a3abbe5f0dde32b6e5ff8d343a5dac&d_curPage=0&d_pageSize=40&d_headId=66a3abbe5f0dde32b6e5ff8d343a5dac&d_posi=21" target="_blank">
+<div class="job-detail-header-box">
+<div class="job-title-box">
+<div class="ellipsis-1" title="人力资源专员">人力资源专员</div>
+<div class="job-dq-box">
+<span class="dq-bracket">【</span>
+<span class="ellipsis-1">青岛-城阳区</span>
+<span class="dq-bracket">】</span>
+</div>
+</div>
+<span class="job-salary">6-8k·13薪</span>
+</div>
+<div class="job-labels-box">
+<!-- campusJobKind 非空时显示 -->
+<!-- requireWorkYears 非空时显示 -->
+<span class="labels-tag">1-3年</span>
+<!-- requireEduLevel 非空时显示 -->
+<span class="labels-tag">本科及以上</span>
+<span class="labels-tag">岗位配置招聘</span><span class="labels-tag">入职管理</span><span class="labels-tag">人事档案</span><span class="labels-tag">企业培训</span><span class="labels-tag">培训开发与实施</span><span class="labels-tag">人力资源规划</span><span class="labels-tag">人力资源经验</span>
+</div>
+</a>
+<!-- 有公司链接时才用a标签，没有公司链接不需要a标签 -->
+<a href="https://www.liepin.com/company/9097020/" target="_blank">
+<div class="job-detail-company-box" data-nick="job-detail-company-info">
+<div class="job-company-info-box">
+<div class="company-logo">
+<img alt="北京科拉斯科技有限公司" src="//image0.lietou-static.com/img/61a077986b5cca774b01184406u.png"/>
+</div>
+<span class="company-name ellipsis-1">北京科拉斯科技有限公司</span>
+<!-- compIndustry || compStage || compScale 三个都没有值时不显示 -->
+<div class="company-tags-box ellipsis-1">
+<span>原材料加工</span>
+<span>1000-2000人</span>
+</div>
+</div>
+</div>
+</a>
+</div>
+</div>
+<div class="job-card-right-box">
+<div class="recruiter-info-box">
+<div class="recruiter-photo" data-params='{"imId":"03eb80ea85ce12bc39b0f73958abfecd","jobId":"45274911","userId":"f5c2b35639a6cac397a0109019f0f794","jobKind":"2","recruiterName":"白女士","imUserType":"2","recruiterPhoto":"5f8f986779c7cc70efbf36c008u.jpg"}' data-selector="chat-chat">
+<img alt="" src="//image0.lietou-static.com/big/5f8f986779c7cc70efbf36c008u.jpg"/>
+</div>
+<div class="recruiter-info-text-box">
+<div class="recruiter-name ellipsis-1">白女士</div>
+<div class="recruiter-title ellipsis-1"></div>
+</div>
+<!-- 聊一聊 -->
+<div class="chat-btn-box" data-nick="recruiter-info-box-chat-btn" data-params='{"imId":"03eb80ea85ce12bc39b0f73958abfecd","jobId":"45274911","userId":"f5c2b35639a6cac397a0109019f0f794","jobKind":"2","recruiterName":"白女士","imUserType":"2","recruiterPhoto":"5f8f986779c7cc70efbf36c008u.jpg"}' data-selector="chat-chat">
+<button class="ant-btn ant-btn-primary ant-btn-round" type="button">
+<span>聊一聊</span>
+</button>
+</div>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li>
+<div class="job-list-item">
+<div class="job-card-pc-container seo-job-card-action-box" data-info="%7B%22jobId%22%3A%2230635029%22%2C%22jobKind%22%3A%221%22%2C%22as_from%22%3A%22search_prime%22%2C%22d_headId%22%3A%2266a3abbe5f0dde32b6e5ff8d343a5dac%22%2C%22d_ckId%22%3A%2266a3abbe5f0dde32b6e5ff8d343a5dac%22%2C%22d_curPage%22%3A%220%22%2C%22d_pageSize%22%3A%2240%22%7D">
+<div class="job-card-left-box">
+<div class="job-detail-box">
+<!-- href需拼上dataPromId数据 -->
+<a data-nick="job-detail-job-info" href="https://www.liepin.com/a/30635029.shtml?d_sfrom=search_prime&d_ckId=66a3abbe5f0dde32b6e5ff8d343a5dac&d_curPage=0&d_pageSize=40&d_headId=66a3abbe5f0dde32b6e5ff8d343a5dac&d_posi=22" target="_blank">
+<div class="job-detail-header-box">
+<div class="job-title-box">
+<div class="ellipsis-1" title="人力资源伙伴(HRBP)">人力资源伙伴(HRBP)</div>
+<div class="job-dq-box">
+<span class="dq-bracket">【</span>
+<span class="ellipsis-1">青岛</span>
+<span class="dq-bracket">】</span>
+</div>
+</div>
+<span class="job-salary">10-15k·13薪</span>
+</div>
+<div class="job-labels-box">
+<!-- campusJobKind 非空时显示 -->
+<!-- requireWorkYears 非空时显示 -->
+<span class="labels-tag">3-5年</span>
+<!-- requireEduLevel 非空时显示 -->
+<span class="labels-tag">大专及以上</span>
+<span class="labels-tag">绩效管理</span><span class="labels-tag">岗位配置招聘</span><span class="labels-tag">员工关系</span><span class="labels-tag">薪酬管理</span><span class="labels-tag">培训开发与实施</span><span class="labels-tag">团队管理</span><span class="labels-tag">人力资源经验</span>
+</div>
+</a>
+<!-- 有公司链接时才用a标签，没有公司链接不需要a标签 -->
+<div class="job-detail-company-box" data-nick="job-detail-company-info">
+<div class="job-company-info-box">
+<div class="company-logo">
+<img alt="某国际物流公司" src="//image0.lietou-static.com/mini/60e2fe0bf3df194a3c48adb502u.png"/>
+</div>
+<span class="company-name ellipsis-1">某国际物流公司</span>
+<!-- compIndustry || compStage || compScale 三个都没有值时不显示 -->
+<div class="company-tags-box ellipsis-1">
+<span>交通/物流/运输</span>
+<span>500-999人</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="job-card-right-box">
+<div class="recruiter-info-box">
+<div class="recruiter-photo" data-params='{"imId":"a03e2672e71a8d8c062c1b1ee9c7454d","jobId":"30635029","userId":"1692105a29e5506d5f84ea6daf4f975b","jobKind":"1","recruiterName":"陶女士","imUserType":"2","recruiterPhoto":"5de8585d276e4871f41321cd02u.jpg"}' data-selector="chat-chat">
+<img alt="" src="//image0.lietou-static.com/big/5de8585d276e4871f41321cd02u.jpg"/>
+</div>
+<div class="recruiter-info-text-box">
+<div class="recruiter-name ellipsis-1">陶女士</div>
+<div class="recruiter-title ellipsis-1">猎头顾问</div>
+</div>
+<!-- 聊一聊 -->
+<div class="chat-btn-box" data-nick="recruiter-info-box-chat-btn" data-params='{"imId":"a03e2672e71a8d8c062c1b1ee9c7454d","jobId":"30635029","userId":"1692105a29e5506d5f84ea6daf4f975b","jobKind":"1","recruiterName":"陶女士","imUserType":"2","recruiterPhoto":"5de8585d276e4871f41321cd02u.jpg"}' data-selector="chat-chat">
+<button class="ant-btn ant-btn-primary ant-btn-round" type="button">
+<span>聊一聊</span>
+</button>
+</div>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li>
+<div class="job-list-item">
+<div class="job-card-pc-container seo-job-card-action-box" data-info="%7B%22jobId%22%3A%2231949687%22%2C%22jobKind%22%3A%221%22%2C%22as_from%22%3A%22search_prime%22%2C%22d_headId%22%3A%2266a3abbe5f0dde32b6e5ff8d343a5dac%22%2C%22d_ckId%22%3A%2266a3abbe5f0dde32b6e5ff8d343a5dac%22%2C%22d_curPage%22%3A%220%22%2C%22d_pageSize%22%3A%2240%22%7D">
+<div class="job-card-left-box">
+<div class="job-detail-box">
+<!-- href需拼上dataPromId数据 -->
+<a data-nick="job-detail-job-info" href="https://www.liepin.com/a/31949687.shtml?d_sfrom=search_prime&d_ckId=66a3abbe5f0dde32b6e5ff8d343a5dac&d_curPage=0&d_pageSize=40&d_headId=66a3abbe5f0dde32b6e5ff8d343a5dac&d_posi=23" target="_blank">
+<div class="job-detail-header-box">
+<div class="job-title-box">
+<div class="ellipsis-1" title="人力资源经理">人力资源经理</div>
+<div class="job-dq-box">
+<span class="dq-bracket">【</span>
+<span class="ellipsis-1">青岛</span>
+<span class="dq-bracket">】</span>
+</div>
+</div>
+<span class="job-salary">25-30k</span>
+</div>
+<div class="job-labels-box">
+<!-- campusJobKind 非空时显示 -->
+<!-- requireWorkYears 非空时显示 -->
+<span class="labels-tag">5-10年</span>
+<!-- requireEduLevel 非空时显示 -->
+<span class="labels-tag">硕士及以上</span>
+<span class="labels-tag">绩效管理</span><span class="labels-tag">培训开发与实施</span><span class="labels-tag">薪酬设计</span><span class="labels-tag">薪酬管理</span><span class="labels-tag">人才发展</span><span class="labels-tag">员工激励</span><span class="labels-tag">薪酬核算</span><span class="labels-tag">人力成本分析</span><span class="labels-tag">岗位配置招聘</span><span class="labels-tag">人事档案</span>
+</div>
+</a>
+<!-- 有公司链接时才用a标签，没有公司链接不需要a标签 -->
+<div class="job-detail-company-box" data-nick="job-detail-company-info">
+<div class="job-company-info-box">
+<div class="company-logo">
+<img alt="某国企集团公司" src="//image0.lietou-static.com/mini/60e2fe0bf3df194a3c48adb502u.png"/>
+</div>
+<span class="company-name ellipsis-1">某国企集团公司</span>
+<!-- compIndustry || compStage || compScale 三个都没有值时不显示 -->
+<div class="company-tags-box ellipsis-1">
+<span>餐饮/酒旅/服务</span>
+<span>融资未公开</span>
+<span>2000-5000人</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="job-card-right-box">
+<div class="recruiter-info-box">
+<div class="recruiter-photo" data-params='{"imId":"c24ca689b09b37a178f5885b11a76839","jobId":"31949687","userId":"6fb413c0d885788d9cf4baaa38246911","jobKind":"1","recruiterName":"刘女士","imUserType":"2","recruiterPhoto":"54d0c279712e13549ab2847c01a.jpg"}' data-selector="chat-chat">
+<img alt="" src="//image0.lietou-static.com/big/54d0c279712e13549ab2847c01a.jpg"/>
+</div>
+<div class="recruiter-info-text-box">
+<div class="recruiter-name ellipsis-1">刘女士</div>
+<div class="recruiter-title ellipsis-1">猎头顾问</div>
+</div>
+<!-- 聊一聊 -->
+<div class="chat-btn-box" data-nick="recruiter-info-box-chat-btn" data-params='{"imId":"c24ca689b09b37a178f5885b11a76839","jobId":"31949687","userId":"6fb413c0d885788d9cf4baaa38246911","jobKind":"1","recruiterName":"刘女士","imUserType":"2","recruiterPhoto":"54d0c279712e13549ab2847c01a.jpg"}' data-selector="chat-chat">
+<button class="ant-btn ant-btn-primary ant-btn-round" type="button">
+<span>聊一聊</span>
+</button>
+</div>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li>
+<div class="job-list-item">
+<div class="job-card-pc-container seo-job-card-action-box" data-info="%7B%22jobId%22%3A%2232502885%22%2C%22jobKind%22%3A%221%22%2C%22as_from%22%3A%22search_prime%22%2C%22d_headId%22%3A%2266a3abbe5f0dde32b6e5ff8d343a5dac%22%2C%22d_ckId%22%3A%2266a3abbe5f0dde32b6e5ff8d343a5dac%22%2C%22d_curPage%22%3A%220%22%2C%22d_pageSize%22%3A%2240%22%7D">
+<div class="job-card-left-box">
+<div class="job-detail-box">
+<!-- href需拼上dataPromId数据 -->
+<a data-nick="job-detail-job-info" href="https://www.liepin.com/a/32502885.shtml?d_sfrom=search_prime&d_ckId=66a3abbe5f0dde32b6e5ff8d343a5dac&d_curPage=0&d_pageSize=40&d_headId=66a3abbe5f0dde32b6e5ff8d343a5dac&d_posi=24" target="_blank">
+<div class="job-detail-header-box">
+<div class="job-title-box">
+<div class="ellipsis-1" title="人力资源总监">人力资源总监</div>
+<div class="job-dq-box">
+<span class="dq-bracket">【</span>
+<span class="ellipsis-1">青岛</span>
+<span class="dq-bracket">】</span>
+</div>
+</div>
+<span class="job-salary">20-30k·15薪</span>
+</div>
+<div class="job-labels-box">
+<!-- campusJobKind 非空时显示 -->
+<!-- requireWorkYears 非空时显示 -->
+<span class="labels-tag">10年以上</span>
+<!-- requireEduLevel 非空时显示 -->
+<span class="labels-tag">学历不限</span>
+<span class="labels-tag">员工关系</span>
+</div>
+</a>
+<!-- 有公司链接时才用a标签，没有公司链接不需要a标签 -->
+<div class="job-detail-company-box" data-nick="job-detail-company-info">
+<div class="job-company-info-box">
+<div class="company-logo">
+<img alt="某制造业龙头" src="//image0.lietou-static.com/mini/60e2fe0bf3df194a3c48adb502u.png"/>
+</div>
+<span class="company-name ellipsis-1">某制造业龙头</span>
+<!-- compIndustry || compStage || compScale 三个都没有值时不显示 -->
+<div class="company-tags-box ellipsis-1">
+<span>汽车/摩托车</span>
+<span>不需要融资</span>
+<span>10000人以上</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="job-card-right-box">
+<div class="recruiter-info-box">
+<div class="recruiter-photo" data-params='{"imId":"dc3299a00c467696e4cd5c055e1e05ce","jobId":"32502885","userId":"42b455eb59e30282f34505e54fe60735","jobKind":"1","recruiterName":"刘先生","imUserType":"2","recruiterPhoto":"591e745c7032e5a5db20fd4f06a.png"}' data-selector="chat-chat">
+<img alt="" src="//image0.lietou-static.com/big/591e745c7032e5a5db20fd4f06a.png"/>
+</div>
+<div class="recruiter-info-text-box">
+<div class="recruiter-name ellipsis-1">刘先生</div>
+<div class="recruiter-title ellipsis-1">猎头顾问</div>
+</div>
+<!-- 聊一聊 -->
+<div class="chat-btn-box" data-nick="recruiter-info-box-chat-btn" data-params='{"imId":"dc3299a00c467696e4cd5c055e1e05ce","jobId":"32502885","userId":"42b455eb59e30282f34505e54fe60735","jobKind":"1","recruiterName":"刘先生","imUserType":"2","recruiterPhoto":"591e745c7032e5a5db20fd4f06a.png"}' data-selector="chat-chat">
+<button class="ant-btn ant-btn-primary ant-btn-round" type="button">
+<span>聊一聊</span>
+</button>
+</div>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li>
+<div class="job-list-item">
+<div class="job-card-pc-container seo-job-card-action-box" data-info="%7B%22jobId%22%3A%2222119225%22%2C%22jobKind%22%3A%222%22%2C%22as_from%22%3A%22search_prime%22%2C%22d_headId%22%3A%2266a3abbe5f0dde32b6e5ff8d343a5dac%22%2C%22d_ckId%22%3A%2266a3abbe5f0dde32b6e5ff8d343a5dac%22%2C%22d_curPage%22%3A%220%22%2C%22d_pageSize%22%3A%2240%22%7D">
+<div class="job-card-left-box">
+<div class="job-detail-box">
+<!-- href需拼上dataPromId数据 -->
+<a data-nick="job-detail-job-info" href="https://www.liepin.com/job/1922119225.shtml?d_sfrom=search_prime&d_ckId=66a3abbe5f0dde32b6e5ff8d343a5dac&d_curPage=0&d_pageSize=40&d_headId=66a3abbe5f0dde32b6e5ff8d343a5dac&d_posi=25" target="_blank">
+<div class="job-detail-header-box">
+<div class="job-title-box">
+<div class="ellipsis-1" title="人力资源经理">人力资源经理</div>
+<div class="job-dq-box">
+<span class="dq-bracket">【</span>
+<span class="ellipsis-1">青岛</span>
+<span class="dq-bracket">】</span>
+</div>
+</div>
+<span class="job-salary">8-11k</span>
+</div>
+<div class="job-labels-box">
+<!-- campusJobKind 非空时显示 -->
+<!-- requireWorkYears 非空时显示 -->
+<span class="labels-tag">1-3年</span>
+<!-- requireEduLevel 非空时显示 -->
+<span class="labels-tag">本科及以上</span>
+<span class="labels-tag">绩效管理</span><span class="labels-tag">培训开发与实施</span><span class="labels-tag">员工关系</span><span class="labels-tag">企业培训</span><span class="labels-tag">员工激励</span><span class="labels-tag">劳务纠纷</span><span class="labels-tag">岗位配置招聘</span><span class="labels-tag">薪酬管理</span><span class="labels-tag">人力资源经验</span>
+</div>
+</a>
+<!-- 有公司链接时才用a标签，没有公司链接不需要a标签 -->
+<a href="https://www.liepin.com/company/9426734/" target="_blank">
+<div class="job-detail-company-box" data-nick="job-detail-company-info">
+<div class="job-company-info-box">
+<div class="company-logo">
+<img alt="中青建安建设集团有限公司" src="//image0.lietou-static.com/img/5bfe992774719df0ac99941303a.png"/>
+</div>
+<span class="company-name ellipsis-1">中青建安建设集团有限公司</span>
+<!-- compIndustry || compStage || compScale 三个都没有值时不显示 -->
+<div class="company-tags-box ellipsis-1">
+<span>建筑</span>
+<span>500-999人</span>
+</div>
+</div>
+</div>
+</a>
+</div>
+</div>
+<div class="job-card-right-box">
+<div class="recruiter-info-box">
+<div class="recruiter-photo" data-params='{"imId":"02955429138eabd11837546e45eb3a29","jobId":"22119225","userId":"665c86928d1f8f84511bc49505653838","jobKind":"2","recruiterName":"张先生","imUserType":"2","recruiterPhoto":"5f8f98698dbe6273dcf8516008u.jpg"}' data-selector="chat-chat">
+<img alt="" src="//image0.lietou-static.com/big/5f8f98698dbe6273dcf8516008u.jpg"/>
+</div>
+<div class="recruiter-info-text-box">
+<div class="recruiter-name ellipsis-1">张先生</div>
+<div class="recruiter-title ellipsis-1">招聘经理</div>
+</div>
+<!-- 聊一聊 -->
+<div class="chat-btn-box" data-nick="recruiter-info-box-chat-btn" data-params='{"imId":"02955429138eabd11837546e45eb3a29","jobId":"22119225","userId":"665c86928d1f8f84511bc49505653838","jobKind":"2","recruiterName":"张先生","imUserType":"2","recruiterPhoto":"5f8f98698dbe6273dcf8516008u.jpg"}' data-selector="chat-chat">
+<button class="ant-btn ant-btn-primary ant-btn-round" type="button">
+<span>聊一聊</span>
+</button>
+</div>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li>
+<div class="job-list-item">
+<div class="job-card-pc-container seo-job-card-action-box" data-info="%7B%22jobId%22%3A%2232308491%22%2C%22jobKind%22%3A%221%22%2C%22as_from%22%3A%22search_prime%22%2C%22d_headId%22%3A%2266a3abbe5f0dde32b6e5ff8d343a5dac%22%2C%22d_ckId%22%3A%2266a3abbe5f0dde32b6e5ff8d343a5dac%22%2C%22d_curPage%22%3A%220%22%2C%22d_pageSize%22%3A%2240%22%7D">
+<div class="job-card-left-box">
+<div class="job-detail-box">
+<!-- href需拼上dataPromId数据 -->
+<a data-nick="job-detail-job-info" href="https://www.liepin.com/a/32308491.shtml?d_sfrom=search_prime&d_ckId=66a3abbe5f0dde32b6e5ff8d343a5dac&d_curPage=0&d_pageSize=40&d_headId=66a3abbe5f0dde32b6e5ff8d343a5dac&d_posi=26" target="_blank">
+<div class="job-detail-header-box">
+<div class="job-title-box">
+<div class="ellipsis-1" title="人力资源部长">人力资源部长</div>
+<div class="job-dq-box">
+<span class="dq-bracket">【</span>
+<span class="ellipsis-1">青岛-城阳区</span>
+<span class="dq-bracket">】</span>
+</div>
+</div>
+<span class="job-salary">20-30k</span>
+</div>
+<div class="job-labels-box">
+<!-- campusJobKind 非空时显示 -->
+<!-- requireWorkYears 非空时显示 -->
+<span class="labels-tag">10年以上</span>
+<!-- requireEduLevel 非空时显示 -->
+<span class="labels-tag">本科及以上</span>
+<span class="labels-tag">组织发展</span><span class="labels-tag">薪酬管理</span><span class="labels-tag">薪酬激励</span><span class="labels-tag">绩效管理</span><span class="labels-tag">人力资源规划</span><span class="labels-tag">薪酬设计</span><span class="labels-tag">岗位配置招聘</span><span class="labels-tag">团队管理</span><span class="labels-tag">企业培训</span><span class="labels-tag">培训开发与实施</span>
+</div>
+</a>
+<!-- 有公司链接时才用a标签，没有公司链接不需要a标签 -->
+<div class="job-detail-company-box" data-nick="job-detail-company-info">
+<div class="job-company-info-box">
+<div class="company-logo">
+<img alt="青岛某健身器材研产销高新技术企业" src="//image0.lietou-static.com/mini/60e2fe0bf3df194a3c48adb502u.png"/>
+</div>
+<span class="company-name ellipsis-1">青岛某健身器材研产销高新技术企业</span>
+<!-- compIndustry || compStage || compScale 三个都没有值时不显示 -->
+<div class="company-tags-box ellipsis-1">
+<span>机械/机电/重工</span>
+<span>融资未公开</span>
+<span>1000-2000人</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="job-card-right-box">
+<div class="recruiter-info-box">
+<div class="recruiter-photo" data-params='{"imId":"810b98673c542dbc01ab80e4a8b96567","jobId":"32308491","userId":"748bfd43883b8ba7dfb7e58a7e0ef993","jobKind":"1","recruiterName":"杨女士","imUserType":"2","recruiterPhoto":"59362ccb70323cc6a2d6279106a.jpg"}' data-selector="chat-chat">
+<img alt="" src="//image0.lietou-static.com/big/59362ccb70323cc6a2d6279106a.jpg"/>
+</div>
+<div class="recruiter-info-text-box">
+<div class="recruiter-name ellipsis-1">杨女士</div>
+<div class="recruiter-title ellipsis-1">猎头顾问</div>
+</div>
+<!-- 聊一聊 -->
+<div class="chat-btn-box" data-nick="recruiter-info-box-chat-btn" data-params='{"imId":"810b98673c542dbc01ab80e4a8b96567","jobId":"32308491","userId":"748bfd43883b8ba7dfb7e58a7e0ef993","jobKind":"1","recruiterName":"杨女士","imUserType":"2","recruiterPhoto":"59362ccb70323cc6a2d6279106a.jpg"}' data-selector="chat-chat">
+<button class="ant-btn ant-btn-primary ant-btn-round" type="button">
+<span>聊一聊</span>
+</button>
+</div>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li>
+<div class="job-list-item">
+<div class="job-card-pc-container seo-job-card-action-box" data-info="%7B%22jobId%22%3A%2241269131%22%2C%22jobKind%22%3A%222%22%2C%22as_from%22%3A%22search_prime%22%2C%22d_headId%22%3A%2266a3abbe5f0dde32b6e5ff8d343a5dac%22%2C%22d_ckId%22%3A%2266a3abbe5f0dde32b6e5ff8d343a5dac%22%2C%22d_curPage%22%3A%220%22%2C%22d_pageSize%22%3A%2240%22%7D">
+<div class="job-card-left-box">
+<div class="job-detail-box">
+<!-- href需拼上dataPromId数据 -->
+<a data-nick="job-detail-job-info" href="https://www.liepin.com/job/1941269131.shtml?d_sfrom=search_prime&d_ckId=66a3abbe5f0dde32b6e5ff8d343a5dac&d_curPage=0&d_pageSize=40&d_headId=66a3abbe5f0dde32b6e5ff8d343a5dac&d_posi=27" target="_blank">
+<div class="job-detail-header-box">
+<div class="job-title-box">
+<div class="ellipsis-1" title="HR Supervisor人事主管">HR Supervisor人事主管</div>
+<div class="job-dq-box">
+<span class="dq-bracket">【</span>
+<span class="ellipsis-1">青岛</span>
+<span class="dq-bracket">】</span>
+</div>
+</div>
+<span class="job-salary">8-10k</span>
+</div>
+<div class="job-labels-box">
+<!-- campusJobKind 非空时显示 -->
+<!-- requireWorkYears 非空时显示 -->
+<span class="labels-tag">5-10年</span>
+<!-- requireEduLevel 非空时显示 -->
+<span class="labels-tag">本科及以上</span>
+<span class="labels-tag">绩效管理</span><span class="labels-tag">岗位配置招聘</span><span class="labels-tag">薪酬管理</span><span class="labels-tag">员工激励</span><span class="labels-tag">人才发展</span><span class="labels-tag">培训开发与实施</span><span class="labels-tag">组织发展</span><span class="labels-tag">员工关系</span><span class="labels-tag">薪酬核算</span><span class="labels-tag">劳务纠纷</span>
+</div>
+</a>
+<!-- 有公司链接时才用a标签，没有公司链接不需要a标签 -->
+<a href="https://www.liepin.com/company/12815071/" target="_blank">
+<div class="job-detail-company-box" data-nick="job-detail-company-info">
+<div class="job-company-info-box">
+<div class="company-logo">
+<img alt="格拉默车辆部件(哈尔滨)有限责任公司" src="//image0.lietou-static.com/img/61b07937d0458d53c627567e02u.jpg"/>
+</div>
+<span class="company-name ellipsis-1">格拉默车辆部件(哈尔滨)有限责任公司</span>
+<!-- compIndustry || compStage || compScale 三个都没有值时不显示 -->
+<div class="company-tags-box ellipsis-1">
+<span>汽车/摩托车</span>
+</div>
+</div>
+</div>
+</a>
+</div>
+</div>
+<div class="job-card-right-box">
+<div class="recruiter-info-box">
+<div class="recruiter-photo" data-params='{"imId":"1cfb6f09e01c658b649c553ff84e776e","jobId":"41269131","userId":"437260bb3fc23cb65bb51a62acd879ee","jobKind":"2","recruiterName":"刘女士","imUserType":"2","recruiterPhoto":"5f8f9865ea60860b75384fa508u.jpg"}' data-selector="chat-chat">
+<img alt="" src="//image0.lietou-static.com/big/5f8f9865ea60860b75384fa508u.jpg"/>
+</div>
+<div class="recruiter-info-text-box">
+<div class="recruiter-name ellipsis-1">刘女士</div>
+<div class="recruiter-title ellipsis-1">HRM</div>
+</div>
+<!-- 聊一聊 -->
+<div class="chat-btn-box" data-nick="recruiter-info-box-chat-btn" data-params='{"imId":"1cfb6f09e01c658b649c553ff84e776e","jobId":"41269131","userId":"437260bb3fc23cb65bb51a62acd879ee","jobKind":"2","recruiterName":"刘女士","imUserType":"2","recruiterPhoto":"5f8f9865ea60860b75384fa508u.jpg"}' data-selector="chat-chat">
+<button class="ant-btn ant-btn-primary ant-btn-round" type="button">
+<span>聊一聊</span>
+</button>
+</div>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li>
+<div class="job-list-item">
+<div class="job-card-pc-container seo-job-card-action-box" data-info="%7B%22jobId%22%3A%2232161201%22%2C%22jobKind%22%3A%221%22%2C%22as_from%22%3A%22search_prime%22%2C%22d_headId%22%3A%2266a3abbe5f0dde32b6e5ff8d343a5dac%22%2C%22d_ckId%22%3A%2266a3abbe5f0dde32b6e5ff8d343a5dac%22%2C%22d_curPage%22%3A%220%22%2C%22d_pageSize%22%3A%2240%22%7D">
+<div class="job-card-left-box">
+<div class="job-detail-box">
+<!-- href需拼上dataPromId数据 -->
+<a data-nick="job-detail-job-info" href="https://www.liepin.com/a/32161201.shtml?d_sfrom=search_prime&d_ckId=66a3abbe5f0dde32b6e5ff8d343a5dac&d_curPage=0&d_pageSize=40&d_headId=66a3abbe5f0dde32b6e5ff8d343a5dac&d_posi=28" target="_blank">
+<div class="job-detail-header-box">
+<div class="job-title-box">
+<div class="ellipsis-1" title="集团人力资源总监">集团人力资源总监</div>
+<div class="job-dq-box">
+<span class="dq-bracket">【</span>
+<span class="ellipsis-1">青岛</span>
+<span class="dq-bracket">】</span>
+</div>
+</div>
+<span class="job-salary">30-40k</span>
+</div>
+<div class="job-labels-box">
+<!-- campusJobKind 非空时显示 -->
+<!-- requireWorkYears 非空时显示 -->
+<span class="labels-tag">5-10年</span>
+<!-- requireEduLevel 非空时显示 -->
+<span class="labels-tag">本科及以上</span>
+<span class="labels-tag">人才发展</span><span class="labels-tag">人力资源规划</span><span class="labels-tag">岗位配置招聘</span><span class="labels-tag">组织发展</span><span class="labels-tag">薪酬管理</span><span class="labels-tag">企业培训</span><span class="labels-tag">绩效管理</span><span class="labels-tag">培训开发与实施</span><span class="labels-tag">人力资源经验</span>
+</div>
+</a>
+<!-- 有公司链接时才用a标签，没有公司链接不需要a标签 -->
+<div class="job-detail-company-box" data-nick="job-detail-company-info">
+<div class="job-company-info-box">
+<div class="company-logo">
+<img alt="大型给水设备集团公司" src="//image0.lietou-static.com/mini/60e2fe0bf3df194a3c48adb502u.png"/>
+</div>
+<span class="company-name ellipsis-1">大型给水设备集团公司</span>
+<!-- compIndustry || compStage || compScale 三个都没有值时不显示 -->
+<div class="company-tags-box ellipsis-1">
+<span>机电设备</span>
+<span>融资未公开</span>
+<span>5000-10000人</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="job-card-right-box">
+<div class="recruiter-info-box">
+<div class="recruiter-photo" data-params='{"imId":"0f1df6fd44a2848f081b9ee238764d00","jobId":"32161201","userId":"e4447a7b72fc18dcfd24a347e9b2ab94","jobKind":"1","recruiterName":"常先生","imUserType":"2","recruiterPhoto":"610e28f0c056dc33c2c6b11b08u.png"}' data-selector="chat-chat">
+<img alt="" src="//image0.lietou-static.com/big/610e28f0c056dc33c2c6b11b08u.png"/>
+</div>
+<div class="recruiter-info-text-box">
+<div class="recruiter-name ellipsis-1">常先生</div>
+<div class="recruiter-title ellipsis-1">猎头顾问</div>
+</div>
+<!-- 聊一聊 -->
+<div class="chat-btn-box" data-nick="recruiter-info-box-chat-btn" data-params='{"imId":"0f1df6fd44a2848f081b9ee238764d00","jobId":"32161201","userId":"e4447a7b72fc18dcfd24a347e9b2ab94","jobKind":"1","recruiterName":"常先生","imUserType":"2","recruiterPhoto":"610e28f0c056dc33c2c6b11b08u.png"}' data-selector="chat-chat">
+<button class="ant-btn ant-btn-primary ant-btn-round" type="button">
+<span>聊一聊</span>
+</button>
+</div>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li>
+<div class="job-list-item">
+<div class="job-card-pc-container seo-job-card-action-box" data-info="%7B%22jobId%22%3A%2245247545%22%2C%22jobKind%22%3A%222%22%2C%22as_from%22%3A%22search_prime%22%2C%22d_headId%22%3A%2266a3abbe5f0dde32b6e5ff8d343a5dac%22%2C%22d_ckId%22%3A%2266a3abbe5f0dde32b6e5ff8d343a5dac%22%2C%22d_curPage%22%3A%220%22%2C%22d_pageSize%22%3A%2240%22%7D">
+<div class="job-card-left-box">
+<div class="job-detail-box">
+<!-- href需拼上dataPromId数据 -->
+<a data-nick="job-detail-job-info" href="https://www.liepin.com/job/1945247545.shtml?d_sfrom=search_prime&d_ckId=66a3abbe5f0dde32b6e5ff8d343a5dac&d_curPage=0&d_pageSize=40&d_headId=66a3abbe5f0dde32b6e5ff8d343a5dac&d_posi=29" target="_blank">
+<div class="job-detail-header-box">
+<div class="job-title-box">
+<div class="ellipsis-1" title="高级人力资源经理">高级人力资源经理</div>
+<div class="job-dq-box">
+<span class="dq-bracket">【</span>
+<span class="ellipsis-1">青岛-黄岛区</span>
+<span class="dq-bracket">】</span>
+</div>
+</div>
+<span class="job-salary">15-30k</span>
+</div>
+<div class="job-labels-box">
+<!-- campusJobKind 非空时显示 -->
+<!-- requireWorkYears 非空时显示 -->
+<span class="labels-tag">10年以上</span>
+<!-- requireEduLevel 非空时显示 -->
+<span class="labels-tag">统招本科</span>
+<span class="labels-tag">岗位配置招聘</span><span class="labels-tag">人才发展</span><span class="labels-tag">组织发展</span><span class="labels-tag">绩效管理</span><span class="labels-tag">薪酬管理</span><span class="labels-tag">人力资源经验</span>
+</div>
+</a>
+<!-- 有公司链接时才用a标签，没有公司链接不需要a标签 -->
+<a href="https://www.liepin.com/company/7907111/" target="_blank">
+<div class="job-detail-company-box" data-nick="job-detail-company-info">
+<div class="job-company-info-box">
+<div class="company-logo">
+<img alt="青岛东海药业有限公司" src="//image0.lietou-static.com/img/609b2c01db221f41a821243104u.png"/>
+</div>
+<span class="company-name ellipsis-1">青岛东海药业有限公司</span>
+<!-- compIndustry || compStage || compScale 三个都没有值时不显示 -->
+<div class="company-tags-box ellipsis-1">
+<span>制药/生物工程</span>
+<span>100-499人</span>
+</div>
+</div>
+</div>
+</a>
+</div>
+</div>
+<div class="job-card-right-box">
+<div class="recruiter-info-box">
+<div class="recruiter-photo" data-params='{"imId":"33b3a5975614aebfee7b65a82243fe9b","jobId":"45247545","userId":"7fb666bb8e6f7b9f3949322a5ed35fce","jobKind":"2","recruiterName":"马女士","imUserType":"2","recruiterPhoto":"5f8f9865ea60860b75384fa508u.jpg"}' data-selector="chat-chat">
+<img alt="" src="//image0.lietou-static.com/big/5f8f9865ea60860b75384fa508u.jpg"/>
+</div>
+<div class="recruiter-info-text-box">
+<div class="recruiter-name ellipsis-1">马女士</div>
+<div class="recruiter-title ellipsis-1">人力经理</div>
+</div>
+<!-- 聊一聊 -->
+<div class="chat-btn-box" data-nick="recruiter-info-box-chat-btn" data-params='{"imId":"33b3a5975614aebfee7b65a82243fe9b","jobId":"45247545","userId":"7fb666bb8e6f7b9f3949322a5ed35fce","jobKind":"2","recruiterName":"马女士","imUserType":"2","recruiterPhoto":"5f8f9865ea60860b75384fa508u.jpg"}' data-selector="chat-chat">
+<button class="ant-btn ant-btn-primary ant-btn-round" type="button">
+<span>聊一聊</span>
+</button>
+</div>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li>
+<div class="job-list-item">
+<div class="job-card-pc-container seo-job-card-action-box" data-info="%7B%22jobId%22%3A%2232448369%22%2C%22jobKind%22%3A%221%22%2C%22as_from%22%3A%22search_prime%22%2C%22d_headId%22%3A%2266a3abbe5f0dde32b6e5ff8d343a5dac%22%2C%22d_ckId%22%3A%2266a3abbe5f0dde32b6e5ff8d343a5dac%22%2C%22d_curPage%22%3A%220%22%2C%22d_pageSize%22%3A%2240%22%7D">
+<div class="job-card-left-box">
+<div class="job-detail-box">
+<!-- href需拼上dataPromId数据 -->
+<a data-nick="job-detail-job-info" href="https://www.liepin.com/a/32448369.shtml?d_sfrom=search_prime&d_ckId=66a3abbe5f0dde32b6e5ff8d343a5dac&d_curPage=0&d_pageSize=40&d_headId=66a3abbe5f0dde32b6e5ff8d343a5dac&d_posi=30" target="_blank">
+<div class="job-detail-header-box">
+<div class="job-title-box">
+<div class="ellipsis-1" title="人力资源经理">人力资源经理</div>
+<div class="job-dq-box">
+<span class="dq-bracket">【</span>
+<span class="ellipsis-1">青岛</span>
+<span class="dq-bracket">】</span>
+</div>
+</div>
+<span class="job-salary">15-20k</span>
+</div>
+<div class="job-labels-box">
+<!-- campusJobKind 非空时显示 -->
+<!-- requireWorkYears 非空时显示 -->
+<span class="labels-tag">3-5年</span>
+<!-- requireEduLevel 非空时显示 -->
+<span class="labels-tag">本科及以上</span>
+<span class="labels-tag">岗位配置招聘</span><span class="labels-tag">企业培训</span><span class="labels-tag">员工关系</span><span class="labels-tag">培训开发与实施</span><span class="labels-tag">绩效管理</span><span class="labels-tag">人力资源规划</span><span class="labels-tag">人才发展</span><span class="labels-tag">人力资源经验</span>
+</div>
+</a>
+<!-- 有公司链接时才用a标签，没有公司链接不需要a标签 -->
+<div class="job-detail-company-box" data-nick="job-detail-company-info">
+<div class="job-company-info-box">
+<div class="company-logo">
+<img alt="某大型物流公司" src="//image0.lietou-static.com/mini/60e2fe0bf3df194a3c48adb502u.png"/>
+</div>
+<span class="company-name ellipsis-1">某大型物流公司</span>
+<!-- compIndustry || compStage || compScale 三个都没有值时不显示 -->
+<div class="company-tags-box ellipsis-1">
+<span>交通/物流/运输</span>
+<span>融资未公开</span>
+<span>5000-10000人</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="job-card-right-box">
+<div class="recruiter-info-box">
+<div class="recruiter-photo" data-params='{"imId":"1360a25f32b70f4fe4ebb60240f6ac35","jobId":"32448369","userId":"644489e968aca3e238f8c0fdb9e094f6","jobKind":"1","recruiterName":"孙女士","imUserType":"2","recruiterPhoto":"61ad860bd3b9f4116e68b96004u.png"}' data-selector="chat-chat">
+<img alt="" src="//image0.lietou-static.com/big/61ad860bd3b9f4116e68b96004u.png"/>
+</div>
+<div class="recruiter-info-text-box">
+<div class="recruiter-name ellipsis-1">孙女士</div>
+<div class="recruiter-title ellipsis-1">猎头顾问</div>
+</div>
+<!-- 聊一聊 -->
+<div class="chat-btn-box" data-nick="recruiter-info-box-chat-btn" data-params='{"imId":"1360a25f32b70f4fe4ebb60240f6ac35","jobId":"32448369","userId":"644489e968aca3e238f8c0fdb9e094f6","jobKind":"1","recruiterName":"孙女士","imUserType":"2","recruiterPhoto":"61ad860bd3b9f4116e68b96004u.png"}' data-selector="chat-chat">
+<button class="ant-btn ant-btn-primary ant-btn-round" type="button">
+<span>聊一聊</span>
+</button>
+</div>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li>
+<div class="job-list-item">
+<div class="job-card-pc-container seo-job-card-action-box" data-info="%7B%22jobId%22%3A%2239786369%22%2C%22jobKind%22%3A%222%22%2C%22as_from%22%3A%22search_prime%22%2C%22d_headId%22%3A%2266a3abbe5f0dde32b6e5ff8d343a5dac%22%2C%22d_ckId%22%3A%2266a3abbe5f0dde32b6e5ff8d343a5dac%22%2C%22d_curPage%22%3A%220%22%2C%22d_pageSize%22%3A%2240%22%7D">
+<div class="job-card-left-box">
+<div class="job-detail-box">
+<!-- href需拼上dataPromId数据 -->
+<a data-nick="job-detail-job-info" href="https://www.liepin.com/job/1939786369.shtml?d_sfrom=search_prime&d_ckId=66a3abbe5f0dde32b6e5ff8d343a5dac&d_curPage=0&d_pageSize=40&d_headId=66a3abbe5f0dde32b6e5ff8d343a5dac&d_posi=31" target="_blank">
+<div class="job-detail-header-box">
+<div class="job-title-box">
+<div class="ellipsis-1" title="人力资源经理">人力资源经理</div>
+<div class="job-dq-box">
+<span class="dq-bracket">【</span>
+<span class="ellipsis-1">青岛-崂山区</span>
+<span class="dq-bracket">】</span>
+</div>
+</div>
+<span class="job-salary">15-20k</span>
+</div>
+<div class="job-labels-box">
+<!-- campusJobKind 非空时显示 -->
+<!-- requireWorkYears 非空时显示 -->
+<span class="labels-tag">3-5年</span>
+<!-- requireEduLevel 非空时显示 -->
+<span class="labels-tag">学历不限</span>
+<span class="labels-tag">绩效管理</span><span class="labels-tag">培训开发与实施</span><span class="labels-tag">薪酬管理</span><span class="labels-tag">企业培训</span><span class="labels-tag">员工关系</span><span class="labels-tag">组织发展</span><span class="labels-tag">岗位配置招聘</span><span class="labels-tag">人力资源经验</span>
+</div>
+</a>
+<!-- 有公司链接时才用a标签，没有公司链接不需要a标签 -->
+<a href="https://www.liepin.com/company/12604719/" target="_blank">
+<div class="job-detail-company-box" data-nick="job-detail-company-info">
+<div class="job-company-info-box">
+<div class="company-logo">
+<img alt="君德(北京)供应链管理有限公司" src="//image0.lietou-static.com/img/61b07937d0458d53c627567e02u.jpg"/>
+</div>
+<span class="company-name ellipsis-1">君德(北京)供应链管理有限公司</span>
+<!-- compIndustry || compStage || compScale 三个都没有值时不显示 -->
+<div class="company-tags-box ellipsis-1">
+<span>互联网/电商</span>
+</div>
+</div>
+</div>
+</a>
+</div>
+</div>
+<div class="job-card-right-box">
+<div class="recruiter-info-box">
+<div class="recruiter-photo" data-params='{"imId":"11ec51940605e3572980490a0cdf2257","jobId":"39786369","userId":"3d3d56e682ebfa24b38f7be7bccb708c","jobKind":"2","recruiterName":"崔女士","imUserType":"2","recruiterPhoto":"5f8f9866dfb13a7dee342f1808u.jpg"}' data-selector="chat-chat">
+<img alt="" src="//image0.lietou-static.com/big/5f8f9866dfb13a7dee342f1808u.jpg"/>
+</div>
+<div class="recruiter-info-text-box">
+<div class="recruiter-name ellipsis-1">崔女士</div>
+<div class="recruiter-title ellipsis-1"></div>
+</div>
+<!-- 聊一聊 -->
+<div class="chat-btn-box" data-nick="recruiter-info-box-chat-btn" data-params='{"imId":"11ec51940605e3572980490a0cdf2257","jobId":"39786369","userId":"3d3d56e682ebfa24b38f7be7bccb708c","jobKind":"2","recruiterName":"崔女士","imUserType":"2","recruiterPhoto":"5f8f9866dfb13a7dee342f1808u.jpg"}' data-selector="chat-chat">
+<button class="ant-btn ant-btn-primary ant-btn-round" type="button">
+<span>聊一聊</span>
+</button>
+</div>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li>
+<div class="job-list-item">
+<div class="job-card-pc-container seo-job-card-action-box" data-info="%7B%22jobId%22%3A%2232401905%22%2C%22jobKind%22%3A%221%22%2C%22as_from%22%3A%22search_prime%22%2C%22d_headId%22%3A%2266a3abbe5f0dde32b6e5ff8d343a5dac%22%2C%22d_ckId%22%3A%2266a3abbe5f0dde32b6e5ff8d343a5dac%22%2C%22d_curPage%22%3A%220%22%2C%22d_pageSize%22%3A%2240%22%7D">
+<div class="job-card-left-box">
+<div class="job-detail-box">
+<!-- href需拼上dataPromId数据 -->
+<a data-nick="job-detail-job-info" href="https://www.liepin.com/a/32401905.shtml?d_sfrom=search_prime&d_ckId=66a3abbe5f0dde32b6e5ff8d343a5dac&d_curPage=0&d_pageSize=40&d_headId=66a3abbe5f0dde32b6e5ff8d343a5dac&d_posi=32" target="_blank">
+<div class="job-detail-header-box">
+<div class="job-title-box">
+<div class="ellipsis-1" title="人力资源经理">人力资源经理</div>
+<div class="job-dq-box">
+<span class="dq-bracket">【</span>
+<span class="ellipsis-1">青岛</span>
+<span class="dq-bracket">】</span>
+</div>
+</div>
+<span class="job-salary">12-24k</span>
+</div>
+<div class="job-labels-box">
+<!-- campusJobKind 非空时显示 -->
+<!-- requireWorkYears 非空时显示 -->
+<span class="labels-tag">10年以上</span>
+<!-- requireEduLevel 非空时显示 -->
+<span class="labels-tag">统招本科</span>
+<span class="labels-tag">绩效管理</span><span class="labels-tag">员工激励</span><span class="labels-tag">培训开发与实施</span><span class="labels-tag">员工关系</span><span class="labels-tag">劳务纠纷</span><span class="labels-tag">企业培训</span><span class="labels-tag">岗位配置招聘</span><span class="labels-tag">薪酬管理</span><span class="labels-tag">人力资源经验</span>
+</div>
+</a>
+<!-- 有公司链接时才用a标签，没有公司链接不需要a标签 -->
+<div class="job-detail-company-box" data-nick="job-detail-company-info">
+<div class="job-company-info-box">
+<div class="company-logo">
+<img alt="某大型建筑集团" src="//image0.lietou-static.com/mini/60e2fe0bf3df194a3c48adb502u.png"/>
+</div>
+<span class="company-name ellipsis-1">某大型建筑集团</span>
+<!-- compIndustry || compStage || compScale 三个都没有值时不显示 -->
+<div class="company-tags-box ellipsis-1">
+<span>建筑</span>
+<span>融资未公开</span>
+<span>1000-2000人</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="job-card-right-box">
+<div class="recruiter-info-box">
+<div class="recruiter-photo" data-params='{"imId":"688e60407e6a14410e33f8ac54fbf39e","jobId":"32401905","userId":"9386dd2aaf64e0f4d84beba8c06324bd","jobKind":"1","recruiterName":"王女士","imUserType":"2","recruiterPhoto":"58ec320e70326b7aeaf4a51604a.png"}' data-selector="chat-chat">
+<img alt="" src="//image0.lietou-static.com/big/58ec320e70326b7aeaf4a51604a.png"/>
+</div>
+<div class="recruiter-info-text-box">
+<div class="recruiter-name ellipsis-1">王女士</div>
+<div class="recruiter-title ellipsis-1">猎头顾问</div>
+</div>
+<!-- 聊一聊 -->
+<div class="chat-btn-box" data-nick="recruiter-info-box-chat-btn" data-params='{"imId":"688e60407e6a14410e33f8ac54fbf39e","jobId":"32401905","userId":"9386dd2aaf64e0f4d84beba8c06324bd","jobKind":"1","recruiterName":"王女士","imUserType":"2","recruiterPhoto":"58ec320e70326b7aeaf4a51604a.png"}' data-selector="chat-chat">
+<button class="ant-btn ant-btn-primary ant-btn-round" type="button">
+<span>聊一聊</span>
+</button>
+</div>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li>
+<div class="job-list-item">
+<div class="job-card-pc-container seo-job-card-action-box" data-info="%7B%22jobId%22%3A%2231982745%22%2C%22jobKind%22%3A%221%22%2C%22as_from%22%3A%22search_prime%22%2C%22d_headId%22%3A%2266a3abbe5f0dde32b6e5ff8d343a5dac%22%2C%22d_ckId%22%3A%2266a3abbe5f0dde32b6e5ff8d343a5dac%22%2C%22d_curPage%22%3A%220%22%2C%22d_pageSize%22%3A%2240%22%7D">
+<div class="job-card-left-box">
+<div class="job-detail-box">
+<!-- href需拼上dataPromId数据 -->
+<a data-nick="job-detail-job-info" href="https://www.liepin.com/a/31982745.shtml?d_sfrom=search_prime&d_ckId=66a3abbe5f0dde32b6e5ff8d343a5dac&d_curPage=0&d_pageSize=40&d_headId=66a3abbe5f0dde32b6e5ff8d343a5dac&d_posi=33" target="_blank">
+<div class="job-detail-header-box">
+<div class="job-title-box">
+<div class="ellipsis-1" title="人力资源经理">人力资源经理</div>
+<div class="job-dq-box">
+<span class="dq-bracket">【</span>
+<span class="ellipsis-1">青岛</span>
+<span class="dq-bracket">】</span>
+</div>
+</div>
+<span class="job-salary">15-25k</span>
+</div>
+<div class="job-labels-box">
+<!-- campusJobKind 非空时显示 -->
+<!-- requireWorkYears 非空时显示 -->
+<span class="labels-tag">10年以上</span>
+<!-- requireEduLevel 非空时显示 -->
+<span class="labels-tag">统招本科</span>
+<span class="labels-tag">绩效管理</span><span class="labels-tag">培训开发与实施</span><span class="labels-tag">员工关系</span><span class="labels-tag">企业培训</span><span class="labels-tag">员工激励</span><span class="labels-tag">劳务纠纷</span><span class="labels-tag">岗位配置招聘</span><span class="labels-tag">薪酬管理</span><span class="labels-tag">人力资源经验</span>
+</div>
+</a>
+<!-- 有公司链接时才用a标签，没有公司链接不需要a标签 -->
+<div class="job-detail-company-box" data-nick="job-detail-company-info">
+<div class="job-company-info-box">
+<div class="company-logo">
+<img alt="某大型建筑集团" src="//image0.lietou-static.com/mini/60e2fe0bf3df194a3c48adb502u.png"/>
+</div>
+<span class="company-name ellipsis-1">某大型建筑集团</span>
+<!-- compIndustry || compStage || compScale 三个都没有值时不显示 -->
+<div class="company-tags-box ellipsis-1">
+<span>房地产/建筑</span>
+<span>1000-2000人</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="job-card-right-box">
+<div class="recruiter-info-box">
+<div class="recruiter-photo" data-params='{"imId":"9cb6751034d2a3dd3eaad1f295204b5b","jobId":"31982745","userId":"cf7f10a9b0200127c2031269b49bd76d","jobKind":"1","recruiterName":"王女士","imUserType":"2","recruiterPhoto":"5c6bfd8987fd7d4d439656a701u.jpg"}' data-selector="chat-chat">
+<img alt="" src="//image0.lietou-static.com/big/5c6bfd8987fd7d4d439656a701u.jpg"/>
+</div>
+<div class="recruiter-info-text-box">
+<div class="recruiter-name ellipsis-1">王女士</div>
+<div class="recruiter-title ellipsis-1">猎头顾问</div>
+</div>
+<!-- 聊一聊 -->
+<div class="chat-btn-box" data-nick="recruiter-info-box-chat-btn" data-params='{"imId":"9cb6751034d2a3dd3eaad1f295204b5b","jobId":"31982745","userId":"cf7f10a9b0200127c2031269b49bd76d","jobKind":"1","recruiterName":"王女士","imUserType":"2","recruiterPhoto":"5c6bfd8987fd7d4d439656a701u.jpg"}' data-selector="chat-chat">
+<button class="ant-btn ant-btn-primary ant-btn-round" type="button">
+<span>聊一聊</span>
+</button>
+</div>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li>
+<div class="job-list-item">
+<div class="job-card-pc-container seo-job-card-action-box" data-info="%7B%22jobId%22%3A%2231982605%22%2C%22jobKind%22%3A%221%22%2C%22as_from%22%3A%22search_prime%22%2C%22d_headId%22%3A%2266a3abbe5f0dde32b6e5ff8d343a5dac%22%2C%22d_ckId%22%3A%2266a3abbe5f0dde32b6e5ff8d343a5dac%22%2C%22d_curPage%22%3A%220%22%2C%22d_pageSize%22%3A%2240%22%7D">
+<div class="job-card-left-box">
+<div class="job-detail-box">
+<!-- href需拼上dataPromId数据 -->
+<a data-nick="job-detail-job-info" href="https://www.liepin.com/a/31982605.shtml?d_sfrom=search_prime&d_ckId=66a3abbe5f0dde32b6e5ff8d343a5dac&d_curPage=0&d_pageSize=40&d_headId=66a3abbe5f0dde32b6e5ff8d343a5dac&d_posi=34" target="_blank">
+<div class="job-detail-header-box">
+<div class="job-title-box">
+<div class="ellipsis-1" title="人力资源经理">人力资源经理</div>
+<div class="job-dq-box">
+<span class="dq-bracket">【</span>
+<span class="ellipsis-1">青岛</span>
+<span class="dq-bracket">】</span>
+</div>
+</div>
+<span class="job-salary">15-20k</span>
+</div>
+<div class="job-labels-box">
+<!-- campusJobKind 非空时显示 -->
+<!-- requireWorkYears 非空时显示 -->
+<span class="labels-tag">10年以上</span>
+<!-- requireEduLevel 非空时显示 -->
+<span class="labels-tag">统招本科</span>
+<span class="labels-tag">绩效管理</span><span class="labels-tag">培训开发与实施</span><span class="labels-tag">员工关系</span><span class="labels-tag">企业培训</span><span class="labels-tag">劳务纠纷</span><span class="labels-tag">员工激励</span><span class="labels-tag">岗位配置招聘</span><span class="labels-tag">薪酬管理</span><span class="labels-tag">人力资源经验</span>
+</div>
+</a>
+<!-- 有公司链接时才用a标签，没有公司链接不需要a标签 -->
+<div class="job-detail-company-box" data-nick="job-detail-company-info">
+<div class="job-company-info-box">
+<div class="company-logo">
+<img alt="某建筑产业链集团" src="//image0.lietou-static.com/mini/60e2fe0bf3df194a3c48adb502u.png"/>
+</div>
+<span class="company-name ellipsis-1">某建筑产业链集团</span>
+<!-- compIndustry || compStage || compScale 三个都没有值时不显示 -->
+<div class="company-tags-box ellipsis-1">
+<span>房地产/建筑</span>
+<span>2000-5000人</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="job-card-right-box">
+<div class="recruiter-info-box">
+<div class="recruiter-photo" data-params='{"imId":"d06a3da2a9c7833f4036597854bcf58c","jobId":"31982605","userId":"d1b9a59fa1d862eb74d09cf0d1bc03f7","jobKind":"1","recruiterName":"李先生","imUserType":"2","recruiterPhoto":"583d855a70323dd85a34e7af06a.jpg"}' data-selector="chat-chat">
+<img alt="" src="//image0.lietou-static.com/big/583d855a70323dd85a34e7af06a.jpg"/>
+</div>
+<div class="recruiter-info-text-box">
+<div class="recruiter-name ellipsis-1">李先生</div>
+<div class="recruiter-title ellipsis-1">猎头顾问</div>
+</div>
+<!-- 聊一聊 -->
+<div class="chat-btn-box" data-nick="recruiter-info-box-chat-btn" data-params='{"imId":"d06a3da2a9c7833f4036597854bcf58c","jobId":"31982605","userId":"d1b9a59fa1d862eb74d09cf0d1bc03f7","jobKind":"1","recruiterName":"李先生","imUserType":"2","recruiterPhoto":"583d855a70323dd85a34e7af06a.jpg"}' data-selector="chat-chat">
+<button class="ant-btn ant-btn-primary ant-btn-round" type="button">
+<span>聊一聊</span>
+</button>
+</div>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li>
+<div class="job-list-item">
+<div class="job-card-pc-container seo-job-card-action-box" data-info="%7B%22jobId%22%3A%2240298763%22%2C%22jobKind%22%3A%222%22%2C%22as_from%22%3A%22search_prime%22%2C%22d_headId%22%3A%2266a3abbe5f0dde32b6e5ff8d343a5dac%22%2C%22d_ckId%22%3A%2266a3abbe5f0dde32b6e5ff8d343a5dac%22%2C%22d_curPage%22%3A%220%22%2C%22d_pageSize%22%3A%2240%22%7D">
+<div class="job-card-left-box">
+<div class="job-detail-box">
+<!-- href需拼上dataPromId数据 -->
+<a data-nick="job-detail-job-info" href="https://www.liepin.com/job/1940298763.shtml?d_sfrom=search_prime&d_ckId=66a3abbe5f0dde32b6e5ff8d343a5dac&d_curPage=0&d_pageSize=40&d_headId=66a3abbe5f0dde32b6e5ff8d343a5dac&d_posi=35" target="_blank">
+<div class="job-detail-header-box">
+<div class="job-title-box">
+<div class="ellipsis-1" title="人力资源伙伴(HRBP)">人力资源伙伴(HRBP)</div>
+<div class="job-dq-box">
+<span class="dq-bracket">【</span>
+<span class="ellipsis-1">青岛-崂山区</span>
+<span class="dq-bracket">】</span>
+</div>
+</div>
+<span class="job-salary">10-20k</span>
+</div>
+<div class="job-labels-box">
+<!-- campusJobKind 非空时显示 -->
+<!-- requireWorkYears 非空时显示 -->
+<span class="labels-tag">5-10年</span>
+<!-- requireEduLevel 非空时显示 -->
+<span class="labels-tag">本科及以上</span>
+<span class="labels-tag">人才发展</span><span class="labels-tag">培训开发与实施</span><span class="labels-tag">人力资源经验</span>
+</div>
+</a>
+<!-- 有公司链接时才用a标签，没有公司链接不需要a标签 -->
+<a href="https://www.liepin.com/company/12147639/" target="_blank">
+<div class="job-detail-company-box" data-nick="job-detail-company-info">
+<div class="job-company-info-box">
+<div class="company-logo">
+<img alt="海尔卡奥斯物联生态科技有限公司" src="//image0.lietou-static.com/img/5fdac1261721db2a11d7320901u.png"/>
+</div>
+<span class="company-name ellipsis-1">海尔卡奥斯物联生态科技有限公司</span>
+<!-- compIndustry || compStage || compScale 三个都没有值时不显示 -->
+<div class="company-tags-box ellipsis-1">
+<span>物联网</span>
+<span>5000-10000人</span>
+</div>
+</div>
+</div>
+</a>
+</div>
+</div>
+<div class="job-card-right-box">
+<div class="recruiter-info-box">
+<div class="recruiter-photo" data-params='{"imId":"2ba2b07a9bb181189ccf3dc45f6d7696","jobId":"40298763","userId":"aae630afc39269e8224733b1e671d326","jobKind":"2","recruiterName":"李女士","imUserType":"2","recruiterPhoto":"5f8f9863f6d1ab58476f246a08u.jpg"}' data-selector="chat-chat">
+<img alt="" src="//image0.lietou-static.com/big/5f8f9863f6d1ab58476f246a08u.jpg"/>
+</div>
+<div class="recruiter-info-text-box">
+<div class="recruiter-name ellipsis-1">李女士</div>
+<div class="recruiter-title ellipsis-1">猎头</div>
+</div>
+<!-- 聊一聊 -->
+<div class="chat-btn-box" data-nick="recruiter-info-box-chat-btn" data-params='{"imId":"2ba2b07a9bb181189ccf3dc45f6d7696","jobId":"40298763","userId":"aae630afc39269e8224733b1e671d326","jobKind":"2","recruiterName":"李女士","imUserType":"2","recruiterPhoto":"5f8f9863f6d1ab58476f246a08u.jpg"}' data-selector="chat-chat">
+<button class="ant-btn ant-btn-primary ant-btn-round" type="button">
+<span>聊一聊</span>
+</button>
+</div>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li>
+<div class="job-list-item">
+<div class="job-card-pc-container seo-job-card-action-box" data-info="%7B%22jobId%22%3A%2244425213%22%2C%22jobKind%22%3A%222%22%2C%22as_from%22%3A%22search_prime%22%2C%22d_headId%22%3A%2266a3abbe5f0dde32b6e5ff8d343a5dac%22%2C%22d_ckId%22%3A%2266a3abbe5f0dde32b6e5ff8d343a5dac%22%2C%22d_curPage%22%3A%220%22%2C%22d_pageSize%22%3A%2240%22%7D">
+<div class="job-card-left-box">
+<div class="job-detail-box">
+<!-- href需拼上dataPromId数据 -->
+<a data-nick="job-detail-job-info" href="https://www.liepin.com/job/1944425213.shtml?d_sfrom=search_prime&d_ckId=66a3abbe5f0dde32b6e5ff8d343a5dac&d_curPage=0&d_pageSize=40&d_headId=66a3abbe5f0dde32b6e5ff8d343a5dac&d_posi=36" target="_blank">
+<div class="job-detail-header-box">
+<div class="job-title-box">
+<div class="ellipsis-1" title="人力资源总监">人力资源总监</div>
+<div class="job-dq-box">
+<span class="dq-bracket">【</span>
+<span class="ellipsis-1">青岛</span>
+<span class="dq-bracket">】</span>
+</div>
+</div>
+<span class="job-salary">10-15k·15薪</span>
+</div>
+<div class="job-labels-box">
+<!-- campusJobKind 非空时显示 -->
+<!-- requireWorkYears 非空时显示 -->
+<span class="labels-tag">5-10年</span>
+<!-- requireEduLevel 非空时显示 -->
+<span class="labels-tag">本科及以上</span>
+<span class="labels-tag">岗位配置招聘</span><span class="labels-tag">绩效管理</span><span class="labels-tag">组织发展</span><span class="labels-tag">薪酬管理</span><span class="labels-tag">人才发展</span><span class="labels-tag">HRBP</span><span class="labels-tag">培训开发与实施</span><span class="labels-tag">企业培训</span><span class="labels-tag">企业文化</span><span class="labels-tag">人力资源规划</span>
+</div>
+</a>
+<!-- 有公司链接时才用a标签，没有公司链接不需要a标签 -->
+<a href="https://www.liepin.com/company/12668923/" target="_blank">
+<div class="job-detail-company-box" data-nick="job-detail-company-info">
+<div class="job-company-info-box">
+<div class="company-logo">
+<img alt="有住智慧" src="//image0.lietou-static.com/img/606c22a94633c9306f21144203u.png"/>
+</div>
+<span class="company-name ellipsis-1">有住智慧</span>
+<!-- compIndustry || compStage || compScale 三个都没有值时不显示 -->
+<div class="company-tags-box ellipsis-1">
+<span>规划/设计/装潢</span>
+<span>B轮</span>
+<span>100-499人</span>
+</div>
+</div>
+</div>
+</a>
+</div>
+</div>
+<div class="job-card-right-box">
+<div class="recruiter-info-box">
+<div class="recruiter-photo" data-params='{"imId":"8cc365c44f51e6168b0ca3877d009dea","jobId":"44425213","userId":"d811dbf5d080835223f57ea082429769","jobKind":"2","recruiterName":"王女士","imUserType":"2","recruiterPhoto":"5f8f98648dbe6273dcf8515508u.jpg"}' data-selector="chat-chat">
+<img alt="" src="//image0.lietou-static.com/big/5f8f98648dbe6273dcf8515508u.jpg"/>
+</div>
+<div class="recruiter-info-text-box">
+<div class="recruiter-name ellipsis-1">王女士</div>
+<div class="recruiter-title ellipsis-1"></div>
+</div>
+<!-- 聊一聊 -->
+<div class="chat-btn-box" data-nick="recruiter-info-box-chat-btn" data-params='{"imId":"8cc365c44f51e6168b0ca3877d009dea","jobId":"44425213","userId":"d811dbf5d080835223f57ea082429769","jobKind":"2","recruiterName":"王女士","imUserType":"2","recruiterPhoto":"5f8f98648dbe6273dcf8515508u.jpg"}' data-selector="chat-chat">
+<button class="ant-btn ant-btn-primary ant-btn-round" type="button">
+<span>聊一聊</span>
+</button>
+</div>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li>
+<div class="job-list-item">
+<div class="job-card-pc-container seo-job-card-action-box" data-info="%7B%22jobId%22%3A%2245344213%22%2C%22jobKind%22%3A%222%22%2C%22as_from%22%3A%22search_prime%22%2C%22d_headId%22%3A%2266a3abbe5f0dde32b6e5ff8d343a5dac%22%2C%22d_ckId%22%3A%2266a3abbe5f0dde32b6e5ff8d343a5dac%22%2C%22d_curPage%22%3A%220%22%2C%22d_pageSize%22%3A%2240%22%7D">
+<div class="job-card-left-box">
+<div class="job-detail-box">
+<!-- href需拼上dataPromId数据 -->
+<a data-nick="job-detail-job-info" href="https://www.liepin.com/job/1945344213.shtml?d_sfrom=search_prime&d_ckId=66a3abbe5f0dde32b6e5ff8d343a5dac&d_curPage=0&d_pageSize=40&d_headId=66a3abbe5f0dde32b6e5ff8d343a5dac&d_posi=37" target="_blank">
+<div class="job-detail-header-box">
+<div class="job-title-box">
+<div class="ellipsis-1" title="智慧服务HRBP经理/城市公司人力资源负责人">智慧服务HRBP经理/城市公司人力资源负责人</div>
+<div class="job-dq-box">
+<span class="dq-bracket">【</span>
+<span class="ellipsis-1">青岛-城阳区</span>
+<span class="dq-bracket">】</span>
+</div>
+</div>
+<span class="job-salary">15-25k·15薪</span>
+</div>
+<div class="job-labels-box">
+<!-- campusJobKind 非空时显示 -->
+<!-- requireWorkYears 非空时显示 -->
+<span class="labels-tag">5-10年</span>
+<!-- requireEduLevel 非空时显示 -->
+<span class="labels-tag">统招本科</span>
+<span class="labels-tag">人才发展</span><span class="labels-tag">岗位配置招聘</span><span class="labels-tag">企业文化</span><span class="labels-tag">员工关系</span><span class="labels-tag">COE</span><span class="labels-tag">团队管理</span><span class="labels-tag">人力资源经验</span>
+</div>
+</a>
+<!-- 有公司链接时才用a标签，没有公司链接不需要a标签 -->
+<a href="https://www.liepin.com/company/8364657/" target="_blank">
+<div class="job-detail-company-box" data-nick="job-detail-company-info">
+<div class="job-company-info-box">
+<div class="company-logo">
+<img alt="龙湖集团" src="//image0.lietou-static.com/img/5bfe9bd974719df0ac9a198103a.png"/>
+</div>
+<span class="company-name ellipsis-1">龙湖集团</span>
+<!-- compIndustry || compStage || compScale 三个都没有值时不显示 -->
+<div class="company-tags-box ellipsis-1">
+<span>房产开发</span>
+<span>10000人以上</span>
+</div>
+</div>
+</div>
+</a>
+</div>
+</div>
+<div class="job-card-right-box">
+<div class="recruiter-info-box">
+<div class="recruiter-photo" data-params='{"imId":"d6f550d58c5561a098982ae5f1faf374","jobId":"45344213","userId":"d094749cd7ebd8e66fe0006978112cbb","jobKind":"2","recruiterName":"李女士","imUserType":"2","recruiterPhoto":"5f8f9863f6d1ab58476f246a08u.jpg"}' data-selector="chat-chat">
+<img alt="" src="//image0.lietou-static.com/big/5f8f9863f6d1ab58476f246a08u.jpg"/>
+</div>
+<div class="recruiter-info-text-box">
+<div class="recruiter-name ellipsis-1">李女士</div>
+<div class="recruiter-title ellipsis-1">人力资源经理</div>
+</div>
+<!-- 聊一聊 -->
+<div class="chat-btn-box" data-nick="recruiter-info-box-chat-btn" data-params='{"imId":"d6f550d58c5561a098982ae5f1faf374","jobId":"45344213","userId":"d094749cd7ebd8e66fe0006978112cbb","jobKind":"2","recruiterName":"李女士","imUserType":"2","recruiterPhoto":"5f8f9863f6d1ab58476f246a08u.jpg"}' data-selector="chat-chat">
+<button class="ant-btn ant-btn-primary ant-btn-round" type="button">
+<span>聊一聊</span>
+</button>
+</div>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li>
+<div class="job-list-item">
+<div class="job-card-pc-container seo-job-card-action-box" data-info="%7B%22jobId%22%3A%2244155433%22%2C%22jobKind%22%3A%222%22%2C%22as_from%22%3A%22search_prime%22%2C%22d_headId%22%3A%2266a3abbe5f0dde32b6e5ff8d343a5dac%22%2C%22d_ckId%22%3A%2266a3abbe5f0dde32b6e5ff8d343a5dac%22%2C%22d_curPage%22%3A%220%22%2C%22d_pageSize%22%3A%2240%22%7D">
+<div class="job-card-left-box">
+<div class="job-detail-box">
+<!-- href需拼上dataPromId数据 -->
+<a data-nick="job-detail-job-info" href="https://www.liepin.com/job/1944155433.shtml?d_sfrom=search_prime&d_ckId=66a3abbe5f0dde32b6e5ff8d343a5dac&d_curPage=0&d_pageSize=40&d_headId=66a3abbe5f0dde32b6e5ff8d343a5dac&d_posi=38" target="_blank">
+<div class="job-detail-header-box">
+<div class="job-title-box">
+<div class="ellipsis-1" title="人力资源总监">人力资源总监</div>
+<div class="job-dq-box">
+<span class="dq-bracket">【</span>
+<span class="ellipsis-1">青岛</span>
+<span class="dq-bracket">】</span>
+</div>
+</div>
+<span class="job-salary">15-25k</span>
+</div>
+<div class="job-labels-box">
+<!-- campusJobKind 非空时显示 -->
+<!-- requireWorkYears 非空时显示 -->
+<span class="labels-tag">5-10年</span>
+<!-- requireEduLevel 非空时显示 -->
+<span class="labels-tag">本科及以上</span>
+<span class="labels-tag">员工关系</span><span class="labels-tag">人事档案</span><span class="labels-tag">人力资源规划</span><span class="labels-tag">绩效管理</span><span class="labels-tag">团队管理</span><span class="labels-tag">人力资源经验</span>
+</div>
+</a>
+<!-- 有公司链接时才用a标签，没有公司链接不需要a标签 -->
+<a href="https://www.liepin.com/company/9726312/" target="_blank">
+<div class="job-detail-company-box" data-nick="job-detail-company-info">
+<div class="job-company-info-box">
+<div class="company-logo">
+<img alt="南通三建控股有限公司" src="//image0.lietou-static.com/img/5c491f5723c8e0b98af28b7201u.png"/>
+</div>
+<span class="company-name ellipsis-1">南通三建控股有限公司</span>
+<!-- compIndustry || compStage || compScale 三个都没有值时不显示 -->
+<div class="company-tags-box ellipsis-1">
+<span>房地产/建筑</span>
+<span>2000-5000人</span>
+</div>
+</div>
+</div>
+</a>
+</div>
+</div>
+<div class="job-card-right-box">
+<div class="recruiter-info-box">
+<div class="recruiter-photo" data-params='{"imId":"ee68f4f158c7ac4de37b0b202b2adc1c","jobId":"44155433","userId":"05d1aaacaf263894c032a246551837bd","jobKind":"2","recruiterName":"阮先生","imUserType":"2","recruiterPhoto":"5f8f98698dbe6273dcf8516008u.jpg"}' data-selector="chat-chat">
+<img alt="" src="//image0.lietou-static.com/big/5f8f98698dbe6273dcf8516008u.jpg"/>
+</div>
+<div class="recruiter-info-text-box">
+<div class="recruiter-name ellipsis-1">阮先生</div>
+<div class="recruiter-title ellipsis-1">猎头顾问</div>
+</div>
+<!-- 聊一聊 -->
+<div class="chat-btn-box" data-nick="recruiter-info-box-chat-btn" data-params='{"imId":"ee68f4f158c7ac4de37b0b202b2adc1c","jobId":"44155433","userId":"05d1aaacaf263894c032a246551837bd","jobKind":"2","recruiterName":"阮先生","imUserType":"2","recruiterPhoto":"5f8f98698dbe6273dcf8516008u.jpg"}' data-selector="chat-chat">
+<button class="ant-btn ant-btn-primary ant-btn-round" type="button">
+<span>聊一聊</span>
+</button>
+</div>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li>
+<div class="job-list-item">
+<div class="job-card-pc-container seo-job-card-action-box" data-info="%7B%22jobId%22%3A%2231596673%22%2C%22jobKind%22%3A%221%22%2C%22as_from%22%3A%22search_prime%22%2C%22d_headId%22%3A%2266a3abbe5f0dde32b6e5ff8d343a5dac%22%2C%22d_ckId%22%3A%2266a3abbe5f0dde32b6e5ff8d343a5dac%22%2C%22d_curPage%22%3A%220%22%2C%22d_pageSize%22%3A%2240%22%7D">
+<div class="job-card-left-box">
+<div class="job-detail-box">
+<!-- href需拼上dataPromId数据 -->
+<a data-nick="job-detail-job-info" href="https://www.liepin.com/a/31596673.shtml?d_sfrom=search_prime&d_ckId=66a3abbe5f0dde32b6e5ff8d343a5dac&d_curPage=0&d_pageSize=40&d_headId=66a3abbe5f0dde32b6e5ff8d343a5dac&d_posi=39" target="_blank">
+<div class="job-detail-header-box">
+<div class="job-title-box">
+<div class="ellipsis-1" title="集团人力资源总监">集团人力资源总监</div>
+<div class="job-dq-box">
+<span class="dq-bracket">【</span>
+<span class="ellipsis-1">青岛</span>
+<span class="dq-bracket">】</span>
+</div>
+</div>
+<span class="job-salary">80-110k</span>
+</div>
+<div class="job-labels-box">
+<!-- campusJobKind 非空时显示 -->
+<!-- requireWorkYears 非空时显示 -->
+<span class="labels-tag">经验不限</span>
+<!-- requireEduLevel 非空时显示 -->
+<span class="labels-tag">统招本科</span>
+<span class="labels-tag">绩效管理</span><span class="labels-tag">岗位配置招聘</span><span class="labels-tag">人力资源规划</span><span class="labels-tag">薪酬管理</span><span class="labels-tag">企业文化</span><span class="labels-tag">人才发展</span><span class="labels-tag">团队管理</span><span class="labels-tag">人力资源经验</span>
+</div>
+</a>
+<!-- 有公司链接时才用a标签，没有公司链接不需要a标签 -->
+<div class="job-detail-company-box" data-nick="job-detail-company-info">
+<div class="job-company-info-box">
+<div class="company-logo">
+<img alt="山东某智能制造公司" src="//image0.lietou-static.com/mini/60e2fe0bf3df194a3c48adb502u.png"/>
+</div>
+<span class="company-name ellipsis-1">山东某智能制造公司</span>
+<!-- compIndustry || compStage || compScale 三个都没有值时不显示 -->
+<div class="company-tags-box ellipsis-1">
+<span>人工智能</span>
+<span>5000-10000人</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="job-card-right-box">
+<div class="recruiter-info-box">
+<div class="recruiter-photo" data-params='{"imId":"4407f5ac00bc1d7d9f90a7bcfdb96d0e","jobId":"31596673","userId":"6a73570987a8e06def74147297f908df","jobKind":"1","recruiterName":"唐女士","imUserType":"2","recruiterPhoto":"608260233297372dbcb30af305u.jpeg"}' data-selector="chat-chat">
+<img alt="" src="//image0.lietou-static.com/big/608260233297372dbcb30af305u.jpeg"/>
+</div>
+<div class="recruiter-info-text-box">
+<div class="recruiter-name ellipsis-1">唐女士</div>
+<div class="recruiter-title ellipsis-1">猎头顾问</div>
+</div>
+<!-- 聊一聊 -->
+<div class="chat-btn-box" data-nick="recruiter-info-box-chat-btn" data-params='{"imId":"4407f5ac00bc1d7d9f90a7bcfdb96d0e","jobId":"31596673","userId":"6a73570987a8e06def74147297f908df","jobKind":"1","recruiterName":"唐女士","imUserType":"2","recruiterPhoto":"608260233297372dbcb30af305u.jpeg"}' data-selector="chat-chat">
+<button class="ant-btn ant-btn-primary ant-btn-round" type="button">
+<span>聊一聊</span>
+</button>
+</div>
+</div>
+</div>
+</div>
+</div>
+</li>
+</ul>
+<!-- 分页区 -->
+<div class="list-pagination-box">
+<ul class="ant-pagination" unselectable="unselectable">
+<li aria-disabled="true" class="ant-pagination-prev ant-pagination-disabled" tabindex="0" title="上一页">
+<a data-currentpage="-1" href="/zhaopin/" onclick="return false;">
+<button class="ant-pagination-item-link" tabindex="-1" type="button">
+<span aria-label="left" class="anticon anticon-left" role="img">
+<svg aria-hidden="true" data-icon="left" fill="currentColor" focusable="false" height="1em" viewbox="64 64 896 896" width="1em">
+<path d="M724 218.3V141c0-6.7-7.7-10.4-12.9-6.3L260.3 486.8a31.86 31.86 0 000 50.3l450.8 352.1c5.3 4.1 12.9.4 12.9-6.3v-77.3c0-4.9-2.3-9.6-6.1-12.6l-360-281 360-281.1c3.8-3 6.1-7.7 6.1-12.6z">
+</path>
+</svg>
+</span>
+</button>
+</a>
+</li>
+<li class="ant-pagination-item ant-pagination-item-active" tabindex="0" title="1">
+<a data-currentpage="0" data-selector="pagintion-item-selector" href="/zhaopin/" onclick="return false;">1</a>
+</li>
+<li class="ant-pagination-item" tabindex="0" title="2">
+<a data-currentpage="1" data-selector="pagintion-item-selector" href="/zhaopin/" onclick="return false;">2</a>
+</li>
+<li class="ant-pagination-item" tabindex="0" title="3">
+<a data-currentpage="2" data-selector="pagintion-item-selector" href="/zhaopin/" onclick="return false;">3</a>
+</li>
+<li class="ant-pagination-item" tabindex="0" title="4">
+<a data-currentpage="3" data-selector="pagintion-item-selector" href="/zhaopin/" onclick="return false;">4</a>
+</li>
+<li class="ant-pagination-item" tabindex="0" title="5">
+<a data-currentpage="4" data-selector="pagintion-item-selector" href="/zhaopin/" onclick="return false;">5</a>
+</li>
+<li class="ant-pagination-jump-next ant-pagination-jump-next-custom-icon" tabindex="0">
+<div class="ant-pagination-item-container">
+<span aria-label="double-right" class="anticon anticon-double-right ant-pagination-item-link-icon" role="img">
+<svg aria-hidden="true" data-icon="double-right" fill="currentColor" focusable="false" height="1em" viewbox="64 64 896 896" width="1em">
+<path d="M533.2 492.3L277.9 166.1c-3-3.9-7.7-6.1-12.6-6.1H188c-6.7 0-10.4 7.7-6.3 12.9L447.1 512 181.7 851.1A7.98 7.98 0 00188 864h77.3c4.9 0 9.6-2.3 12.6-6.1l255.3-326.1c9.1-11.7 9.1-27.9 0-39.5zm304 0L581.9 166.1c-3-3.9-7.7-6.1-12.6-6.1H492c-6.7 0-10.4 7.7-6.3 12.9L751.1 512 485.7 851.1A7.98 7.98 0 00492 864h77.3c4.9 0 9.6-2.3 12.6-6.1l255.3-326.1c9.1-11.7 9.1-27.9 0-39.5z">
+</path>
+</svg>
+</span>
+<span class="ant-pagination-item-ellipsis">•••</span>
+</div>
+</li>
+<li aria-disabled="false" class="ant-pagination-next" tabindex="0" title="下一页">
+<a data-currentpage="1" data-selector="pagintion-item-selector" href="/zhaopin/" onclick="return false;">
+<button class="ant-pagination-item-link" tabindex="-1" type="button">
+<span aria-label="right" class="anticon anticon-right" role="img">
+<svg aria-hidden="true" data-icon="right" fill="currentColor" focusable="false" height="1em" viewbox="64 64 896 896" width="1em">
+<path d="M765.7 486.8L314.9 134.7A7.97 7.97 0 00302 141v77.3c0 4.9 2.3 9.6 6.1 12.6l360 281.1-360 281.1c-3.9 3-6.1 7.7-6.1 12.6V883c0 6.7 7.7 10.4 12.9 6.3l450.8-352.1a31.96 31.96 0 000-50.4z">
+</path>
+</svg>
+</span>
+</button>
+</a>
+</li>
+</ul>
+</div>
+</div>
+</section>
+<!-- 右侧内容区 -->
+<section class="content-right-section">
+<!-- 登录和广告位模块 -->
+<div id="search-job-aside-section"></div>
+<!-- tab切换区 -->
+<div class="aside-suggest-box">
+<!-- tab区，非seo主搜页显示：热门职位、热门公司、相关公司 -->
+<div class="aside-suggest-section-box">
+<div class="aside-suggest-tabs-nav-box">
+<span class="selected" data-id="aside-suggest-hot-company" data-selector="aside-suggest-tabs-nav-item">
+        热门公司
+      </span>
+<span data-id="aside-suggest-about-company" data-selector="aside-suggest-tabs-nav-item">
+        相关公司
+      </span>
+<span data-id="aside-suggest-hot-job" data-selector="aside-suggest-tabs-nav-item">
+        热门职位
+      </span>
+</div>
+<!-- 热门公司 -->
+<div class="aside-suggest-list-content-box aside-suggest-tab-content" id="aside-suggest-hot-company">
+<ul class="suggest-list-box">
+<li class="suggest-list-item ellipsis-1">
+<a href="https://www.liepin.com/company/gs69381846/" target="_blank">青岛千益食品商贸有限公司</a>
+</li>
+<li class="suggest-list-item ellipsis-1">
+<a href="https://www.liepin.com/company/gs69381846/" target="_blank">青岛千益食品商贸有限公司</a>
+</li>
+<li class="suggest-list-item ellipsis-1">
+<a href="https://www.liepin.com/company/gs72507436/" target="_blank">青岛鲁棉棉业有限公司</a>
+</li>
+<li class="suggest-list-item ellipsis-1">
+<a href="https://www.liepin.com/company/gs72507436/" target="_blank">青岛鲁棉棉业有限公司</a>
+</li>
+<li class="suggest-list-item ellipsis-1">
+<a href="https://www.liepin.com/company/gs72507436/" target="_blank">青岛鲁棉棉业有限公司</a>
+</li>
+<li class="suggest-list-item ellipsis-1">
+<a href="https://www.liepin.com/company/gs73478402/" target="_blank">青岛鲁宁之星汽车贸易有限公司</a>
+</li>
+<li class="suggest-list-item ellipsis-1">
+<a href="https://www.liepin.com/company/gs73478402/" target="_blank">青岛鲁宁之星汽车贸易有限公司</a>
+</li>
+<li class="suggest-list-item ellipsis-1">
+<a href="https://www.liepin.com/company/gs73478402/" target="_blank">青岛鲁宁之星汽车贸易有限公司</a>
+</li>
+<li class="suggest-list-item ellipsis-1">
+<a href="https://www.liepin.com/company/gs80047398/" target="_blank">青岛恒茂物流有限公司</a>
+</li>
+<li class="suggest-list-item ellipsis-1">
+<a href="https://www.liepin.com/company/gs26352988/" target="_blank">青岛双宏商贸有限公司</a>
+</li>
+</ul>
+</div>
+<!-- 相关公司 -->
+<div class="aside-suggest-list-content-box aside-suggest-tab-content list-hide" id="aside-suggest-about-company">
+<ul class="suggest-list-box">
+<li class="suggest-list-item ellipsis-1">
+<a href="https://www.liepin.com/company/9103358/" target="_blank">青岛凯捷生物科技有限公司</a>
+</li>
+<li class="suggest-list-item ellipsis-1">
+<a href="https://www.liepin.com/company/8165738/" target="_blank">青岛丰硕堂医药连锁有限公司</a>
+</li>
+<li class="suggest-list-item ellipsis-1">
+<a href="https://www.liepin.com/company/10006811/" target="_blank">青岛汇泽源通房产经纪有限公司</a>
+</li>
+<li class="suggest-list-item ellipsis-1">
+<a href="https://www.liepin.com/company/10006815/" target="_blank">青岛卓如教育科技有限公司</a>
+</li>
+</ul>
+</div>
+<!-- 热门职位 -->
+<div class="aside-suggest-list-content-box aside-suggest-tab-content list-hide" id="aside-suggest-hot-job">
+<ul class="suggest-list-box">
+<li class="suggest-list-item ellipsis-1">
+<a href="https://www.liepin.com/city-qingdao/zpcaiyougong/" target="_blank">青岛采油工招聘</a>
+</li>
+<li class="suggest-list-item ellipsis-1">
+<a href="https://www.liepin.com/city-qingdao/zpduiyi/" target="_blank">青岛队医招聘</a>
+</li>
+<li class="suggest-list-item ellipsis-1">
+<a href="https://www.liepin.com/city-qingdao/zpbaijiugouduishi/" target="_blank">青岛白酒勾兑师招聘</a>
+</li>
+<li class="suggest-list-item ellipsis-1">
+<a href="https://www.liepin.com/city-qingdao/zpfanqizhadiaochayuan/" target="_blank">青岛反欺诈调查员招聘</a>
+</li>
+<li class="suggest-list-item ellipsis-1">
+<a href="https://www.liepin.com/city-qingdao/zpyiyaoshangpinyingyeyuan/" target="_blank">青岛医药商品营业员招聘</a>
+</li>
+<li class="suggest-list-item ellipsis-1">
+<a href="https://www.liepin.com/city-qingdao/zpxinshengang/" target="_blank">青岛信审岗招聘</a>
+</li>
+<li class="suggest-list-item ellipsis-1">
+<a href="https://www.liepin.com/city-qingdao/zpzhujiangshi/" target="_blank">青岛主讲师招聘</a>
+</li>
+<li class="suggest-list-item ellipsis-1">
+<a href="https://www.liepin.com/city-qingdao/zpshangliaogong/" target="_blank">青岛上料工招聘</a>
+</li>
+<li class="suggest-list-item ellipsis-1">
+<a href="https://www.liepin.com/city-qingdao/zpsuperintendent/" target="_blank">青岛Superintendent招聘</a>
+</li>
+<li class="suggest-list-item ellipsis-1">
+<a href="https://www.liepin.com/city-qingdao/zpioszishenchengxuyuan/" target="_blank">青岛IOS资深程序员招聘</a>
+</li>
+</ul>
+</div>
+</div>
+<!-- 职能词、职位词的列表：相关推荐职位词
+        <div class="aside-suggest-section-box">
+            <div class="aside-suggest-section-title">相关推荐</div>
+            <div class="aside-suggest-list-content-box">
+                <ul class="suggest-list-box">
+                    <li class="suggest-list-item ellipsis-1">
+                        <a href="" target="_blank">北京搜房网络技术有限公司北京搜房网络技术有限公司</a>
+                    </li>
+                    <li class="suggest-list-item ellipsis-1">
+                        <a href="" target="_blank">北京搜房网络技术有限公司北京搜房网络技术有限公司</a>
+                    </li>
+                </ul>
+            </div>
+        </div> -->
+<!-- 搜索词的列表：热门搜索
+        <div class="aside-suggest-section-box">
+            <div class="aside-suggest-section-title">热门搜索</div>
+            <div class="aside-suggest-list-content-box">
+                <ul class="suggest-list-box">
+                    <li class="suggest-list-item ellipsis-1">
+                        <a href="" target="_blank">北京搜房网络技术有限公司北京搜房网络技术有限公司</a>
+                    </li>
+                    <li class="suggest-list-item ellipsis-1">
+                        <a href="" target="_blank">北京搜房网络技术有限公司北京搜房网络技术有限公司</a>
+                    </li>
+                </ul>
+            </div>
+        </div> -->
+</div>
+<div id="search-job-aside-ad-qrcode"></div>
+</section>
+</div>
+</div>
+<!-- 右侧通栏 -->
+<section id="lp-sider-bar-container"></section>
+<!-- 内链和友链 -->
+<section class="common-page-container">
+<div class="seo-common-hot-links">
+<div class="common-hot-links-container" data-selector="common-hot-links-container">
+<ul class="common-hot-links-tab" data-selector="common-hot-links-tab">
+<li class="hot-links-tab-active">热门职位</li>
+<li>推荐职位</li>
+<li>热门行业</li>
+<li>周边城市</li>
+<li>热门城市</li>
+<li>手机版</li>
+</ul>
+<div class="common-hot-links-content hot-links-content-active" data-selector="common-hot-links-content">
+<a href="https://www.liepin.com/city-qingdao/zpcaiyougong/" target="_blank" title="青岛采油工招聘">青岛采油工招聘</a><a href="https://www.liepin.com/city-qingdao/zpduiyi/" target="_blank" title="青岛队医招聘">青岛队医招聘</a><a href="https://www.liepin.com/city-qingdao/zpbaijiugouduishi/" target="_blank" title="青岛白酒勾兑师招聘">青岛白酒勾兑师招聘</a><a href="https://www.liepin.com/city-qingdao/zpfanqizhadiaochayuan/" target="_blank" title="青岛反欺诈调查员招聘">青岛反欺诈调查员招聘</a><a href="https://www.liepin.com/city-qingdao/zpyiyaoshangpinyingyeyuan/" target="_blank" title="青岛医药商品营业员招聘">青岛医药商品营业员招聘</a><a href="https://www.liepin.com/city-qingdao/zpxinshengang/" target="_blank" title="青岛信审岗招聘">青岛信审岗招聘</a><a href="https://www.liepin.com/city-qingdao/zpzhujiangshi/" target="_blank" title="青岛主讲师招聘">青岛主讲师招聘</a><a href="https://www.liepin.com/city-qingdao/zpshangliaogong/" target="_blank" title="青岛上料工招聘">青岛上料工招聘</a><a href="https://www.liepin.com/city-qingdao/zpsuperintendent/" target="_blank" title="青岛Superintendent招聘">青岛Superintendent招聘</a><a href="https://www.liepin.com/city-qingdao/zpioszishenchengxuyuan/" target="_blank" title="青岛IOS资深程序员招聘">青岛IOS资深程序员招聘</a><a href="https://www.liepin.com/city-qingdao/zp4sdianbaoxiuyuan/" target="_blank" title="青岛4s店保修员招聘">青岛4s店保修员招聘</a><a href="https://www.liepin.com/city-qingdao/zpdianshen/" target="_blank" title="青岛电审招聘">青岛电审招聘</a><a href="https://www.liepin.com/city-qingdao/zpkuandaianzhuangweihuyuan/" target="_blank" title="青岛宽带安装维护员招聘">青岛宽带安装维护员招聘</a><a href="https://www.liepin.com/city-qingdao/zpertongbaojianyishi/" target="_blank" title="青岛儿童保健医师招聘">青岛儿童保健医师招聘</a><a href="https://www.liepin.com/city-qingdao/zpguangxianrongjieyuan/" target="_blank" title="青岛光纤熔接员招聘">青岛光纤熔接员招聘</a><a href="https://www.liepin.com/city-qingdao/zplinchuangjianyanjishushi/" target="_blank" title="青岛临床检验技术师招聘">青岛临床检验技术师招聘</a><a href="https://www.liepin.com/city-qingdao/zpzhongxiyaofang/" target="_blank" title="青岛中西药房招聘">青岛中西药房招聘</a><a href="https://www.liepin.com/city-qingdao/zpotcyaopinyewuyuan/" target="_blank" title="青岛otc药品业务员招聘">青岛otc药品业务员招聘</a><a href="https://www.liepin.com/city-qingdao/zpshangseshi/" target="_blank" title="青岛上色师招聘">青岛上色师招聘</a><a href="https://www.liepin.com/city-qingdao/zpc09ruanjiankaifashi/" target="_blank" title="青岛c#软件开发师招聘">青岛c#软件开发师招聘</a><a href="https://www.liepin.com/city-qingdao/zpsurveyor/" target="_blank" title="青岛Surveyor招聘">青岛Surveyor招聘</a><a href="https://www.liepin.com/city-qingdao/zp4sdianpeijianjihuayuan/" target="_blank" title="青岛4s店配件计划员招聘">青岛4s店配件计划员招聘</a>
+</div>
+<div class="common-hot-links-content" data-selector="common-hot-links-content">
+<a href="https://www.liepin.com/city-qingdao/career/jiaowu/" target="_blank" title="青岛教学/教务管理招聘">青岛教学/教务管理招聘</a><a href="https://www.liepin.com/city-qingdao/career/yingjianpm/" target="_blank" title="青岛硬件产品经理招聘">青岛硬件产品经理招聘</a><a href="https://www.liepin.com/city-qingdao/career/MeiRongDianChang/" target="_blank" title="青岛美容店长招聘">青岛美容店长招聘</a><a href="https://www.liepin.com/city-qingdao/career/yiyuanguanli/" target="_blank" title="青岛医院管理招聘">青岛医院管理招聘</a><a href="https://www.liepin.com/city-qingdao/career/semdf/" target="_blank" title="青岛SEM招聘">青岛SEM招聘</a><a href="https://www.liepin.com/city-qingdao/career/jibingkongzhi/" target="_blank" title="青岛疾病控制招聘">青岛疾病控制招聘</a><a href="https://www.liepin.com/city-qingdao/career/erlang/" target="_blank" title="青岛Erlang招聘">青岛Erlang招聘</a><a href="https://www.liepin.com/city-qingdao/career/suanfakaifa/" target="_blank" title="青岛算法工程师招聘">青岛算法工程师招聘</a><a href="https://www.liepin.com/city-qingdao/career/baoxianchanpinkaifadf/" target="_blank" title="青岛产品开发/项目策划招聘">青岛产品开发/项目策划招聘</a><a href="https://www.liepin.com/city-qingdao/career/420006/" target="_blank" title="青岛汽车主被动安全工程师招聘">青岛汽车主被动安全工程师招聘</a><a href="https://www.liepin.com/city-qingdao/career/youxichangjing/" target="_blank" title="青岛游戏场景招聘">青岛游戏场景招聘</a><a href="https://www.liepin.com/city-qingdao/career/FangDiChanXiangMuZongJingLiD/" target="_blank" title="青岛房地产项目总经理招聘">青岛房地产项目总经理招聘</a><a href="https://www.liepin.com/city-qingdao/career/daoyou/" target="_blank" title="青岛导游招聘">青岛导游招聘</a><a href="https://www.liepin.com/city-qingdao/career/hexinwanggcs/" target="_blank" title="青岛核心网工程师招聘">青岛核心网工程师招聘</a><a href="https://www.liepin.com/city-qingdao/career/deyu/" target="_blank" title="青岛德语翻译招聘">青岛德语翻译招聘</a><a href="https://www.liepin.com/city-qingdao/career/qichetuzhuanggongchengshi/" target="_blank" title="青岛汽车涂装工程师招聘">青岛汽车涂装工程师招聘</a><a href="https://www.liepin.com/city-qingdao/career/kehuzongjian/" target="_blank" title="青岛客户总监招聘">青岛客户总监招聘</a><a href="https://www.liepin.com/city-qingdao/career/DiaoJiuShi/" target="_blank" title="青岛调酒师招聘">青岛调酒师招聘</a><a href="https://www.liepin.com/city-qingdao/career/ziranyuyanchulinlp/" target="_blank" title="青岛自然语言处理(NLP)招聘">青岛自然语言处理(NLP)招聘</a><a href="https://www.liepin.com/city-qingdao/career/fdcgpinggu/" target="_blank" title="青岛房地产评估招聘">青岛房地产评估招聘</a><a href="https://www.liepin.com/city-qingdao/career/yaodiandianchang/" target="_blank" title="青岛药店店长招聘">青岛药店店长招聘</a><a href="https://www.liepin.com/city-qingdao/career/60203/" target="_blank" title="青岛产品/品牌主管招聘">青岛产品/品牌主管招聘</a><a href="https://www.liepin.com/city-qingdao/career/kuaiji/" target="_blank" title="青岛会计招聘">青岛会计招聘</a><a href="https://www.liepin.com/city-qingdao/career/430004/" target="_blank" title="青岛汽车零配件销售招聘">青岛汽车零配件销售招聘</a><a href="https://www.liepin.com/city-qingdao/career/ChaYiShi/" target="_blank" title="青岛茶艺师招聘">青岛茶艺师招聘</a>
+</div>
+<div class="common-hot-links-content" data-selector="common-hot-links-content">
+<a href="https://www.liepin.com/city-qingdao/industry/yingjian/" target="_blank" title="青岛计算机/网络设备招聘">青岛计算机/网络设备招聘</a><a href="https://www.liepin.com/city-qingdao/industry/nongye/" target="_blank" title="青岛农林牧渔招聘">青岛农林牧渔招聘</a><a href="https://www.liepin.com/city-qingdao/industry/naiyongxiaofei/" target="_blank" title="青岛服装纺织招聘">青岛服装纺织招聘</a><a href="https://www.liepin.com/city-qingdao/industry/maoyi/" target="_blank" title="青岛贸易/进出口招聘">青岛贸易/进出口招聘</a><a href="https://www.liepin.com/city-qingdao/industry/guanggaohuizhan/" target="_blank" title="青岛广告/市场/会展招聘">青岛广告/市场/会展招聘</a><a href="https://www.liepin.com/city-qingdao/industry/shineisheji/" target="_blank" title="青岛规划/设计/装潢招聘">青岛规划/设计/装潢招聘</a><a href="https://www.liepin.com/city-qingdao/industry/pifalingshou/" target="_blank" title="青岛批发零售招聘">青岛批发零售招聘</a><a href="https://www.liepin.com/city-qingdao/industry/huagong/" target="_blank" title="青岛石油/化工招聘">青岛石油/化工招聘</a><a href="https://www.liepin.com/city-qingdao/industry/yinhang/" target="_blank" title="青岛银行招聘">青岛银行招聘</a><a href="https://www.liepin.com/city-qingdao/industry/xintuodanbao/" target="_blank" title="青岛信托/担保/拍卖招聘">青岛信托/担保/拍卖招聘</a><a href="https://www.liepin.com/city-qingdao/industry/dichan/" target="_blank" title="青岛房地产/建筑招聘">青岛房地产/建筑招聘</a><a href="https://www.liepin.com/city-qingdao/industry/huanbao/" target="_blank" title="青岛环保招聘">青岛环保招聘</a><a href="https://www.liepin.com/city-qingdao/industry/shechipinshoucang/" target="_blank" title="青岛奢侈品/收藏品招聘">青岛奢侈品/收藏品招聘</a><a href="https://www.liepin.com/city-qingdao/industry/bangongshebei/" target="_blank" title="青岛办公设备招聘">青岛办公设备招聘</a><a href="https://www.liepin.com/city-qingdao/industry/nengyuan/" target="_blank" title="青岛能源/水利招聘">青岛能源/水利招聘</a><a href="https://www.liepin.com/city-qingdao/industry/zhengfu/" target="_blank" title="青岛政务/公共服务招聘">青岛政务/公共服务招聘</a><a href="https://www.liepin.com/city-qingdao/industry/jiaoyu/" target="_blank" title="青岛教育培训招聘">青岛教育培训招聘</a><a href="https://www.liepin.com/city-qingdao/industry/hangkonghangtian/" target="_blank" title="青岛航空/航天招聘">青岛航空/航天招聘</a><a href="https://www.liepin.com/city-qingdao/industry/yiqiyibiao/" target="_blank" title="青岛仪器/电气/自动化招聘">青岛仪器/电气/自动化招聘</a><a href="https://www.liepin.com/city-qingdao/industry/tongxin/" target="_blank" title="青岛通信业招聘">青岛通信业招聘</a><a href="https://www.liepin.com/city-qingdao/industry/yiliaoshebei/" target="_blank" title="青岛医疗器械招聘">青岛医疗器械招聘</a><a href="https://www.liepin.com/city-qingdao/industry/yuleyundong/" target="_blank" title="青岛文体娱乐招聘">青岛文体娱乐招聘</a><a href="https://www.liepin.com/city-qingdao/industry/zhiyao/" target="_blank" title="青岛制药/生物工程招聘">青岛制药/生物工程招聘</a><a href="https://www.liepin.com/city-qingdao/industry/yinshuabaozhuang/" target="_blank" title="青岛印刷/包装/造纸招聘">青岛印刷/包装/造纸招聘</a><a href="https://www.liepin.com/city-qingdao/industry/itfuwu/" target="_blank" title="青岛IT服务招聘">青岛IT服务招聘</a>
+</div>
+<div class="common-hot-links-content" data-selector="common-hot-links-content">
+<a href="https://www.liepin.com/city-jinan/" target="_blank" title="济南招聘">济南招聘</a><a href="https://www.liepin.com/city-zibo/" target="_blank" title="淄博招聘">淄博招聘</a><a href="https://www.liepin.com/city-zaozhuang/" target="_blank" title="枣庄招聘">枣庄招聘</a><a href="https://www.liepin.com/city-dongying/" target="_blank" title="东营招聘">东营招聘</a><a href="https://www.liepin.com/city-yantai/" target="_blank" title="烟台招聘">烟台招聘</a><a href="https://www.liepin.com/city-weifang/" target="_blank" title="潍坊招聘">潍坊招聘</a><a href="https://www.liepin.com/city-jining/" target="_blank" title="济宁招聘">济宁招聘</a><a href="https://www.liepin.com/city-taian/" target="_blank" title="泰安招聘">泰安招聘</a><a href="https://www.liepin.com/city-weihai/" target="_blank" title="威海招聘">威海招聘</a><a href="https://www.liepin.com/city-rizhao/" target="_blank" title="日照招聘">日照招聘</a><a href="https://www.liepin.com/city-linyi/" target="_blank" title="临沂招聘">临沂招聘</a><a href="https://www.liepin.com/city-dezhou/" target="_blank" title="德州招聘">德州招聘</a><a href="https://www.liepin.com/city-liaocheng/" target="_blank" title="聊城招聘">聊城招聘</a><a href="https://www.liepin.com/city-binzhou/" target="_blank" title="滨州招聘">滨州招聘</a><a href="https://www.liepin.com/city-heze/" target="_blank" title="菏泽招聘">菏泽招聘</a>
+</div>
+<div class="common-hot-links-content" data-selector="common-hot-links-content">
+<a href="https://www.liepin.com/city-bj/" target="_blank" title="北京招聘网">北京招聘网</a><a href="https://www.liepin.com/city-sh/" target="_blank" title="上海招聘网">上海招聘网</a><a href="https://www.liepin.com/city-gz/" target="_blank" title="广州招聘网">广州招聘网</a><a href="https://www.liepin.com/city-xiamen/" target="_blank" title="厦门招聘网">厦门招聘网</a><a href="https://www.liepin.com/city-hz/" target="_blank" title="杭州招聘网">杭州招聘网</a><a href="https://www.liepin.com/city-zhengzhou/" target="_blank" title="郑州招聘网">郑州招聘网</a><a href="https://www.liepin.com/city-nj/" target="_blank" title="南京招聘网">南京招聘网</a><a href="https://www.liepin.com/city-tj/" target="_blank" title="天津招聘网">天津招聘网</a><a href="https://www.liepin.com/city-cq/" target="_blank" title="重庆招聘网">重庆招聘网</a><a href="https://www.liepin.com/city-cd/" target="_blank" title="成都招聘网">成都招聘网</a><a href="https://www.liepin.com/city-suzhou/" target="_blank" title="苏州招聘网">苏州招聘网</a><a href="https://www.liepin.com/city-shangqiu/" target="_blank" title="商丘招聘网">商丘招聘网</a><a href="https://www.liepin.com/city-dl/" target="_blank" title="大连招聘网">大连招聘网</a><a href="https://www.liepin.com/city-jinan/" target="_blank" title="济南招聘网">济南招聘网</a><a href="https://www.liepin.com/city-ningbo/" target="_blank" title="宁波招聘网">宁波招聘网</a><a href="https://www.liepin.com/city-wuxi/" target="_blank" title="无锡招聘网">无锡招聘网</a><a href="https://www.liepin.com/city-qingdao/" target="_blank" title="青岛招聘网">青岛招聘网</a><a href="https://www.liepin.com/city-shenyang/" target="_blank" title="沈阳招聘网">沈阳招聘网</a><a href="https://www.liepin.com/city-taizhou/" target="_blank" title="台州招聘网">台州招聘网</a><a href="https://www.liepin.com/city-xian/" target="_blank" title="西安招聘网">西安招聘网</a><a href="https://www.liepin.com/city-wuhan/" target="_blank" title="武汉招聘网">武汉招聘网</a>
+</div>
+<div class="common-hot-links-content" data-selector="common-hot-links-content">
+<a href="https://m.liepin.com/qingdao/zhaopin/" target="_blank" title="青岛招聘">青岛招聘</a>
+</div>
+</div>
+<div class="common-current-position">
+<div class="row-label">当前位置：</div>
+<div class="row-content">
+<a href="https://www.liepin.com/city-qingdao/">青岛招聘网</a> <span>></span>
+<a href="https://www.liepin.com/city-qingdao/zhaopin/">青岛招聘信息</a>
+</div>
+</div>
+</div>
+</section>
+<script type="application/ld+json">
+        {
+            "@context": "https://ziyuan.baidu.com/contexts/cambrian.jsonld",
+            "appid": "1586030202028057",
+            "@id": "",
+            "title": "",
+            "description": "",
+            "upDate": "2021-12-09T08:00:00",
+            "data": {
+                "WebPage": {
+                    "headline": "",
+                    "pcUrl": "",
+                    "wapUrl": ""
+                }
+            }
+        }
+    </script>
+<script crossorigin="anonymous" src="https://concat.lietou-static.com/fe-lib-pc/v5/tlog/tlog.min.e1ad7dfa.js"></script>
+<script>var _hmt = _hmt || [];
+    (function () {
+        var hm = document.createElement("script");
+        hm.src = "//hm.baidu.com/hm.js?a2647413544f5a04f00da7eee0d5e200";
+        var s = document.getElementsByTagName("script")[0];
+        s.parentNode.insertBefore(hm, s);
+    })();</script>
+<script type="text/javascript">
+        (function () {
+            var dlog_js = document.createElement("script");
+            dlog_js.src = "//static3.lietou-static.com/dlog.js?v=2&q=" + parseInt('' + new Date() / 6E5);
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(dlog_js, s);
+        })();
+    </script>
+<!--百度推送-->
+<script>
+        (function () {
+            var bp = document.createElement('script');
+            var curProtocol = window.location.protocol.split(':')[0];
+            if (curProtocol === 'https') {
+                bp.src = 'https://zz.bdstatic.com/linksubmit/push.js';
+            } else {
+                bp.src = 'http://push.zhanzhang.baidu.com/push.js';
+            }
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(bp, s);
+        })();
+    </script>
+<!--360 推送 todo js资源会报错，先注释掉-->
+<!--    <script src="https://jspassport.ssl.qhimg.com/11.0.1.js?4cc89993e2a252b7fd4d5d5c9d350c50" id="sozz"></script>-->
+<script crossorigin="anonymous" src="https://concat.lietou-static.com/fe-www-pc/v6/js/pages/search-jobs.8dea2c13.js"></script>
+<script crossorigin="anonymous" src="//concat.lietou-static.com/fe-www-pc/v6/js/polyfill-vendors.9539a1e6.js"></script>
+<script>
+        (function () {
+            var imEntryScript = '<script crossOrigin="anonymous" src="//concat.lietou-static.com/fe-imc-pc/v6/latest/entry.js?q='.concat(
+                Math.floor(Date.now() / 180000),
+                '"><\/script>'
+            );
+            document.write(imEntryScript);
+        })();
+    </script>
+<script crossorigin="anonymous" src="//concat.lietou-static.com/fe-www-pc/v6/js/react-vendors.fd7b29e7.js"></script>
+<script crossorigin="anonymous" src="//concat.lietou-static.com/fe-www-pc/v6/js/runtime.d938b012.js"></script>
+<script crossorigin="anonymous" src="//concat.lietou-static.com/fe-www-pc/v6/js/common.74f86518.js"></script>
+<script crossorigin="anonymous" src="//concat.lietou-static.com/fe-lib-pc/v5/tlog/tlog.min.e1ad7dfa.js"></script>
+<!-- footer -->
+<script src="//concat.lietou-static.com/fe-footer-pc/v6/footer-pc.js"></script>
+</body>
+</html>
