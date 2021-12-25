@@ -11,7 +11,6 @@ Update Log:
     
 """
 
-
 from functions import getHtml
 from functions import wordTOhtml
 import re

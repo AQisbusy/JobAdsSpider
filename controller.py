@@ -7,7 +7,9 @@ controller
 @author: Jacob Qiu
 """
 
+from typing import Pattern
 from prettytable import PrettyTable
+import re
 
 
 # ---------- 51job ----------
@@ -41,6 +43,22 @@ cotype.add_column("Code", codes)
 cotype.add_column("Meaning",meanings)
 #cotype.align["Meaning"] = "l"
 print(cotype)
+
+cotypeCode = '01+02'
+print(len(cotypeCode))
+
+pattern_cotypeCode = re.compile(r'\d\d(+)\d\d')
+cotypeCode_convert = re.match(cotypeCode, pattern_cotypeCode)
+print(cotypeCode_convert)
+
+if len(cotypeCode) == 2:
+    cotypeCode = cotypeCode
+    print(cotypeCode)
+else:
+    cotypeCode = cotypeCode_convert
+    print(cotypeCode)
+
+
 
 
 # ---------- Liepin ----------
